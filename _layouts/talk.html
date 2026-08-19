@@ -16,8 +16,13 @@ layout: default
   </div>
 </div>
 <article class="page page-body talk">
-  {% if page.youtube contains "v=" %}
+  {% assign vid = "" %}
+  {% if page.youtube contains "watch?v=" %}
   {% assign vid = page.youtube | split: "v=" | last | split: "&" | first %}
+  {% elsif page.youtube contains "youtu.be/" %}
+  {% assign vid = page.youtube | split: "youtu.be/" | last | split: "?" | first %}
+  {% endif %}
+  {% if vid != "" %}
   <div class="video-embed">
     <iframe src="https://www.youtube-nocookie.com/embed/{{ vid }}" title="{{ page.title }}" frameborder="0" allowfullscreen loading="lazy"></iframe>
   </div>
