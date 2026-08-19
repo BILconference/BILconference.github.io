@@ -4,7 +4,11 @@ description: >-
   BIL is an ad-hoc, participant-powered unconference — a wild mix of
   technologists, scientists, artists, and hackers sharing ideas to move
   the world forward. Archive of events, speakers, and talks from 2008 on.
-url: "https://bilconference.com"
+# Temporary Pages domain — switch back to https://bilconference.com when DNS lands
+url: "https://bilconference.github.io"
+
+plugins:
+  - jekyll-sitemap
 
 permalink: pretty
 

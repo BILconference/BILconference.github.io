@@ -1,0 +1,51 @@
+{% assign ptitle = page.title | default: site.title %}
+{% if page.url == "/" %}{% assign ptitle = site.title | append: " — " | append: site.tagline %}{% endif %}
+{% assign pdesc = page.excerpt | default: page.talk_description | default: site.description %}
+{% assign pdesc = pdesc | strip_html | normalize_whitespace | truncate: 200 %}
+{% assign vid = "" %}
+{% if page.youtube contains "watch?v=" %}{% assign vid = page.youtube | split: "v=" | last | split: "&" | first %}
+{% elsif page.youtube contains "youtu.be/" %}{% assign vid = page.youtube | split: "youtu.be/" | last | split: "?" | first %}{% endif %}
+{% assign pimg = page.logo | default: page.photo %}
+{% if pimg == nil and vid != "" %}{% capture pimg %}https://i.ytimg.com/vi/{{ vid }}/hqdefault.jpg{% endcapture %}{% endif %}
+{% if pimg == nil %}{% assign pimg = "/media/2014/06/BIL-fbshare.png" %}{% endif %}
+{% unless pimg contains "://" %}{% assign pimg = pimg | absolute_url %}{% endunless %}
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ ptitle | escape }}">
+<meta property="og:description" content="{{ pdesc | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
+<meta property="og:image" content="{{ pimg }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ ptitle | escape }}">
+<meta name="twitter:description" content="{{ pdesc | escape }}">
+<meta name="twitter:image" content="{{ pimg }}">
+{% if page.layout == "event" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": {{ page.title | jsonify }},
+  {% if page.start_date %}"startDate": {{ page.start_date | jsonify }},{% endif %}
+  {% if page.end_date %}"endDate": {{ page.end_date | jsonify }},{% endif %}
+  "eventStatus": "https://schema.org/EventScheduled",
+  {% if page.location %}"location": { "@type": "Place", "name": {{ page.location | jsonify }}{% if page.venue %}, "address": {{ page.venue | jsonify }}{% endif %} },{% endif %}
+  {% if page.logo %}"image": {{ page.logo | absolute_url | jsonify }},{% endif %}
+  "organizer": { "@type": "Organization", "name": "BIL Conference", "url": {{ site.url | jsonify }} },
+  "url": {{ page.url | absolute_url | jsonify }}
+}
+</script>
+{% elsif page.layout == "talk" and vid != "" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": {{ page.title | jsonify }},
+  "description": {{ pdesc | jsonify }},
+  "thumbnailUrl": "https://i.ytimg.com/vi/{{ vid }}/hqdefault.jpg",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/{{ vid }}",
+  "uploadDate": {{ page.date | date: "%Y-%m-%d" | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }}
+}
+</script>
+{% endif %}

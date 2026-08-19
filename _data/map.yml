@@ -1,0 +1,71 @@
+# Pins for the home-page world map. lat/lon are approximate city centers;
+# the include projects them onto the map image. Tunisian events cluster into
+# one pin — at world scale their cities overlap.
+- name: Vancouver, Canada
+  lat: 49.28
+  lon: -123.12
+  events: [bil-2014, bil-2015, bil-vancouver-2016, bil-vancouver-2017, bilvancouver-2018]
+- name: Monterey, California
+  lat: 36.60
+  lon: -121.89
+  events: [bil-2008]
+- name: San Francisco Bay Area
+  lat: 37.77
+  lon: -122.42
+  events: [bil-sf-2014, bil-san-francisco-2017, biloakland]
+- name: Los Angeles / Long Beach
+  lat: 33.90
+  lon: -118.20
+  events: [bil-2009, bil-2010, bil-2011, bil-2012, bil-2013, bil-flash-la-2015, bil-los-angeles-2015, bil-los-angeles-2016, bil-2018-los-angeles]
+- name: San Diego & Washington D.C.
+  lat: 32.72
+  lon: -117.16
+  events: [bil-pil-2009]
+- name: Fairhope, Alabama
+  lat: 30.52
+  lon: -87.90
+  events: [bil-fairhope]
+- name: Guanajuato, Mexico
+  lat: 21.02
+  lon: -101.26
+  events: [bil-guanajuato-2016]
+- name: Paris, France
+  lat: 48.86
+  lon: 2.35
+  events: [bil-paris]
+- name: Davos, Switzerland (online)
+  lat: 46.80
+  lon: 9.83
+  events: [bil-davos-2017]
+- name: Algiers, Algeria
+  lat: 36.75
+  lon: 3.06
+  events: [bil-casl]
+- name: Tunisia
+  lat: 35.50
+  lon: 9.50
+  events: [bil-tn-2012, bil-tn-2014, bil-lpbt, bil-act, bil-enit, bil-fmt, bil-fo, bil-fst, bil-fst2, bil-kamcha, bil-la-medina, bil-opengov, bilwomen-tunisia-2015, bil-women, bi-lltr, bil-sayada, bil-kef, bil-ezzouhour, bil-lp-gafsa, bil-isimm, bil-lp-kairouan, bil-mahdia, bil-bardo, bil-capbon, bil-marsa]
+- name: Kampala, Uganda
+  lat: 0.35
+  lon: 32.58
+  events: [biluganda]
+- name: Kabul, Afghanistan
+  lat: 34.53
+  lon: 69.17
+  events: [bil-afghanistan]
+- name: Delhi, India
+  lat: 28.61
+  lon: 77.21
+  events: [bildelhi-2018]
+- name: Chennai, India
+  lat: 13.08
+  lon: 80.27
+  events: [bil-chennai, bil-chennai-2017-the-smart-city-conference]
+- name: Salem, Tamil Nadu, India
+  lat: 11.66
+  lon: 78.15
+  events: [bilsalem-2017]
+- name: Cebu, Philippines
+  lat: 10.32
+  lon: 123.90
+  events: [bil-philippines-2017]

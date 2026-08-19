@@ -1,0 +1,44 @@
+---
+layout: page
+title: Videos
+permalink: /videos/
+---
+{% assign with_video = site.talks | where_exp: "t", "t.youtube" %}
+<p>{{ with_video.size }} recorded talks from BIL events around the world. Click any thumbnail to watch.</p>
+
+{% assign events_sorted = site.events | sort: "year" | reverse %}
+{% for e in events_sorted %}
+{% assign vids = with_video | where: "event", e.slug | sort: "title" %}
+{% if vids.size > 0 %}
+<h2 class="year-head"><a href="{{ e.url | relative_url }}">{{ e.title }}</a></h2>
+<div class="video-grid">
+  {% for t in vids %}
+  {% assign vid = "" %}
+  {% if t.youtube contains "watch?v=" %}{% assign vid = t.youtube | split: "v=" | last | split: "&" | first %}
+  {% elsif t.youtube contains "youtu.be/" %}{% assign vid = t.youtube | split: "youtu.be/" | last | split: "?" | first %}{% endif %}
+  <a class="video-card" href="{{ t.url | relative_url }}">
+    {% if vid != "" %}<img src="https://i.ytimg.com/vi/{{ vid }}/hqdefault.jpg" alt="" loading="lazy">{% endif %}
+    <span class="video-card-title">{{ t.title }}</span>
+    {% if t.speaker_name %}<small>{{ t.speaker_name }}</small>{% endif %}
+  </a>
+  {% endfor %}
+</div>
+{% endif %}
+{% endfor %}
+
+{% assign orphans = with_video | where_exp: "t", "t.event == nil" %}
+{% if orphans.size > 0 %}
+<h2 class="year-head">More talks</h2>
+<div class="video-grid">
+  {% for t in orphans %}
+  {% assign vid = "" %}
+  {% if t.youtube contains "watch?v=" %}{% assign vid = t.youtube | split: "v=" | last | split: "&" | first %}
+  {% elsif t.youtube contains "youtu.be/" %}{% assign vid = t.youtube | split: "youtu.be/" | last | split: "?" | first %}{% endif %}
+  <a class="video-card" href="{{ t.url | relative_url }}">
+    {% if vid != "" %}<img src="https://i.ytimg.com/vi/{{ vid }}/hqdefault.jpg" alt="" loading="lazy">{% endif %}
+    <span class="video-card-title">{{ t.title }}</span>
+    {% if t.speaker_name %}<small>{{ t.speaker_name }}</small>{% endif %}
+  </a>
+  {% endfor %}
+</div>
+{% endif %}

@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title and page.url != "/" %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }} — {{ site.tagline }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}">
+  {% include head-seo.html %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;700&family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
@@ -20,6 +21,7 @@
         <a href="{{ '/events/' | relative_url }}">Events</a>
         <a href="{{ '/speakers/' | relative_url }}">Speakers</a>
         <a href="{{ '/talks/' | relative_url }}">Talks</a>
+        <a href="{{ '/videos/' | relative_url }}">Videos</a>
         <a href="{{ '/press/' | relative_url }}">Press</a>
         <a href="{{ '/about/' | relative_url }}">About</a>
         <a href="{{ '/tenets/' | relative_url }}">Tenets</a>
