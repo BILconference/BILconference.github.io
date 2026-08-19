@@ -388,3 +388,18 @@ hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
   .hero-stats strong { font-size: 2rem; }
   .module-map { background-size: cover; }
 }
+
+/* ── Flags (sprite offsets in flags.css, from the original theme) ── */
+.f32 { display: inline-block; vertical-align: middle; }
+.f32 .flag { border-radius: 3px; }
+
+/* ── Footer CC badge ── */
+.footer-cols {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+.cc-badge img { width: 120px; opacity: 0.85; }
+.cc-badge:hover img { opacity: 1; }

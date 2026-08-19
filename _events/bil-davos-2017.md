@@ -28,15 +28,33 @@ sections:
   info: Please use the form below to reserve your time. We'll be in touch soon to
     help you get setup.
 - subject: Topics & Themes
-  info: '- Shaping the Future of Consumption - Shaping the Future of Digital Economy
-    and Society - Shaping the Future of Economic Growth and Social Inclusion - Shaping
-    the Future of Education, Gender and Work - Shaping the Future of Energy - Shaping
-    the Future of Environment and Natural Resource Security - Shaping the Future of
-    Financial and Monetary Systems - Shaping the Future of Food Security and Agriculture
-    - Shaping the Future of Health and Healthcare - Shaping the Future of Information
-    and Entertainment - Shaping the Future of International Trade and Investment -
-    Shaping the Future of Long-Term Investing, Infrastructure and Development - Shaping
-    the Future of Mobility - Shaping the Future of Production'
+  info: '- Shaping the Future of Consumption
+
+    - Shaping the Future of Digital Economy and Society
+
+    - Shaping the Future of Economic Growth and Social Inclusion
+
+    - Shaping the Future of Education, Gender and Work
+
+    - Shaping the Future of Energy
+
+    - Shaping the Future of Environment and Natural Resource Security
+
+    - Shaping the Future of Financial and Monetary Systems
+
+    - Shaping the Future of Food Security and Agriculture
+
+    - Shaping the Future of Health and Healthcare
+
+    - Shaping the Future of Information and Entertainment
+
+    - Shaping the Future of International Trade and Investment
+
+    - Shaping the Future of Long-Term Investing, Infrastructure and Development
+
+    - Shaping the Future of Mobility
+
+    - Shaping the Future of Production'
 - subject: BIL Global Info
 ---
 

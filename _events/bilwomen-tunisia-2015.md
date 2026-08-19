@@ -10,7 +10,7 @@ end_date: '2015-12-13'
 year: 2015
 country: TN
 location: Tunis, Tunisia
-venue: '**French Cultural Institute** Ave Paris'
+venue: French Cultural Institute Ave Paris
 contact: nesrine.bsedrine@gmail.com
 facebook: https://www.facebook.com/BILTunisia/?fref=ts
 facebook_event: https://www.facebook.com/events/883053095141167/

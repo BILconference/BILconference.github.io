@@ -18,7 +18,7 @@ layout: default
   {% if page.talk_description %}
   <section class="event-section">
     <h2>The talk</h2>
-    <p>{{ page.talk_description }}</p>
+    {{ page.talk_description | markdownify }}
   </section>
   {% endif %}
   <p class="backlink"><a href="{{ '/2015/speakers/' | relative_url }}">&larr; BIL 2015 speakers</a></p>

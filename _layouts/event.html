@@ -7,6 +7,7 @@ layout: default
     <div>
       <h1>{{ page.title }}</h1>
       <p class="event-meta">
+        {% if page.country %}<span class="f32"><span class="flag {{ page.country | downcase }}" title="{{ page.country }}"></span></span> {% endif %}
         {% if page.start_date %}{{ page.start_date | date: "%B %-d, %Y" }}{% if page.end_date and page.end_date != page.start_date %} – {{ page.end_date | date: "%B %-d, %Y" }}{% endif %}{% endif %}
         {% if page.location %} · {{ page.location }}{% endif %}
       </p>
