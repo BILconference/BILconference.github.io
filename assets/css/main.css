@@ -130,10 +130,10 @@ main.wrap { padding: 2.5rem 1.25rem 3rem; }
 
 /* ── Map band: white dotted world map on BIL blue ── */
 .module-map {
-  background: var(--blue);
+  background: url("../img/world_map.png") 50% 50% / contain no-repeat var(--blue);
   color: #fff;
   text-align: center;
-  padding: 4.5rem 1.25rem;
+  padding: 5.5rem 1.25rem;
 }
 .module-map h2 {
   color: #fff;
@@ -451,66 +451,6 @@ hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 }
 .yt-lite:hover .yt-lite-play { background: var(--navy); }
 li .yt-lite { margin: 0.5rem 0 1rem; }
-
-/* ── Interactive world map ── */
-.map-wrap {
-  position: relative;
-  max-width: 820px;
-  margin: 0 auto 2rem;
-}
-.map-img { display: block; width: 100%; opacity: 0.95; }
-.map-pin {
-  position: absolute;
-  transform: translate(-50%, -50%);
-  cursor: pointer;
-}
-.map-dot {
-  display: block;
-  width: 14px; height: 14px;
-  background: #fff;
-  border: 3px solid var(--navy);
-  border-radius: 50%;
-  box-shadow: 0 0 0 3px rgba(255,255,255,0.35);
-  transition: transform 0.15s;
-}
-.map-dot[data-count]::after {
-  content: attr(data-count);
-  position: absolute;
-  top: -11px; left: 11px;
-  background: var(--navy);
-  color: #fff;
-  font-size: 0.68rem;
-  font-weight: 700;
-  line-height: 1;
-  padding: 0.15rem 0.35rem;
-  border-radius: 999px;
-}
-.map-pin:hover .map-dot, .map-pin:focus .map-dot { transform: scale(1.35); }
-.map-pop {
-  display: none;
-  position: absolute;
-  bottom: 22px; left: 50%;
-  transform: translateX(-50%);
-  background: #fff;
-  color: var(--ink);
-  text-align: left;
-  border-radius: 6px;
-  box-shadow: 0 6px 24px rgba(0,0,0,0.25);
-  padding: 0.6rem 0.9rem;
-  min-width: 190px;
-  max-width: 260px;
-  z-index: 5;
-}
-.map-pin:hover .map-pop, .map-pin:focus-within .map-pop, .map-pin:focus .map-pop { display: block; }
-.map-pop strong { font-family: "Hind", sans-serif; display: block; margin-bottom: 0.2rem; }
-.map-pop ul {
-  list-style: none;
-  margin: 0; padding: 0;
-  max-height: 180px;
-  overflow-y: auto;
-  font-size: 0.85rem;
-}
-.map-pop li { padding: 0.1rem 0; }
 
 /* ── Video hub ── */
 .video-grid {
