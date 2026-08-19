@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
-<article class="page">
+<div class="page-hero">
+  <div class="inner">
+    <div><h1>{{ page.title }}</h1></div>
+  </div>
+</div>
+<article class="page page-body">
   <p class="archive-banner">Archived from <strong>2015.bilconference.com</strong> — BIL 2015, Vancouver · <a href="{{ '/2015/' | relative_url }}">2015 site</a></p>
-  <h1>{{ page.title }}</h1>
   {{ content }}
   <p class="backlink"><a href="{{ '/2015/' | relative_url }}">&larr; BIL 2015 archive</a></p>
 </article>

@@ -1,23 +1,20 @@
 ---
-layout: default
+layout: page
 title: Events
 permalink: /events/
 ---
-<article class="page">
-  <h1>Events</h1>
-  <p>From the Monterey original in 2008 to Long Beach, Vancouver, LA, Paris, Davos, and a remarkable wave of BIL events across Tunisia — {{ site.events.size }} gatherings on five continents.</p>
-  {% assign by_year = site.events | group_by: "year" | sort: "name" | reverse %}
-  {% for group in by_year %}
-  <h2 class="year-head">{{ group.name }}</h2>
-  <div class="card-grid">
-    {% assign evs = group.items | sort: "start_date" %}
-    {% for e in evs %}
-    <a class="card card-link" href="{{ e.url | relative_url }}">
-      {% if e.logo %}<img class="card-logo" src="{{ e.logo | relative_url }}" alt="" loading="lazy">{% endif %}
-      <h4>{{ e.title }}</h4>
-      <p>{% if e.location %}{{ e.location }}{% endif %}{% if e.start_date %} · {{ e.start_date | date: "%b %Y" }}{% endif %}</p>
-    </a>
-    {% endfor %}
-  </div>
+<p>From the Monterey original in 2008 to Long Beach, Vancouver, LA, Paris, Davos, and a remarkable wave of BIL events across Tunisia — {{ site.events.size }} gatherings on five continents.</p>
+{% assign by_year = site.events | group_by: "year" | sort: "name" | reverse %}
+{% for group in by_year %}
+<h2 class="year-head">{{ group.name }}</h2>
+<div class="card-grid">
+  {% assign evs = group.items | sort: "start_date" %}
+  {% for e in evs %}
+  <a class="card card-link" href="{{ e.url | relative_url }}">
+    {% if e.logo %}<img class="card-logo" src="{{ e.logo | relative_url }}" alt="" loading="lazy">{% endif %}
+    <h4>{{ e.title }}</h4>
+    <p>{% if e.location %}{{ e.location }}{% endif %}{% if e.start_date %} · {{ e.start_date | date: "%b %Y" }}{% endif %}</p>
+  </a>
   {% endfor %}
-</article>
+</div>
+{% endfor %}

@@ -1,18 +1,15 @@
 ---
-layout: default
+layout: page
 title: BIL 2015 Vancouver
 permalink: /2015/
 ---
-<article class="page">
-  <p class="archive-banner">Archived site — <strong>2015.bilconference.com</strong></p>
-  <h1>BIL 2015 — Vancouver</h1>
-  <p>Open to the public and fully participant driven, our yearly gathering features a wild mix of technologists, scientists, artists, hackers, and those with a passion for community awareness, social entrepreneurship, and innovation. This is the event's own site, preserved as it stood — including its <a href="{{ '/2015/speakers/' | relative_url }}">{{ site.speakers_2015.size }} speakers</a>. See also the <a href="{{ '/events/bil-2015/' | relative_url }}">main event page</a>.</p>
-  <ul>
-    {% assign pages = site.pages | sort: "title" %}
-    {% for p in pages %}
-    {% if p.url contains "/2015/" and p.url != "/2015/" and p.url != "/2015/speakers/" %}
-    <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-    {% endif %}
-    {% endfor %}
-  </ul>
-</article>
+<p class="archive-banner">Archived site — <strong>2015.bilconference.com</strong></p>
+<p>Open to the public and fully participant driven, our yearly gathering features a wild mix of technologists, scientists, artists, hackers, and those with a passion for community awareness, social entrepreneurship, and innovation. This is the event's own site, preserved as it stood — including its <a href="{{ '/2015/speakers/' | relative_url }}">{{ site.speakers_2015.size }} speakers</a>. See also the <a href="{{ '/events/bil-2015/' | relative_url }}">main event page</a>.</p>
+<ul>
+  {% assign pages = site.pages | sort: "title" %}
+  {% for p in pages %}
+  {% if p.url contains "/2015/" and p.url != "/2015/" and p.url != "/2015/speakers/" %}
+  <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+  {% endif %}
+  {% endfor %}
+</ul>

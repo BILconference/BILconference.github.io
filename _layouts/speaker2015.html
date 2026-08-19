@@ -1,15 +1,18 @@
 ---
 layout: default
 ---
-<article class="page profile">
-  <p class="archive-banner">Archived from <strong>2015.bilconference.com</strong> — BIL 2015, Vancouver · <a href="{{ '/2015/' | relative_url }}">2015 site</a></p>
-  <header class="profile-header">
-    {% if page.photo %}<img class="profile-photo" src="{{ page.photo | relative_url }}" alt="{{ page.title }}">{% endif %}
+<div class="page-hero">
+  <div class="inner">
+    <img class="profile-photo" src="{{ page.photo | default: '/assets/img/blank-person.png' | relative_url }}" alt="{{ page.title }}">
     <div>
       <h1>{{ page.title }}</h1>
       {% if page.talk_title %}<p class="profile-role">“{{ page.talk_title }}”</p>{% endif %}
+      <p class="profile-note">BIL 2015 · Vancouver</p>
     </div>
-  </header>
+  </div>
+</div>
+<article class="page page-body profile">
+  <p class="archive-banner">Archived from <strong>2015.bilconference.com</strong> · <a href="{{ '/2015/' | relative_url }}">2015 site</a></p>
   {% assign body = content | strip %}
   {% if body != "" %}{{ content }}{% endif %}
   {% if page.talk_description %}

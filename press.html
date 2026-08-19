@@ -1,17 +1,14 @@
 ---
-layout: default
+layout: page
 title: Press
 permalink: /press/
 ---
-<article class="page">
-  <h1>Press</h1>
-  <ul>
-    {% assign items = site.press | sort: "publisher" %}
-    {% for p in items %}
-    <li>
-      <a href="{{ p.link }}">{{ p.title }}</a>
-      — {{ p.publisher }}{% if p.event %}, on <a href="{{ '/events/' | append: p.event | append: '/' | relative_url }}">{{ p.event_name }}</a>{% endif %}
-    </li>
-    {% endfor %}
-  </ul>
-</article>
+<ul>
+  {% assign items = site.press | sort: "publisher" %}
+  {% for p in items %}
+  <li>
+    <a href="{{ p.link }}">{{ p.title }}</a>
+    — {{ p.publisher }}{% if p.event %}, on <a href="{{ '/events/' | append: p.event | append: '/' | relative_url }}">{{ p.event_name }}</a>{% endif %}
+  </li>
+  {% endfor %}
+</ul>

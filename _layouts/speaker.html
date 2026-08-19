@@ -1,16 +1,17 @@
 ---
 layout: default
 ---
-<article class="page profile">
-  <header class="profile-header">
-    {% if page.photo %}<img class="profile-photo" src="{{ page.photo | relative_url }}" alt="{{ page.title }}">{% endif %}
+<div class="page-hero">
+  <div class="inner">
+    <img class="profile-photo" src="{{ page.photo | default: '/assets/img/blank-person.png' | relative_url }}" alt="{{ page.title }}">
     <div>
       <h1>{{ page.title }}</h1>
       {% if page.association and page.association != "Speaker" %}<p class="profile-role">{{ page.association }}</p>{% endif %}
       {% if page.excerpt %}<p class="profile-note">{{ page.excerpt }}</p>{% endif %}
     </div>
-  </header>
-
+  </div>
+</div>
+<article class="page page-body profile">
   {% assign body = content | strip %}
   {% if body != "" %}{{ content }}{% endif %}
 

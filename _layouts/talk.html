@@ -1,16 +1,21 @@
 ---
 layout: default
 ---
-<article class="page talk">
-  <h1>{{ page.title }}</h1>
-  <p class="event-meta">
-    {% if page.speaker %}<a href="{{ '/speakers/' | append: page.speaker | append: '/' | relative_url }}">{{ page.speaker_name }}</a>{% elsif page.speaker_name %}{{ page.speaker_name }}{% endif %}
-    {% if page.event %} · <a href="{{ '/events/' | append: page.event | append: '/' | relative_url }}">{{ page.event_name }}</a>{% elsif page.event_name %} · {{ page.event_name }}{% endif %}
-  </p>
-  {% if page.subjects %}
-  <p class="tag-row">{% for s in page.subjects %}<span class="tag">{{ s }}</span>{% endfor %}</p>
-  {% endif %}
-
+<div class="page-hero">
+  <div class="inner">
+    <div>
+      <h1>{{ page.title }}</h1>
+      <p class="event-meta">
+        {% if page.speaker %}<a href="{{ '/speakers/' | append: page.speaker | append: '/' | relative_url }}">{{ page.speaker_name }}</a>{% elsif page.speaker_name %}{{ page.speaker_name }}{% endif %}
+        {% if page.event %} · <a href="{{ '/events/' | append: page.event | append: '/' | relative_url }}">{{ page.event_name }}</a>{% elsif page.event_name %} · {{ page.event_name }}{% endif %}
+      </p>
+      {% if page.subjects %}
+      <p class="tag-row">{% for s in page.subjects %}<span class="tag">{{ s }}</span>{% endfor %}</p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+<article class="page page-body talk">
   {% if page.youtube contains "v=" %}
   {% assign vid = page.youtube | split: "v=" | last | split: "&" | first %}
   <div class="video-embed">
