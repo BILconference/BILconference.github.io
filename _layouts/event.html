@@ -1,0 +1,91 @@
+---
+layout: default
+---
+<article class="page event">
+  <header class="event-header">
+    {% if page.logo %}<img class="event-logo" src="{{ page.logo | relative_url }}" alt="{{ page.title }}">{% endif %}
+    <div>
+      <h1>{{ page.title }}</h1>
+      <p class="event-meta">
+        {% if page.start_date %}{{ page.start_date | date: "%B %-d, %Y" }}{% if page.end_date and page.end_date != page.start_date %} – {{ page.end_date | date: "%B %-d, %Y" }}{% endif %}{% endif %}
+        {% if page.location %} · {{ page.location }}{% endif %}
+      </p>
+      {% if page.venue %}<p class="event-venue">{{ page.venue }}</p>{% endif %}
+      <p class="event-links">
+        {% if page.facebook %}<a href="{{ page.facebook }}">Facebook</a>{% endif %}
+        {% if page.twitter %}<a href="{{ page.twitter }}">Twitter</a>{% endif %}
+        {% if page.archive_url %}<a href="{{ page.archive_url | relative_url }}">Archived event site &rarr;</a>{% endif %}
+      </p>
+    </div>
+  </header>
+
+  {{ content }}
+
+  {% for section in page.sections %}
+  <section class="event-section">
+    {% if section.subject %}<h2>{{ section.subject }}</h2>{% endif %}
+    {% if section.info %}{{ section.info | markdownify }}{% endif %}
+  </section>
+  {% endfor %}
+
+  {% assign talks = site.talks | where: "event", page.slug | sort: "title" %}
+  {% if talks.size > 0 %}
+  <section class="event-section">
+    <h2>Talks</h2>
+    <ul class="talk-list">
+      {% for t in talks %}
+      <li>
+        <a href="{{ t.url | relative_url }}">{{ t.title }}</a>
+        {% if t.speaker_name %}<span class="talk-speaker">— {{ t.speaker_name }}</span>{% endif %}
+        {% if t.youtube %}<span class="badge">▶ video</span>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.organizers.size > 0 %}
+  <section class="event-section">
+    <h2>Organizers</h2>
+    <ul class="organizer-list">
+      {% for o in page.organizers %}
+      {% assign org = site.organizers | where: "slug", o.slug | first %}
+      <li>
+        {% if org.photo %}<img src="{{ org.photo | relative_url }}" alt="{{ o.name }}">{% endif %}
+        <span>{{ o.name }}{% if o.duties %} <small>{{ o.duties }}</small>{% endif %}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.sponsors.size > 0 %}
+  <section class="event-section">
+    <h2>Sponsors</h2>
+    <div class="sponsor-grid">
+      {% for s in page.sponsors %}
+      {% assign sp = site.sponsors | where: "slug", s | first %}
+      {% if sp %}
+        {% if sp.link %}<a class="sponsor" href="{{ sp.link }}" title="{{ sp.title }}">{% else %}<span class="sponsor" title="{{ sp.title }}">{% endif %}
+        {% if sp.logo %}<img src="{{ sp.logo | relative_url }}" alt="{{ sp.title }}">{% else %}{{ sp.title }}{% endif %}
+        {% if sp.link %}</a>{% else %}</span>{% endif %}
+      {% else %}<span class="sponsor sponsor-name">{{ s | replace: "-", " " | capitalize }}</span>{% endif %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if page.press.size > 0 %}
+  <section class="event-section">
+    <h2>Press</h2>
+    <ul>
+      {% for p in page.press %}
+      {% assign pr = site.press | where: "slug", p | first %}
+      {% if pr %}<li><a href="{{ pr.link }}">{{ pr.title }}</a>{% if pr.publisher %} — {{ pr.publisher }}{% endif %}</li>{% endif %}
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  <p class="backlink"><a href="{{ '/events/' | relative_url }}">&larr; All events</a></p>
+</article>

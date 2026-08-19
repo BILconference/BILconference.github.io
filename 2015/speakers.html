@@ -1,0 +1,19 @@
+---
+layout: default
+title: BIL 2015 Speakers
+permalink: /2015/speakers/
+---
+<article class="page">
+  <p class="archive-banner">Archived site — <strong>2015.bilconference.com</strong></p>
+  <h1>BIL 2015 Speakers</h1>
+  <div class="people-grid">
+    {% assign speakers = site.speakers_2015 | sort: "title" %}
+    {% for s in speakers %}
+    <a class="person" href="{{ s.url | relative_url }}">
+      {% if s.photo %}<img src="{{ s.photo | relative_url }}" alt="{{ s.title }}" loading="lazy">{% else %}<span class="person-initial">{{ s.title | slice: 0 }}</span>{% endif %}
+      <span>{{ s.title }}</span>
+      {% if s.talk_title %}<small>{{ s.talk_title | truncate: 60 }}</small>{% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</article>

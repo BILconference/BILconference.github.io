@@ -1,0 +1,18 @@
+---
+layout: default
+title: BIL 2014 Vancouver
+permalink: /2014/
+---
+<article class="page">
+  <p class="archive-banner">Archived site — <strong>2014.bilconference.com</strong></p>
+  <h1>BIL 2014 — Vancouver</h1>
+  <p>March 22–23, 2014 at the 560 Event Space, Vancouver. This is the event's own site, preserved as it stood. See also the <a href="{{ '/events/bil-2014/' | relative_url }}">main event page</a>.</p>
+  <ul>
+    {% assign pages = site.pages | sort: "date" %}
+    {% for p in pages %}
+    {% if p.url contains "/2014/" and p.url != "/2014/" %}
+    <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.date %} <small>({{ p.date | date: "%b %-d, %Y" }})</small>{% endif %}</li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</article>

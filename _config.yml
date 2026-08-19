@@ -1,0 +1,61 @@
+title: BIL Conference
+tagline: The unconference for people changing the world in big ways
+description: >-
+  BIL is an ad-hoc, participant-powered unconference — a wild mix of
+  technologists, scientists, artists, and hackers sharing ideas to move
+  the world forward. Archive of events, speakers, and talks from 2008 on.
+url: "https://bilconference.com"
+
+permalink: pretty
+
+collections:
+  events:
+    output: true
+    permalink: /events/:name/
+  speakers:
+    output: true
+    permalink: /speakers/:name/
+  talks:
+    output: true
+    permalink: /talks/:name/
+  speakers_2015:
+    output: true
+    permalink: /2015/speakers/:name/
+  organizers:
+    output: false
+  sponsors:
+    output: false
+  press:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: event
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers_2015
+    values:
+      layout: speaker2015
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

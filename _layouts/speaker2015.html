@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="page profile">
+  <p class="archive-banner">Archived from <strong>2015.bilconference.com</strong> — BIL 2015, Vancouver · <a href="{{ '/2015/' | relative_url }}">2015 site</a></p>
+  <header class="profile-header">
+    {% if page.photo %}<img class="profile-photo" src="{{ page.photo | relative_url }}" alt="{{ page.title }}">{% endif %}
+    <div>
+      <h1>{{ page.title }}</h1>
+      {% if page.talk_title %}<p class="profile-role">“{{ page.talk_title }}”</p>{% endif %}
+    </div>
+  </header>
+  {% assign body = content | strip %}
+  {% if body != "" %}{{ content }}{% endif %}
+  {% if page.talk_description %}
+  <section class="event-section">
+    <h2>The talk</h2>
+    <p>{{ page.talk_description }}</p>
+  </section>
+  {% endif %}
+  <p class="backlink"><a href="{{ '/2015/speakers/' | relative_url }}">&larr; BIL 2015 speakers</a></p>
+</article>
