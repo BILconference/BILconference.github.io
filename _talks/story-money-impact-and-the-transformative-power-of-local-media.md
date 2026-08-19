@@ -6,7 +6,7 @@ wordpress_id: 1448
 original_url: http://bilconference.com/story-money-impact-and-the-transformative-power-of-local-media/
 event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
-speaker: tracey-friesen-2
+speaker: tracey-friesen
 speaker_name: Tracey Friesen
 youtube: https://youtu.be/8VjMw56Gjp4
 ---

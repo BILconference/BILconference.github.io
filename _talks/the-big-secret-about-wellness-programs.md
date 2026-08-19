@@ -6,7 +6,7 @@ wordpress_id: 1613
 original_url: http://bilconference.com/the-big-secret-about-wellness-programs/
 event: bil-davos-2017
 event_name: BIL:Davos 2017
-speaker: melanie-weinberger-2
+speaker: melanie-weinberger
 speaker_name: Melanie Weinberger
 youtube: https://www.youtube.com/watch?v=DIYfOXnHzWw
 start_time: '2017-01-20 05:00:00'
