@@ -60,6 +60,17 @@ defaults:
 
 exclude:
   - README.md
+  - "_events/README.md"
+  - "_speakers/README.md"
+  - "_speakers_2015/README.md"
+  - "_talks/README.md"
+  - "_organizers/README.md"
+  - "_sponsors/README.md"
+  - "_press/README.md"
+  - "assets/README.md"
+  - "media/README.md"
+  - "2014/README.md"
+  - "2015/README.md"
   - Gemfile
   - Gemfile.lock
   - vendor
