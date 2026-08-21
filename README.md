@@ -45,7 +45,6 @@ bundle exec jekyll serve
 
 ## Deploy
 
-Push to `main`; GitHub Pages builds automatically. The site currently
-serves at bilconference.github.io; restore the `CNAME` file (containing
-`bilconference.com`) and switch `url:` in `_config.yml` when the domain's
-DNS points at GitHub Pages.
+Push to `main`; GitHub Pages builds automatically. The site serves at
+https://bilconference.com via the `CNAME` file, with `url:` in
+`_config.yml` matching.
