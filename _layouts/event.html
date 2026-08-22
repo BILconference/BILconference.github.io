@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="page-hero">
   <div class="inner">
-    {% if page.logo %}<img class="event-logo" src="{{ page.logo | relative_url }}" alt="{{ page.title }}">{% endif %}
+    {% if page.logo %}<img class="event-logo" src="{{ page.logo | replace: '/media/', '/media/thumbs/' | relative_url }}" alt="{{ page.title }}">{% endif %}
     <div>
       <h1>{{ page.title }}</h1>
       <p class="event-meta">
@@ -53,7 +53,7 @@ layout: default
       {% for o in page.organizers %}
       {% assign org = site.organizers | where: "slug", o.slug | first %}
       <li>
-        {% if org.photo %}<img src="{{ org.photo | relative_url }}" alt="{{ o.name }}">{% endif %}
+        {% if org.photo %}<img src="{{ org.photo | replace: '/media/', '/media/thumbs/' | relative_url }}" alt="{{ o.name }}" loading="lazy">{% endif %}
         <span>{{ o.name }}{% if o.duties %} <small>{{ o.duties }}</small>{% endif %}</span>
       </li>
       {% endfor %}
@@ -69,7 +69,7 @@ layout: default
       {% assign sp = site.sponsors | where: "slug", s | first %}
       {% if sp %}
         {% if sp.link %}<a class="sponsor" href="{{ sp.link }}" title="{{ sp.title }}">{% else %}<span class="sponsor" title="{{ sp.title }}">{% endif %}
-        {% if sp.logo %}<img src="{{ sp.logo | relative_url }}" alt="{{ sp.title }}">{% else %}{{ sp.title }}{% endif %}
+        {% if sp.logo %}<img src="{{ sp.logo | replace: '/media/', '/media/thumbs/' | relative_url }}" alt="{{ sp.title }}" loading="lazy">{% else %}{{ sp.title }}{% endif %}
         {% if sp.link %}</a>{% else %}</span>{% endif %}
       {% else %}<span class="sponsor sponsor-name">{{ s | replace: "-", " " | capitalize }}</span>{% endif %}
       {% endfor %}

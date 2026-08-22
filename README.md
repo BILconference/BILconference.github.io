@@ -40,8 +40,15 @@ gets an embedded player. See each folder's README for the fields.
 
 ```sh
 bundle install
-bundle exec jekyll serve
+RUBYOPT="-r./scripts/ruby34-compat.rb" bundle exec jekyll serve
 ```
+
+The `RUBYOPT` shim is only needed on Ruby >= 3.2 (see
+`scripts/ruby34-compat.rb`); GitHub Pages builds without it.
+
+After adding or changing images, run `scripts/optimize-media.sh` — it caps
+originals at 1600px and generates the `media/thumbs/` variants the
+templates use for grids (see `media/README.md`).
 
 ## Deploy
 

@@ -5,7 +5,7 @@ date: '2015-08-05 22:18:33'
 wordpress_id: 836
 original_url: http://bilconference.com/gayle-karen-young-2/
 association: Speaker
-photo: /media/2015/08/GAYLE-KAREN-YOUNG.png
+photo: /media/2015/08/GAYLE-KAREN-YOUNG.jpg
 ---
 
 Gayle Karen Young is a culture-builder and a catalyst for human and organizational development. She comes from a rich organizational consulting background with both corporate and nonprofit clients. She was in process of becoming a monk when she became an executive instead, taking on the role of Chief Culture and Talent Officer at the Wikimedia Foundation (Wikipedia and its sister free-knowledge projects) until early 2015, when she decided to return to private practice as a rogue provocateur. Born in the Philippines to Chinese parents and raised in the United States, she has a multicultural perspective, an adventurous spirit, and a deep commitment to expanding human freedom.

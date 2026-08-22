@@ -962,7 +962,7 @@ sections:
     of a Teenage Jesus Jerk. He has a Cinema Degree, Equine Science Degree, Law Degree,
     Pilots License and teaches Meditation and Yoga certified from Loyola University.
     He has directed and produced music videos, commercials and live stage events and
-    is a Professional Dodgeballer (no...really). --- ![Belle Phénomène](/media/2016/02/Belle-Phénomène.jpg)  **Sexual
+    is a Professional Dodgeballer (no...really). --- ![Belle Phénomène](/media/2016/02/belle-phenomene.jpg)  **Sexual
     objectification of the female nipple Belle Phénomène TALK**: A performance art
     piece inspired by the "Free the Nipple" movement, which stands against "female
     oppression and censorship in the US, and across the globe". This piece not only
@@ -1680,7 +1680,7 @@ sections:
     the best and rescue them from obscurity. Game Box Monthly is unique in that it
     guarantees it won’t send you a game you already have and offers the option of
     customizing your subscription towards the kind of games you like. --- [![Mystic
-    Pete](/media/2015/12/Mystic-Pete.png)](/media/2015/12/Mystic-Pete.png) Sound Bath
+    Pete](/media/2015/12/Mystic-Pete.jpg)](/media/2015/12/Mystic-Pete.jpg) Sound Bath
     With Sonorous Cello and Otherworldly Chanting, by Mystic Pete *Performing Saturday,
     April 2nd, at 12:00PM* A beautiful sonic journey will take participants into states
     of deep relaxation and meditation. Quiet is requested of those attending this

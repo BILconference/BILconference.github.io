@@ -5,7 +5,7 @@ date: '2015-08-05 22:35:57'
 wordpress_id: 840
 original_url: http://bilconference.com/marshall-r-millett/
 association: Founder, Aemass
-photo: /media/2015/08/MARSHALL-MILLETT.png
+photo: /media/2015/08/MARSHALL-MILLETT.jpg
 ---
 
 Marshall R. Millett, founder of Aemass, is a professional culturalist, archaeologist, mathematician, musician, GIS enthusiast and spatial technology expert and since 2009 has aggressively explored and implemented 3D documentation and virtualization solutions.  Focusing on computer vision innovation, data-recording techniques, remote access through digitization of full-scale environments, cultural heritage preservation and long-term storage solutions; Marshall's goal is to capture the world vividly and with absolute fidelity.
