@@ -5,6 +5,7 @@ permalink: /videos/
 ---
 {% assign with_video = site.talks | where_exp: "t", "t.youtube" %}
 <p>{{ with_video.size }} recorded talks from BIL events around the world. Click any thumbnail to watch.</p>
+<div class="filter-bar" data-filter-items=".video-card" data-filter-groups=".video-grid" data-filter-placeholder="Filter videos by title or speaker"></div>
 
 {% assign events_sorted = site.events | sort: "year" | reverse %}
 {% for e in events_sorted %}

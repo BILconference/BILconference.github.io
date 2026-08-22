@@ -4,6 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 <p>{{ site.talks.size }} talks — many with video.</p>
+<div class="filter-bar" data-filter-items=".talk-list li" data-filter-groups=".talk-list" data-filter-placeholder="Filter talks by title or speaker"></div>
 {% assign by_event = site.talks | group_by: "event_name" %}
 {% for group in by_event %}
 <h2 class="year-head">{% if group.name != "" %}{{ group.name }}{% else %}Other talks{% endif %}</h2>
