@@ -433,6 +433,14 @@ hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 }
 .site-footer p { margin: 0.3rem 0; font-weight: 300; }
 .site-footer strong { font-family: "Hind", sans-serif; color: var(--blue-light); }
+.bil-backronym {
+  font-family: "Hind", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  color: var(--blue-light);
+  font-size: 0.9rem;
+  cursor: default;
+}
 .site-footer a { color: var(--blue-light); }
 .archive-note { font-size: 0.8rem; opacity: 0.8; }
 .footer-nav {
@@ -440,6 +448,18 @@ hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
   flex-direction: column;
   gap: 0.35rem;
   font-size: 0.9rem;
+}
+/* brains illustration from the original WordPress theme */
+.footer-brains {
+  height: 120px;
+  width: auto;
+  opacity: 0.9;
+  flex-shrink: 0;
+}
+/* let the text column shrink so nav and badge stay on the row */
+.footer-cols > div {
+  flex: 1;
+  min-width: 240px;
 }
 
 @media (max-width: 600px) {

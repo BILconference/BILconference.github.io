@@ -39,8 +39,10 @@
 
   <footer class="site-footer">
     <div class="wrap footer-cols">
+      <img class="footer-brains" src="{{ '/assets/img/bil-brains-white.png' | relative_url }}" alt="" loading="lazy">
       <div>
         <p><strong>BIL</strong> — the unconference for people changing the world in big ways.</p>
+        <p class="bil-backronym" title="What does BIL stand for? You decide.">B______. I______. L________.</p>
         <p class="archive-note">Site restored from the original bilconference.com. Events span 2008–2018 across five continents.</p>
         <p class="archive-note">2007–{{ site.time | date: "%Y" }} BIL Conference</p>
       </div>
@@ -58,6 +60,18 @@
   </footer>
 
   <script>
+    (function () {
+      var words = {
+        b: {{ site.data.bil_words.b | jsonify }},
+        i: {{ site.data.bil_words.i | jsonify }},
+        l: {{ site.data.bil_words.l | jsonify }}
+      };
+      var el = document.querySelector(".bil-backronym");
+      if (!el) return;
+      function pick(list) { return list[Math.floor(Math.random() * list.length)]; }
+      el.textContent = pick(words.b) + ". " + pick(words.i) + ". " + pick(words.l) + ".";
+    })();
+
     (function () {
       var header = document.querySelector(".site-header");
       var toggle = header.querySelector(".nav-toggle");
