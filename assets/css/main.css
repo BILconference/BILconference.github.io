@@ -77,6 +77,35 @@ img { max-width: 100%; height: auto; }
   background: var(--navy);
   color: #fff;
 }
+.nav-toggle { display: none; }
+
+@media (max-width: 740px) {
+  .nav-toggle {
+    display: block;
+    margin-left: auto;
+    background: none;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 4px;
+    color: #fff;
+    font-family: "Hind", sans-serif;
+    font-weight: 700;
+    font-size: 0.98rem;
+    padding: 0.45rem 0.8rem;
+    cursor: pointer;
+  }
+  .nav-toggle[hidden] { display: none; }
+  /* With JS active the nav collapses behind the toggle; without JS it
+     keeps its default wrapping behavior. */
+  .js-nav .site-nav { display: none; }
+  .js-nav.nav-open .site-nav {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    gap: 0.1rem;
+    padding: 0.3rem 0 0.4rem;
+  }
+  .js-nav.nav-open .site-nav a { padding: 0.55rem 0.8rem; }
+}
 
 main { min-height: 50vh; }
 main > .page, main > section { }

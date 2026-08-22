@@ -16,8 +16,9 @@
 <body>
   <header class="site-header">
     <div class="wrap">
-      <a class="site-title" href="{{ '/' | relative_url }}"><img src="{{ '/media/2015/07/bil-white-500.png' | relative_url }}" alt="BIL" class="site-logo"></a>
-      <nav class="site-nav">
+      <a class="site-title" href="{{ '/' | relative_url }}"><img src="{{ '/media/2015/07/bil-white-500.png' | relative_url }}" alt="BIL home" class="site-logo"></a>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav" hidden>☰ Menu</button>
+      <nav class="site-nav" id="site-nav" aria-label="Main">
         <a href="{{ '/events/' | relative_url }}">Events</a>
         <a href="{{ '/speakers/' | relative_url }}">Speakers</a>
         <a href="{{ '/talks/' | relative_url }}">Talks</a>
@@ -46,5 +47,18 @@
       </a>
     </div>
   </footer>
+
+  <script>
+    (function () {
+      var header = document.querySelector(".site-header");
+      var toggle = header.querySelector(".nav-toggle");
+      header.classList.add("js-nav");
+      toggle.hidden = false;
+      toggle.addEventListener("click", function () {
+        var open = header.classList.toggle("nav-open");
+        toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      });
+    })();
+  </script>
 </body>
 </html>
