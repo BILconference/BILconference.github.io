@@ -1,0 +1,10 @@
+{% comment %}
+  Card linking to an event page. Pass event=<event doc>; show_date=true adds
+  the start month/year after the location.
+{% endcomment %}
+<a class="card card-link" href="{{ include.event.url | relative_url }}">
+  {% if include.event.logo %}<img class="card-logo" src="{{ include.event.logo | replace: '/media/', '/media/thumbs/' | relative_url }}" alt="" loading="lazy">{% endif %}
+  <h4>{{ include.event.title }}</h4>
+  {% if include.show_date %}<p>{% if include.event.location %}{{ include.event.location }}{% endif %}{% if include.event.start_date %} · {{ include.event.start_date | date: "%b %Y" }}{% endif %}</p>
+  {% else %}{% if include.event.location %}<p>{{ include.event.location }}</p>{% endif %}{% endif %}
+</a>
