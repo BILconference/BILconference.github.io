@@ -14,3 +14,13 @@ Most of you have heard of TED or watched the talks online, but do you know about
 BIL emerged from a community of people who aspire to change the world for the better- everyone is on equal standing and we meet to share ideas, problems that need solving, and discoveries we are excited about with a quite diverse national and international crowd. Our attendees are our speakers and our speakers are our attendees and in true unconference style, attendees are responsible for shaping the conference itself through their participation.
 
 BIL Conference in under Creative Commons licence.
+
+---
+
+Ready to make one happen?
+
+- [Stream setup](/stream-setup/) — how past events put their talks live on
+  YouTube, still a working playbook.
+- [Submit your event](/submit-new-event/) — get it into this archive once
+  it's real.
+- [Slack](/slack/) — where the community organized between events.
