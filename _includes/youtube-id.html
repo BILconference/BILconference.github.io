@@ -1,0 +1,7 @@
+{% comment %}
+  Sets `vid` to the YouTube video id parsed from include.url ("" if none).
+  Jekyll includes share the caller's scope, so `vid` is usable afterwards.
+{% endcomment %}
+{% assign vid = "" %}
+{% if include.url contains "watch?v=" %}{% assign vid = include.url | split: "v=" | last | split: "&" | first %}
+{% elsif include.url contains "youtu.be/" %}{% assign vid = include.url | split: "youtu.be/" | last | split: "?" | first %}{% endif %}
