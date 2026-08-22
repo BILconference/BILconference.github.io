@@ -40,5 +40,5 @@ while IFS= read -r p; do
   fi
   echo "thumb: $thumb"
 done < <(rg --no-filename '^(photo|logo): */media/' \
-           _speakers _speakers_2015 _events _organizers _sponsors _press \
+           _speakers _events _organizers _sponsors _press \
          | awk '{print $2}' | sort -u)

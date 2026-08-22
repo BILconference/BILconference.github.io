@@ -5,7 +5,7 @@ permalink: /2015/speakers/
 ---
 <p class="archive-banner">Archived site — <strong>2015.bilconference.com</strong></p>
 <div class="people-grid">
-  {% assign speakers = site.speakers_2015 | sort: "title" %}
+  {% assign speakers = site.speakers | where: "bil_2015", true | sort: "title" %}
   {% for s in speakers %}
   <a class="person" href="{{ s.url | relative_url }}">
     <img src="{{ s.photo | default: '/assets/img/blank-person.png' | replace: '/media/', '/media/thumbs/' | relative_url }}" alt="{{ s.title }}" loading="lazy">
