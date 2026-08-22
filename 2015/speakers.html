@@ -8,7 +8,7 @@ permalink: /2015/speakers/
   {% assign speakers = site.speakers_2015 | sort: "title" %}
   {% for s in speakers %}
   <a class="person" href="{{ s.url | relative_url }}">
-    <img src="{{ s.photo | default: '/assets/img/blank-person.png' | relative_url }}" alt="{{ s.title }}" loading="lazy">
+    <img src="{{ s.photo | default: '/assets/img/blank-person.png' | replace: '/media/', '/media/thumbs/' | relative_url }}" alt="{{ s.title }}" loading="lazy">
     <span>{{ s.title }}</span>
     {% if s.talk_title %}<small>{{ s.talk_title | truncate: 60 }}</small>{% endif %}
   </a>

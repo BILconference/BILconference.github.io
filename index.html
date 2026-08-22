@@ -32,7 +32,7 @@ title: Home
       {% assign evs = group.items | sort: "start_date" %}
       {% for e in evs %}
       <a class="card card-link" href="{{ e.url | relative_url }}">
-        {% if e.logo %}<img class="card-logo" src="{{ e.logo | relative_url }}" alt="" loading="lazy">{% endif %}
+        {% if e.logo %}<img class="card-logo" src="{{ e.logo | replace: '/media/', '/media/thumbs/' | relative_url }}" alt="" loading="lazy">{% endif %}
         <h4>{{ e.title }}</h4>
         {% if e.location %}<p>{{ e.location }}</p>{% endif %}
       </a>

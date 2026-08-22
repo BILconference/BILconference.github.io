@@ -3,7 +3,7 @@ title: Markus Edge
 slug: markus-edge
 date: '2015-03-16 18:39:03'
 wordpress_id: 436
-photo: /media/sites/6/2015/03/matthew-lynch.png
+photo: /media/sites/6/2015/03/matthew-lynch.jpg
 talk_title: '18+ Virtual Reality Porn: Where are we at and where is it all going.'
 talk_description: Well...I am not sure my talk is nearly as important as my demo.
   You see, until you experience Virtual Reality, my talk will only seem like another

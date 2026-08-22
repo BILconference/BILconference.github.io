@@ -4,7 +4,7 @@ slug: bildelhi-2018
 date: '2018-01-21 16:46:20'
 wordpress_id: 1909
 original_url: http://bilconference.com/bildelhi-2018/
-logo: /media/2018/03/Logo.png
+logo: /media/2018/03/Logo.jpg
 start_date: '2018-03-24'
 end_date: '2018-03-24'
 year: 2018

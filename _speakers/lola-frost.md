@@ -4,7 +4,7 @@ slug: lola-frost
 date: '2016-05-12 23:19:31'
 wordpress_id: 1434
 original_url: http://bilconference.com/lola-frost/
-photo: /media/2016/05/Screen-Shot-2016-05-12-at-9.18.22-PM.png
+photo: /media/2016/05/Screen-Shot-2016-05-12-at-9.18.22-PM.jpg
 ---
 
 Bio :

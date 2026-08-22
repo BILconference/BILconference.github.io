@@ -112,25 +112,25 @@ sections:
     in the industry." In late 2016 she joined the Vancouver Art & Leisure''s Board
     of Directors as Vice President. She has since been hosting multi-room Chapel Sound
     events at VAL showcasing local electronic music producers/DJs. --- ![ Jordan Matthew
-    Yerman]( /media/2017/04/Jordan-Matthew-Yerman.png)  Talking with Broken Machines*(SATURDAY
+    Yerman]( /media/2017/04/Jordan-Matthew-Yerman.jpg)  Talking with Broken Machines*(SATURDAY
     AFTERNOON)*  Jordan Matthew Yerman BIO: Jordan Matthew Yerman is a Vancouver-based
     artist and writer who has worked and created from Tel Aviv to Tokyo. He works
     as a writer and photographer while exploring the artistic opportunities in interaction
     with animals and machines. Internationally published, he partnered with Fujifilm
     to photograph cats across Japan. He presented the Street Cat Project at BIL2015,
-    and Street Cat Photo Booth at BIL 2016. ![ Laura Glass]( /media/2017/04/Laura-Glass.png)
+    and Street Cat Photo Booth at BIL 2016. ![ Laura Glass]( /media/2017/04/Laura-Glass.jpg)
     **"What Gender Parity in The Workplace Can Learn From Feminist Porn"***(SUNDAY
     AFTERNOON)*  Laura Glass BIO: Laura Glass is a feminist porn crusader and the
     erotic art curator of Montreal''s Artists Of Desire. She has collaborated on DIY
     porn shoots, and given talks on feminist porn in the Adult Industry, as a guest
     lecturer at McGill University and at PACE Society in Vancouver. Trained in Visual
     Arts, Design and Web Development, she currently tinkers in Web Development, Fintech
-    and VR. ![ Tee Crane]( /media/2017/04/Tee-Crane.png)  Presentation: Three Tribes***(SATURDAY
+    and VR. ![ Tee Crane]( /media/2017/04/Tee-Crane.jpg)  Presentation: Three Tribes***(SATURDAY
     AFTERNOON)***Workshop: Tea With Tee*(SATURDAY AFTERNOON)*  Tee Crane BIO: Tee
     Crane spent 25 years working in the entertainment industry as a production and
     stage manager, and learned his lessons…well most of them anyway. Now he is a teacher/mentor
     and designs programs and courses in emotional intelligence, relationship building,
-    and mindfulness.. ![ Winston Yeung]( /media/2017/04/Winston-Yeung.png)  Prisoner
+    and mindfulness.. ![ Winston Yeung]( /media/2017/04/Winston-Yeung.jpg)  Prisoner
     Of Shame   Winston Yeung BIO: Winston is the founder of podi.ca, a crazy inventor
     and a mentor who is changing the world one student at a time. A deﬁnite people
     person, he has listened to many stories and wants to provide a way for people
@@ -206,7 +206,7 @@ sections:
     Ervin Laszlo’s book The Intelligence of the Cosmos. ![]( /media/2017/04/Jivi-Saran-Cheema.jpg)  Permission
     to be You*(SATURDAY MORNING)*  Jivi Saran-Cheema BIO: Keynote Speaker, Author
     and Consultant, Jivi teaches people how to remove the pseudo costume and come
-    back to their authentic soul script ![ Mike Funergy ]( /media/2017/04/Mike-Funergy.png)  What
+    back to their authentic soul script ![ Mike Funergy ]( /media/2017/04/Mike-Funergy.jpg)  What
     I Learned from a Sock Puppet*(SUNDAY AFTERNOON)*  Mike Funergy  BIO: Mike Funergy
     studies Expressive Arts Therapy and is an advocate of all things fun. He enjoys
     experimenting in public space with various forms of expressive arts to find interesting

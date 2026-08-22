@@ -4,7 +4,7 @@ slug: bilwomen-tunisia-2015
 date: '2015-12-15 10:01:54'
 wordpress_id: 1040
 original_url: http://bilconference.com/bilwomen-tunisia-2015/
-logo: /media/2015/12/12363061_416216311910779_7842613236915903824_o.png
+logo: /media/2015/12/12363061_416216311910779_7842613236915903824_o.jpg
 start_date: '2015-12-13'
 end_date: '2015-12-13'
 year: 2015

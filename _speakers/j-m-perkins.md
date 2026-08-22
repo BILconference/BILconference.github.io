@@ -5,7 +5,7 @@ date: '2015-08-05 22:48:10'
 wordpress_id: 844
 original_url: http://bilconference.com/j-m-perkins/
 association: Speaker
-photo: /media/2015/08/JM-PERKINS.png
+photo: /media/2015/08/JM-PERKINS.jpg
 ---
 
 J.M. Perkins is an action horror author, freelance game designer, and writer of other things. He is strict vegan alt health worker by day, carnivorous hard living husband-father by night. He knows… he confuses himself too.

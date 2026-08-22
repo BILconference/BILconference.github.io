@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="page-hero">
   <div class="inner">
-    <img class="profile-photo" src="{{ page.photo | default: '/assets/img/blank-person.png' | relative_url }}" alt="{{ page.title }}">
+    <img class="profile-photo" src="{{ page.photo | default: '/assets/img/blank-person.png' | replace: '/media/', '/media/thumbs/' | relative_url }}" alt="{{ page.title }}">
     <div>
       <h1>{{ page.title }}</h1>
       {% if page.talk_title %}<p class="profile-role">“{{ page.talk_title }}”</p>{% endif %}
