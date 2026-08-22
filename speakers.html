@@ -3,7 +3,7 @@ layout: page
 title: Speakers
 permalink: /speakers/
 ---
-<p>{{ site.speakers.size }} speakers from the main BIL site. The <a href="{{ '/2015/speakers/' | relative_url }}">BIL 2015 Vancouver site</a> kept its own roster of {{ site.speakers_2015.size }}.</p>
+<p>{{ site.speakers.size }} speakers from BIL events around the world, including the <a href="{{ '/2015/speakers/' | relative_url }}">BIL 2015 Vancouver roster</a>.</p>
 <div class="filter-bar" data-filter-items=".people-grid .person" data-filter-placeholder="Filter speakers by name"></div>
 <div class="people-grid">
   {% assign speakers = site.speakers | sort: "title" %}

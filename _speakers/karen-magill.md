@@ -5,8 +5,10 @@ date: '2016-02-09 23:59:56'
 wordpress_id: 1142
 original_url: http://bilconference.com/karen-magill/
 photo: /media/2016/02/Karen-Magill.jpg
+talk_title: We Are Stronger Thank We Think.
+bil_2015: true
+redirect_from: /2015/speakers/karen-magill/
 ---
-
 Forced to leave the workforce in 2000 by the onslaught of a chronic illness, Karen saw this as an opportunity to explore her lifelong desire to write. In February of 2014, Karen independently published an inspiring story of her journey so far with a chronic illness entitled On The Right Side, My Story of Survival and Success.
 In March of 2014, Karen made her debut public speaking performance and has been hooked ever since. She is now launching a career as a motivational speaker and a life coach.
 

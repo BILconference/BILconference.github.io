@@ -8,6 +8,7 @@ url: "https://bilconference.com"
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 permalink: pretty
 
@@ -21,9 +22,6 @@ collections:
   talks:
     output: true
     permalink: /talks/:name/
-  speakers_2015:
-    output: true
-    permalink: /2015/speakers/:name/
   organizers:
     output: false
   sponsors:
@@ -51,17 +49,10 @@ defaults:
       type: talks
     values:
       layout: talk
-  - scope:
-      path: ""
-      type: speakers_2015
-    values:
-      layout: speaker2015
-
 exclude:
   - README.md
   - "_events/README.md"
   - "_speakers/README.md"
-  - "_speakers_2015/README.md"
   - "_talks/README.md"
   - "_organizers/README.md"
   - "_sponsors/README.md"
