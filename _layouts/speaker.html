@@ -7,7 +7,11 @@ layout: default
     <div>
       <h1>{{ page.title }}</h1>
       {% if page.association and page.association != "Speaker" %}<p class="profile-role">{{ page.association }}</p>{% endif %}
-      {% if page.excerpt %}<p class="profile-note">{{ page.excerpt }}</p>{% endif %}
+      {% assign note = page.excerpt | strip_html | normalize_whitespace | strip %}
+      {% assign body_text = content | strip_html | normalize_whitespace | strip %}
+      {% comment %} Jekyll auto-derives excerpt from the first paragraph; only
+        show it as a hero note when it isn't just the body's opening. {% endcomment %}
+      {% if note != "" %}{% unless body_text contains note %}<p class="profile-note">{{ page.excerpt }}</p>{% endunless %}{% endif %}
     </div>
   </div>
 </div>
