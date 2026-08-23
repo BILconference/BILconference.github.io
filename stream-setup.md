@@ -21,7 +21,7 @@ In order to go live, you must have a verified account. It is not difficult, but 
 
 ---
 
-### Sheduling your Livestream
+### Scheduling your Livestream
 
 1. Login to your Google/YouTube account and follow these instructions to create a YouTube Live scheduled event.
  2. From your YouTube Creator Studio dashboard, click on Live Streaming and then on Events

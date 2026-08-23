@@ -14,4 +14,4 @@ He is co-founder of an auction engine startup in Palo Alto BID.IO. He is also an
 
 He delivered a talk on Learned Optimism in the inaugural BIL Conference in Monterey in 2008 and will share a new plan to spread the knowledge of Jury Nullification, originally presented at SuperHappyDevHouse at Hacker Dojo in 2011.
 
-Like many people of East Asian decent, he has the alcohol tolerance of a 9-year-old and almost certain to lose any drinking games you challenge. Some have said this is a sneaky way for him to get strangers who read his bio to buy him drinks.
+Like many people of East Asian descent, he has the alcohol tolerance of a 9-year-old and almost certain to lose any drinking games you challenge. Some have said this is a sneaky way for him to get strangers who read his bio to buy him drinks.
