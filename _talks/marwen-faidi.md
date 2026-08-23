@@ -5,7 +5,7 @@ event: bil-apbs
 event_name: "BIL:APBS"
 speaker: marwen-faidi
 speaker_name: "Marwen Faidi"
-youtube: "https://www.youtube.com/watch?v=FvvuZsPnsB8"
+video: "https://www.youtube.com/watch?v=FvvuZsPnsB8"
 subjects: [personal-growth]
 ---
 

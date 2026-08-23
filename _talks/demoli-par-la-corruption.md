@@ -5,7 +5,7 @@ event: bil-act
 event_name: "BIL:ACT"
 speaker: lotfi-hannachi
 speaker_name: "Lotfi Hannachi"
-youtube: "https://www.youtube.com/watch?v=vvm8WI0zyz0"
+video: "https://www.youtube.com/watch?v=vvm8WI0zyz0"
 subjects: [society-and-politics]
 ---
 

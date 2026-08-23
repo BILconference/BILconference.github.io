@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: jason-porath
 speaker_name: Jason Porath
-youtube: https://www.youtube.com/watch?v=4XKKwLzOJkI
+video: https://www.youtube.com/watch?v=4XKKwLzOJkI
 subjects: [arts-and-media, society-and-politics]
 ---
 

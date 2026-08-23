@@ -8,7 +8,7 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: andrew-mcgregor
 speaker_name: Andrew McGregor
-youtube: https://www.youtube.com/watch?v=sJO_pOZZBkE&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=12
+video: https://www.youtube.com/watch?v=sJO_pOZZBkE&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=12
 subjects: [arts-and-media, society-and-politics]
 summary_ai: true
 ---

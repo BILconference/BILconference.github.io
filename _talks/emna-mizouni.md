@@ -5,7 +5,7 @@ event: bil-fst2
 event_name: "BIL:FST2"
 speaker: emna-mizouni
 speaker_name: "Emna Mizouni"
-youtube: "https://www.youtube.com/watch?v=NclfplRvZ50"
+video: "https://www.youtube.com/watch?v=NclfplRvZ50"
 subjects: [personal-growth]
 ---
 

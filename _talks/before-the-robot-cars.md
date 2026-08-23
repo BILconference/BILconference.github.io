@@ -6,7 +6,7 @@ event_name: BIL 2010
 speaker: brad-templeton
 speaker_name: Brad Templeton
 session: "Friday 11:40, Fire Hose Room"
-youtube: https://www.youtube.com/watch?v=qgwAzI0oYZE
+video: https://www.youtube.com/watch?v=qgwAzI0oYZE
 subjects: [transportation]
 original_url: http://m.bilconference.com/details?c=C10
 ---

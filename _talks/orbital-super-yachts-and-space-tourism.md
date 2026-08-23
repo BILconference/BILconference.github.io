@@ -8,7 +8,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: john-spencer
 speaker_name: John Spencer
-youtube: https://www.youtube.com/watch?v=57fFWxIcQXU
+video: https://www.youtube.com/watch?v=57fFWxIcQXU
 subjects: [science-and-space]
 ---
 

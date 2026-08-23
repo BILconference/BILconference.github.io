@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: christopher-ryan
 speaker_name: Christopher Ryan
-youtube: https://www.youtube.com/watch?v=WhmXsiSMBQA
+video: https://www.youtube.com/watch?v=WhmXsiSMBQA
 subjects: [sex-and-relationships]
 summary_ai: true
 ---

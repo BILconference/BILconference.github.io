@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: justin-dudek
 speaker_name: Justin Dudek
-youtube: https://www.youtube.com/watch?v=4iHZJupnoWM
+video: https://www.youtube.com/watch?v=4iHZJupnoWM
 subjects: [personal-growth, arts-and-media]
 ---
 

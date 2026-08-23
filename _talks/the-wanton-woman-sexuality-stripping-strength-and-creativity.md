@@ -8,6 +8,6 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: lola-frost
 speaker_name: Lola Frost
-youtube: https://www.youtube.com/watch?v=tiAfl1fHkMc
+video: https://www.youtube.com/watch?v=tiAfl1fHkMc
 subjects: [sex-and-relationships, arts-and-media]
 ---

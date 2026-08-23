@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: jacob-mcgill
 speaker_name: Jacob McGill
-youtube: https://www.youtube.com/watch?v=huOI90KVG90
+video: https://www.youtube.com/watch?v=huOI90KVG90
 subjects: [health-and-longevity]
 ---
 

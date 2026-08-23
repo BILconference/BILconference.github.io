@@ -5,7 +5,7 @@ event: bil-sayada
 event_name: "BIL:Sayada"
 speaker: mabrouka-mbarek
 speaker_name: "Mabrouka Mbarek"
-youtube: "https://www.youtube.com/watch?v=v7ewEO6PMI8"
+video: "https://www.youtube.com/watch?v=v7ewEO6PMI8"
 subjects: [society-and-politics]
 ---
 

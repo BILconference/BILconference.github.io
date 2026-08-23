@@ -5,7 +5,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: isaiah-frizzell
 speaker_name: Isaiah Frizzell
-youtube: https://www.youtube.com/watch?v=VllucnRbHAM
+video: https://www.youtube.com/watch?v=VllucnRbHAM
 subjects: [environment-and-food]
 ---
 

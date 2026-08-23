@@ -8,7 +8,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: george-loretta-whitesides
 speaker_name: George & Loretta Whitesides
-youtube: https://youtu.be/OTpfjrTRvx8?list=PLCZHPSerQfFcg1-4TdvnyuuYii0eOrVZg
+video: https://youtu.be/OTpfjrTRvx8?list=PLCZHPSerQfFcg1-4TdvnyuuYii0eOrVZg
 subjects: [science-and-space]
 summary_ai: true
 ---

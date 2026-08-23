@@ -8,7 +8,7 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: chris-lopez
 speaker_name: Chris Lopez
-youtube: https://www.youtube.com/watch?v=tUVRD08oMiM&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=8
+video: https://www.youtube.com/watch?v=tUVRD08oMiM&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=8
 subjects: [education-and-learning, arts-and-media]
 summary_ai: true
 ---

@@ -8,6 +8,6 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: leslie-oliver-karpas
 speaker_name: Leslie Oliver Karpas
-youtube: https://www.youtube.com/watch?v=5IcB85cNTkE&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=23
+video: https://www.youtube.com/watch?v=5IcB85cNTkE&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=23
 subjects: [arts-and-media, society-and-politics]
 ---

@@ -5,7 +5,7 @@ event: bilwomen-tunisia-2015
 event_name: "BIL:Women Tunisia 2015"
 speaker: sihem-bensedrine
 speaker_name: "Sihem Bensedrine"
-youtube: "https://www.youtube.com/watch?v=Z3T1YGsp6qA"
+video: "https://www.youtube.com/watch?v=Z3T1YGsp6qA"
 subjects: [society-and-politics]
 ---
 

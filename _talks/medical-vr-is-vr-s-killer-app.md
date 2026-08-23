@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: alex-lightman
 speaker_name: Alex Lightman
-youtube: https://www.youtube.com/watch?v=PyGufQnbJms
+video: https://www.youtube.com/watch?v=PyGufQnbJms
 session: Saturday Main Stage
 subjects: [ai-and-computing, health-and-longevity]
 ---

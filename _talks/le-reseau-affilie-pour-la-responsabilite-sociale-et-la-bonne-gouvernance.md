@@ -5,7 +5,7 @@ event: bil-sayada
 event_name: "BIL:Sayada"
 speaker: moufida-oueslati
 speaker_name: "Moufida Oueslati"
-youtube: "https://www.youtube.com/watch?v=dARyYjQ_R1A"
+video: "https://www.youtube.com/watch?v=dARyYjQ_R1A"
 subjects: [society-and-politics]
 ---
 

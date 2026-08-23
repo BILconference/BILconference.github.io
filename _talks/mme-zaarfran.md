@@ -5,7 +5,7 @@ event: bil-women
 event_name: "BIL:Women"
 speaker: mme-zaarfran
 speaker_name: "Mme Zaarfran"
-youtube: "https://www.youtube.com/watch?v=kqwSSwvJSFc"
+video: "https://www.youtube.com/watch?v=kqwSSwvJSFc"
 subjects: [society-and-politics]
 ---
 

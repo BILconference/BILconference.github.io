@@ -43,7 +43,7 @@ layout: default
       <li>
         <a href="{{ t.url | relative_url }}">{{ t.title }}</a>
         {% if t.event_name %}<span class="talk-speaker">— {{ t.event_name }}</span>{% endif %}
-        {% if t.youtube %}<span class="badge">▶ video</span>{% endif %}
+        {% if t.video %}<span class="badge">▶ video</span>{% endif %}
       </li>
       {% endfor %}
     </ul>

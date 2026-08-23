@@ -9,7 +9,7 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: den-bradshaw
 speaker_name: Den Bradshaw
-youtube: https://www.youtube.com/watch?v=xusU4P_HT5k&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=8
+video: https://www.youtube.com/watch?v=xusU4P_HT5k&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=8
 subjects: [personal-growth]
 summary_ai: true
 ---

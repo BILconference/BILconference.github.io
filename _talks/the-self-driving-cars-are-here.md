@@ -5,7 +5,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: brad-templeton
 speaker_name: Brad Templeton
-youtube: https://www.youtube.com/watch?v=N6iwIj0qkt4
+video: https://www.youtube.com/watch?v=N6iwIj0qkt4
 subjects: [transportation]
 ---
 

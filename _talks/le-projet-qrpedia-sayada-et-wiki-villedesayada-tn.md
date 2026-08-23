@@ -5,7 +5,7 @@ event: bil-sayada
 event_name: "BIL:Sayada"
 speaker: habib-mhenni
 speaker_name: "Habib M'henni"
-youtube: "https://www.youtube.com/watch?v=sGadx6kgFIs"
+video: "https://www.youtube.com/watch?v=sGadx6kgFIs"
 subjects: [society-and-politics, ai-and-computing]
 ---
 

@@ -11,6 +11,7 @@ BIL share card), and schema.org JSON-LD (`Event` on event pages,
 `video-card.html` — thumbnail card for a talk with video (`talk=`), used
 by /videos/.
 
-`youtube-id.html` — parses `include.url` and sets `vid` in the caller's
-scope; shared by video-card.html and the talk layout's embed. (The
-client-side equivalent for body links lives in assets/js/yt-embed.js.)
+`video-id.html` — parses `include.url` and sets `vid` (YouTube) and
+`vimeo_id` (Vimeo) in the caller's scope; shared by video-card.html and
+the talk layout's embed. (The client-side equivalent for body links lives
+in assets/js/yt-embed.js.)

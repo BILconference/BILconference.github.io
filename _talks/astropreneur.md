@@ -8,7 +8,7 @@ event: bil-sf-2014
 event_name: BIL:SF 2014
 speaker: paul-fuller
 speaker_name: Paul Fuller
-youtube: https://www.youtube.com/watch?v=J9OCXw1saeM&index=2&list=PLCZHPSerQfFdcPpdxHJ0muheHFLHIj9A9
+video: https://www.youtube.com/watch?v=J9OCXw1saeM&index=2&list=PLCZHPSerQfFdcPpdxHJ0muheHFLHIj9A9
 subjects: [science-and-space, entrepreneurship-and-work]
 summary_ai: true
 ---

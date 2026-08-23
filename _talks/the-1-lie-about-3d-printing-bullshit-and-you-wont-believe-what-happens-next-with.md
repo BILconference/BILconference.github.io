@@ -9,7 +9,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: pablos-holman
 speaker_name: Pablos Holman
-youtube: https://www.youtube.com/watch?v=5MyfgYhj788
+video: https://www.youtube.com/watch?v=5MyfgYhj788
 subjects: [ai-and-computing]
 summary_ai: true
 ---

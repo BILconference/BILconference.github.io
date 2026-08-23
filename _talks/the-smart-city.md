@@ -8,7 +8,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: jimmy-delshad
 speaker_name: Jimmy Delshad
-youtube: https://youtu.be/cGsMfQ5whCM?list=PLCZHPSerQfFchlAQ0LVhlGyL_m8SdpeiQ
+video: https://youtu.be/cGsMfQ5whCM?list=PLCZHPSerQfFchlAQ0LVhlGyL_m8SdpeiQ
 subjects: [society-and-politics, ai-and-computing]
 ---
 

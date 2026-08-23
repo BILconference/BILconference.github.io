@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: snohomish-brown
 speaker_name: Snohomish Brown
-youtube: https://www.youtube.com/watch?v=ueKYLiWFuRU
+video: https://www.youtube.com/watch?v=ueKYLiWFuRU
 subjects: [health-and-longevity]
 ---
 

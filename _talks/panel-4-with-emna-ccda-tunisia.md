@@ -5,7 +5,7 @@ event: bil-anime
 event_name: "BIL:Anime"
 speaker: emna-ccda-tunisia
 speaker_name: "Emna"
-youtube: "https://www.youtube.com/watch?v=qwOgMxzmXEU"
+video: "https://www.youtube.com/watch?v=qwOgMxzmXEU"
 subjects: [arts-and-media]
 ---
 

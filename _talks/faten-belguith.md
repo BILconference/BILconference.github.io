@@ -5,7 +5,7 @@ event: bil-apbs
 event_name: "BIL:APBS"
 speaker: faten-belguith
 speaker_name: "Faten Belguith"
-youtube: "https://www.youtube.com/watch?v=2jyST2C7Euo"
+video: "https://www.youtube.com/watch?v=2jyST2C7Euo"
 subjects: [personal-growth]
 ---
 

@@ -5,7 +5,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: dave-asprey
 speaker_name: Dave Asprey
-youtube: https://www.youtube.com/watch?v=XDWRDCM3BXo
+video: https://www.youtube.com/watch?v=XDWRDCM3BXo
 subjects: [health-and-longevity]
 ---
 

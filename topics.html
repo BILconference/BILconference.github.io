@@ -22,7 +22,7 @@ permalink: /topics/
   <li>
     <a href="{{ k.url | relative_url }}">{{ k.title }}</a>
     {% if k.speaker_name %}<span class="talk-speaker">— {{ k.speaker_name }}</span>{% endif %}
-    {% if k.youtube %}<span class="badge">▶ video</span>{% endif %}
+    {% if k.video %}<span class="badge">▶ video</span>{% endif %}
   </li>
   {% endfor %}
 </ul>

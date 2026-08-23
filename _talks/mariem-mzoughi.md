@@ -5,7 +5,7 @@ event: bilwomen-tunisia-2015
 event_name: "BIL:Women Tunisia 2015"
 speaker: mariem-mzoughi
 speaker_name: "Mariem Mzoughi"
-youtube: "https://www.youtube.com/watch?v=Tq72zuMNqNw"
+video: "https://www.youtube.com/watch?v=Tq72zuMNqNw"
 subjects: [society-and-politics]
 ---
 

@@ -5,7 +5,7 @@ event: bil-anime
 event_name: "BIL:Anime"
 speaker: ahmed-touji
 speaker_name: "Ahmed Touji"
-youtube: "https://www.youtube.com/watch?v=Fc0_YjlfpvM"
+video: "https://www.youtube.com/watch?v=Fc0_YjlfpvM"
 subjects: [arts-and-media]
 ---
 

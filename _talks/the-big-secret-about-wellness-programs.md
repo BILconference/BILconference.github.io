@@ -8,7 +8,7 @@ event: bil-davos-2017
 event_name: BIL:Davos 2017
 speaker: melanie-weinberger
 speaker_name: Melanie Weinberger
-youtube: https://www.youtube.com/watch?v=DIYfOXnHzWw
+video: https://www.youtube.com/watch?v=DIYfOXnHzWw
 start_time: '2017-01-20 05:00:00'
 end_time: '2017-01-20 06:00:00'
 subjects: [health-and-longevity, entrepreneurship-and-work]

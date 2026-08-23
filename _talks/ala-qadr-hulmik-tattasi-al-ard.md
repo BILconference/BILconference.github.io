@@ -5,7 +5,7 @@ event: bil-lpbt
 event_name: "BIL:LPBT"
 speaker: intissar-mesrati
 speaker_name: "Intissar Mesrati"
-youtube: "https://www.youtube.com/watch?v=h4D7O1-E8xs"
+video: "https://www.youtube.com/watch?v=h4D7O1-E8xs"
 subjects: [personal-growth]
 ---
 

@@ -8,7 +8,7 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: judd-weiss
 speaker_name: Judd Weiss
-youtube: https://www.youtube.com/watch?v=DBoEwnH427M&index=6&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu
+video: https://www.youtube.com/watch?v=DBoEwnH427M&index=6&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu
 subjects: [arts-and-media]
 summary_ai: true
 ---

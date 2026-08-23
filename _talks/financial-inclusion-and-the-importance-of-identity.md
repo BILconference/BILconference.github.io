@@ -8,7 +8,7 @@ event: bil-davos-2017
 event_name: BIL:Davos 2017
 speaker: balazs-nemethi
 speaker_name: Balázs Némethi
-youtube: https://www.youtube.com/watch?v=yhEsOnH3p3Q
+video: https://www.youtube.com/watch?v=yhEsOnH3p3Q
 start_time: '2017-01-18 10:00:00'
 end_time: '2017-01-18 11:00:00'
 subjects: [money-and-crypto, society-and-politics]

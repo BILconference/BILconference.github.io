@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: sacheen-pointe-joe-james-rampanen
 speaker_name: Sacheen Pointe and Joe James Rampanen
-youtube: https://www.youtube.com/watch?v=iGaxko6g1LI
+video: https://www.youtube.com/watch?v=iGaxko6g1LI
 subjects: [society-and-politics]
 summary_ai: true
 ---

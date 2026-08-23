@@ -8,7 +8,7 @@ event: bil-flash-la-2015
 event_name: 'BIL: FLASH LA 2015'
 speaker: liam-kennedy
 speaker_name: Liam Kennedy
-youtube: https://www.youtube.com/watch?v=9331fxwa79U&index=2&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ
+video: https://www.youtube.com/watch?v=9331fxwa79U&index=2&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ
 subjects: [science-and-space, ai-and-computing]
 summary_ai: true
 ---

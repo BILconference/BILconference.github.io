@@ -5,7 +5,7 @@ event: bil-apbs
 event_name: "BIL:APBS"
 speaker: imene-thaghri
 speaker_name: "Imene Thaghri"
-youtube: "https://www.youtube.com/watch?v=fbW6PzNN2rs"
+video: "https://www.youtube.com/watch?v=fbW6PzNN2rs"
 subjects: [personal-growth]
 ---
 

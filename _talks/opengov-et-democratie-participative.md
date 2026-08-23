@@ -5,7 +5,7 @@ event: bil-sayada
 event_name: "BIL:Sayada"
 speaker: souheil-alouini
 speaker_name: "Souheil Alouini"
-youtube: "https://www.youtube.com/watch?v=93FGKJyHOTM"
+video: "https://www.youtube.com/watch?v=93FGKJyHOTM"
 subjects: [society-and-politics]
 ---
 

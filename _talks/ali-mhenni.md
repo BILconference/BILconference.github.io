@@ -5,7 +5,7 @@ event: bil-bardo
 event_name: "BIL:Bardo"
 speaker: ali-mhenni
 speaker_name: "Ali Mhenni"
-youtube: "https://www.youtube.com/watch?v=dCV4_tI6GEA"
+video: "https://www.youtube.com/watch?v=dCV4_tI6GEA"
 subjects: [personal-growth]
 ---
 

@@ -5,7 +5,7 @@ event: bil-women
 event_name: "BIL:Women"
 speaker: ghada
 speaker_name: "Ghada"
-youtube: "https://www.youtube.com/watch?v=043R7bPgZ0w"
+video: "https://www.youtube.com/watch?v=043R7bPgZ0w"
 subjects: [society-and-politics]
 ---
 

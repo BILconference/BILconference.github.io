@@ -5,7 +5,7 @@ event: bil-2014
 event_name: BIL 2014
 speaker: neil-gaiman
 speaker_name: Neil Gaiman
-youtube: https://www.youtube.com/watch?v=oaRIbhdqFZc
+video: https://www.youtube.com/watch?v=oaRIbhdqFZc
 subjects: [arts-and-media]
 ---
 

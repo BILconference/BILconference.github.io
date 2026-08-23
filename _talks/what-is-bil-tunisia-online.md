@@ -7,7 +7,7 @@ original_url: http://bilconference.com/what-is-bil-tunisia-online/
 event_name: BIL:TN Online
 speaker: malek-omri
 speaker_name: Malek Omri
-youtube: https://www.youtube.com/watch?v=3FuDWQwA0dI
+video: https://www.youtube.com/watch?v=3FuDWQwA0dI
 subjects: [community-and-unconference]
 ---
 

@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: jodie-ortega
 speaker_name: Jodie Ortega
-youtube: https://www.youtube.com/watch?v=4JbUG7XD7S0
+video: https://www.youtube.com/watch?v=4JbUG7XD7S0
 subjects: [arts-and-media, society-and-politics]
 ---
 

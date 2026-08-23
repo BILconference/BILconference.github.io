@@ -5,7 +5,7 @@ event: bil-kef
 event_name: "BIL:Kef"
 speaker: haythem-salhi
 speaker_name: "Haythem Salhi"
-youtube: "https://www.youtube.com/watch?v=JJqfWVEZRHk"
+video: "https://www.youtube.com/watch?v=JJqfWVEZRHk"
 subjects: [entrepreneurship-and-work]
 ---
 

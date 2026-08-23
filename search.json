@@ -4,7 +4,7 @@ permalink: /search.json
 ---
 [
 {% for s in site.speakers %}{"g":"Speakers","title":{{ s.title | jsonify }},"url":{{ s.url | relative_url | jsonify }},"x":{{ s.association | default: "" | jsonify }},"b":{{ s.content | strip_html | normalize_whitespace | truncate: 240 | jsonify }}},
-{% endfor %}{% for t in site.talks %}{"g":"Talks","title":{{ t.title | jsonify }},"url":{{ t.url | relative_url | jsonify }},"x":{{ t.speaker_name | default: "" | jsonify }},"b":{{ t.content | strip_html | normalize_whitespace | truncate: 240 | jsonify }},"v":{% if t.youtube %}1{% else %}0{% endif %}},
+{% endfor %}{% for t in site.talks %}{"g":"Talks","title":{{ t.title | jsonify }},"url":{{ t.url | relative_url | jsonify }},"x":{{ t.speaker_name | default: "" | jsonify }},"b":{{ t.content | strip_html | normalize_whitespace | truncate: 240 | jsonify }},"v":{% if t.video %}1{% else %}0{% endif %}},
 {% endfor %}{% for e in site.events %}{"g":"Events","title":{{ e.title | jsonify }},"url":{{ e.url | relative_url | jsonify }},"x":{{ e.location | default: "" | append: " " | append: e.year | jsonify }},"b":{{ e.content | strip_html | normalize_whitespace | truncate: 240 | jsonify }}}{% unless forloop.last %},
 {% endunless %}{% endfor %}
 ]

@@ -5,7 +5,7 @@ event: bil-apbs
 event_name: "BIL:APBS"
 speaker: shaun-de-klerk
 speaker_name: "Shaun de Klerk"
-youtube: "https://www.youtube.com/watch?v=fbDUVu3j-DA"
+video: "https://www.youtube.com/watch?v=fbDUVu3j-DA"
 subjects: [personal-growth]
 ---
 

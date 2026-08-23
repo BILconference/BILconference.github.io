@@ -5,7 +5,7 @@ event: bil-boumhel
 event_name: "BIL:Boumhel"
 speaker: helmi
 speaker_name: "Helmi"
-youtube: "https://www.youtube.com/watch?v=PIf110TaDjk"
+video: "https://www.youtube.com/watch?v=PIf110TaDjk"
 subjects: [personal-growth]
 ---
 

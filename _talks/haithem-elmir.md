@@ -5,7 +5,7 @@ event: bil-youth
 event_name: "BIL:Youth"
 speaker: haithem-elmir
 speaker_name: "Haithem Elmir"
-youtube: "https://www.youtube.com/watch?v=JMC3qQfeDaU"
+video: "https://www.youtube.com/watch?v=JMC3qQfeDaU"
 subjects: [security-and-privacy]
 ---
 

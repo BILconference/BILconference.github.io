@@ -6,7 +6,7 @@ event_name: BIL 2018 Los Angeles
 speaker: leanna-wolfe
 speaker_name: Leanna Wolfe
 session: "Saturday 2:20"
-youtube: "https://www.youtube.com/watch?v=YmpWtkKN_3o"
+video: "https://www.youtube.com/watch?v=YmpWtkKN_3o"
 subjects: [personal-growth]
 ---
 

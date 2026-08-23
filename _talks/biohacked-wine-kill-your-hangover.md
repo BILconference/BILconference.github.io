@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: todd-white
 speaker_name: Todd White
-youtube: https://www.youtube.com/watch?v=LKapqCiKrJ0
+video: https://www.youtube.com/watch?v=LKapqCiKrJ0
 session: Saturday Main Stage
 subjects: [health-and-longevity, environment-and-food]
 ---

@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: colleen-wynia
 speaker_name: Colleen Wynia
-youtube: https://www.youtube.com/watch?v=INeTAGDKJ3w
+video: https://www.youtube.com/watch?v=INeTAGDKJ3w
 subjects: [personal-growth]
 summary_ai: true
 ---

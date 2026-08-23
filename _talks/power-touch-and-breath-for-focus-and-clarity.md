@@ -8,7 +8,7 @@ event: bil-sf-2014
 event_name: BIL:SF 2014
 speaker: linda-maepa
 speaker_name: Linda Maepa
-youtube: https://www.youtube.com/watch?v=eJ_4gI_DJaU&index=5&list=PLCZHPSerQfFdcPpdxHJ0muheHFLHIj9A9
+video: https://www.youtube.com/watch?v=eJ_4gI_DJaU&index=5&list=PLCZHPSerQfFdcPpdxHJ0muheHFLHIj9A9
 subjects: [mind-and-consciousness, personal-growth]
 summary_ai: true
 ---

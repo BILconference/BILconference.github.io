@@ -5,7 +5,7 @@ event: bil-sf-2014
 event_name: BIL:SF 2014
 speaker: romeo-stevens
 speaker_name: Romeo Stevens
-youtube: https://www.youtube.com/watch?v=ZBIMKaQQ25w
+video: https://www.youtube.com/watch?v=ZBIMKaQQ25w
 subjects: [health-and-longevity]
 ---
 

@@ -8,7 +8,7 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: todd-huffman
 speaker_name: Todd Huffman
-youtube: https://www.youtube.com/watch?v=GbRZWVUVX-A&index=1&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu
+video: https://www.youtube.com/watch?v=GbRZWVUVX-A&index=1&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu
 subjects: [society-and-politics, ai-and-computing]
 summary_ai: true
 ---

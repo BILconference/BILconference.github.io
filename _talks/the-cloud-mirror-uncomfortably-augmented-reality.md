@@ -6,7 +6,7 @@ event_name: BIL 2010
 speaker: eric-gradman
 speaker_name: Eric Gradman
 session: "Saturday 11:40, Fire Hose Room"
-youtube: "https://www.youtube.com/watch?v=UDoou9xm3z8"
+video: "https://www.youtube.com/watch?v=UDoou9xm3z8"
 subjects: [ai-and-computing, arts-and-media]
 original_url: http://m.bilconference.com/details?c=C41
 ---

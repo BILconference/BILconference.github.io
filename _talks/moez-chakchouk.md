@@ -5,7 +5,7 @@ event: bil-fst2
 event_name: "BIL:FST2"
 speaker: moez-chakchouk
 speaker_name: "Moez Chakchouk"
-youtube: "https://www.youtube.com/watch?v=LOXWQhb_2lc"
+video: "https://www.youtube.com/watch?v=LOXWQhb_2lc"
 subjects: [personal-growth]
 ---
 

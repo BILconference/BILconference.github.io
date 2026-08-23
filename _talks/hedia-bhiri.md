@@ -5,7 +5,7 @@ event: bil-youth
 event_name: "BIL:Youth"
 speaker: hedia-bhiri
 speaker_name: "Hedia Bhiri"
-youtube: "https://www.youtube.com/watch?v=F26jvZhV73I"
+video: "https://www.youtube.com/watch?v=F26jvZhV73I"
 subjects: [arts-and-media]
 ---
 

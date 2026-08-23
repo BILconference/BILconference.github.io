@@ -8,7 +8,7 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: eden-harman-bernardy
 speaker_name: Eden Harman Bernardy
-youtube: https://www.youtube.com/watch?v=4enkmL1S9DA&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=19
+video: https://www.youtube.com/watch?v=4enkmL1S9DA&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=19
 subjects: [arts-and-media, personal-growth]
 summary_ai: true
 ---

@@ -5,7 +5,7 @@ event: bil-opengov
 event_name: "BIL:OpenGov"
 speaker: hichem-ouertani
 speaker_name: "Hichem Ouertani"
-youtube: "https://www.youtube.com/watch?v=QWIWMorj_Ms"
+video: "https://www.youtube.com/watch?v=QWIWMorj_Ms"
 subjects: [society-and-politics]
 ---
 

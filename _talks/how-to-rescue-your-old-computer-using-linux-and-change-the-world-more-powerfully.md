@@ -9,7 +9,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: michael-persimmon
 speaker_name: Michael Persimmon
-youtube: https://www.youtube.com/watch?v=ePPSmok50hc
+video: https://www.youtube.com/watch?v=ePPSmok50hc
 subjects: [ai-and-computing]
 summary_ai: true
 ---

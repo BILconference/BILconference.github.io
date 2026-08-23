@@ -8,7 +8,7 @@ event: bil-sf-2014
 event_name: BIL:SF 2014
 speaker: john-smart
 speaker_name: John M. Smart
-youtube: https://www.youtube.com/watch?v=GakKzIWH2-Q&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=3
+video: https://www.youtube.com/watch?v=GakKzIWH2-Q&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=3
 subjects: [health-and-longevity, science-and-space]
 summary_ai: true
 ---

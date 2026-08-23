@@ -5,7 +5,7 @@ event: bil-2014
 event_name: BIL 2014
 speaker: amanda-palmer
 speaker_name: Amanda Palmer
-youtube: https://www.youtube.com/watch?v=xjgMoAnCeMA
+video: https://www.youtube.com/watch?v=xjgMoAnCeMA
 subjects: [arts-and-media]
 ---
 

@@ -8,7 +8,7 @@ event: bil-flash-la-2015
 event_name: 'BIL: FLASH LA 2015'
 speaker: joseph-vaughn-perling
 speaker_name: Joseph Vaughn-Perling
-youtube: https://www.youtube.com/watch?v=LOAEj8KSn2Q&index=1&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ
+video: https://www.youtube.com/watch?v=LOAEj8KSn2Q&index=1&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ
 subjects: [money-and-crypto]
 summary_ai: true
 ---

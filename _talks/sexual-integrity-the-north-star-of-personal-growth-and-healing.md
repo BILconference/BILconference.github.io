@@ -8,7 +8,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: nina-hartley
 speaker_name: Nina Hartley
-youtube: https://www.youtube.com/watch?v=ftMRrjp9bok
+video: https://www.youtube.com/watch?v=ftMRrjp9bok
 subjects: [sex-and-relationships, personal-growth]
 ---
 

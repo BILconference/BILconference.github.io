@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: heather-vancura
 speaker_name: Heather VanCura
-youtube: https://www.youtube.com/watch?v=mMzVTcx2WwE
+video: https://www.youtube.com/watch?v=mMzVTcx2WwE
 session: Sunday Unconference
 subjects: [entrepreneurship-and-work, society-and-politics]
 ---

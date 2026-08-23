@@ -5,7 +5,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: luke-nosek
 speaker_name: Luke Nosek
-youtube: https://www.youtube.com/watch?v=yAUjYGcreXU
+video: https://www.youtube.com/watch?v=yAUjYGcreXU
 subjects: [mind-and-consciousness]
 ---
 

@@ -5,7 +5,7 @@ event: bil-fst2
 event_name: "BIL:FST2"
 speaker: nizar-kerkeni
 speaker_name: "Nizar Kerkeni"
-youtube: "https://www.youtube.com/watch?v=lI7SjRsfm5o"
+video: "https://www.youtube.com/watch?v=lI7SjRsfm5o"
 subjects: [personal-growth]
 ---
 

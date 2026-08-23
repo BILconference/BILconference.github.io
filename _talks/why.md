@@ -5,7 +5,7 @@ event: bil-2014
 event_name: BIL 2014
 speaker: jason-webley
 speaker_name: Jason Webley
-youtube: https://www.youtube.com/watch?v=A5Y9jO6nEpM
+video: https://www.youtube.com/watch?v=A5Y9jO6nEpM
 subjects: [arts-and-media]
 ---
 

@@ -5,7 +5,7 @@ event: bil-fst2
 event_name: "BIL:FST2"
 speaker: amani-aloui
 speaker_name: "Amani Aloui"
-youtube: "https://www.youtube.com/watch?v=JDucx-HKF5w"
+video: "https://www.youtube.com/watch?v=JDucx-HKF5w"
 subjects: [personal-growth]
 ---
 

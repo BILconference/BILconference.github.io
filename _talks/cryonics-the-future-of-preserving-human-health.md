@@ -8,7 +8,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: max-moore
 speaker_name: Max More
-youtube: https://youtu.be/a6UZ19QS2JU?list=PLCZHPSerQfFchlAQ0LVhlGyL_m8SdpeiQ
+video: https://youtu.be/a6UZ19QS2JU?list=PLCZHPSerQfFchlAQ0LVhlGyL_m8SdpeiQ
 subjects: [health-and-longevity]
 ---
 

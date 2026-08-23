@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: ric-kaner
 speaker_name: Ric Kaner
-youtube: https://www.youtube.com/watch?v=ScXeKGv5RHg
+video: https://www.youtube.com/watch?v=ScXeKGv5RHg
 subjects: [science-and-space]
 summary_ai: true
 ---

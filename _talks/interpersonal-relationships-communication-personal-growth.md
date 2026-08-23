@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: evo-heyning
 speaker_name: Evo Heyning
-youtube: https://www.youtube.com/watch?v=R2EGRACxINw
+video: https://www.youtube.com/watch?v=R2EGRACxINw
 subjects: [sex-and-relationships, personal-growth]
 ---
 

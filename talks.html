@@ -14,7 +14,7 @@ permalink: /talks/
   <li>
     <a href="{{ t.url | relative_url }}">{{ t.title }}</a>
     {% if t.speaker_name %}<span class="talk-speaker">— {{ t.speaker_name }}</span>{% endif %}
-    {% if t.youtube %}<span class="badge">▶ video</span>{% endif %}
+    {% if t.video %}<span class="badge">▶ video</span>{% endif %}
   </li>
   {% endfor %}
 </ul>

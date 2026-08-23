@@ -8,6 +8,6 @@ event: bil-2012
 event_name: BIL 2012
 speaker: rand-simberg
 speaker_name: Rand Simberg
-youtube: https://www.youtube.com/watch?v=sPInpNHUmjw
+video: https://www.youtube.com/watch?v=sPInpNHUmjw
 subjects: [science-and-space, transportation]
 ---

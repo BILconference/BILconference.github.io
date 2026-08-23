@@ -5,7 +5,7 @@ event: bil-anime
 event_name: "BIL:Anime"
 speaker: waad-jouini
 speaker_name: "Waad Jouini"
-youtube: "https://www.youtube.com/watch?v=A-_X111b2EM"
+video: "https://www.youtube.com/watch?v=A-_X111b2EM"
 subjects: [arts-and-media]
 ---
 

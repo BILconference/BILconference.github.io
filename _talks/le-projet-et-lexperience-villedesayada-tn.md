@@ -5,7 +5,7 @@ event: bil-sayada
 event_name: "BIL:Sayada"
 speaker: nizar-kerkeni
 speaker_name: "Nizar Kerkeni"
-youtube: "https://www.youtube.com/watch?v=BKaEacAzVP4"
+video: "https://www.youtube.com/watch?v=BKaEacAzVP4"
 subjects: [society-and-politics, ai-and-computing]
 ---
 

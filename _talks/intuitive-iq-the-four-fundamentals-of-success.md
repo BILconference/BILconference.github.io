@@ -5,7 +5,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: mike-rose
 speaker_name: Mike Rose
-youtube: https://www.youtube.com/watch?v=Ho7WyIUwwIg
+video: https://www.youtube.com/watch?v=Ho7WyIUwwIg
 subjects: [personal-growth]
 ---
 

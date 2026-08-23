@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: kevin-peter-hickerson
 speaker_name: Kevin Peter Hickerson
-youtube: https://www.youtube.com/watch?v=wlvtEh6Xqro
+video: https://www.youtube.com/watch?v=wlvtEh6Xqro
 session: Sunday Unconference
 subjects: [environment-and-food, science-and-space]
 ---
