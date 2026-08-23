@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: hamed-mirzaei
 speaker_name: Hamed Mirzaei
+youtube: https://www.youtube.com/watch?v=kVP6eBeiw-w
 session: Sunday Unconference
 subjects: [science-and-space]
 ---

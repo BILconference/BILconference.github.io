@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: clinton-mielke
 speaker_name: Clinton Mielke
+youtube: https://www.youtube.com/watch?v=vB055U-o-To
 session: Saturday Unconference
 subjects: [health-and-longevity]
 ---

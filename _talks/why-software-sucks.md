@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: stuart-sherman
 speaker_name: Stuart Sherman
+youtube: https://www.youtube.com/watch?v=6E61Wj-m3r8
 subjects: [ai-and-computing]
 ---
 

@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: raj-singh
 speaker_name: Raj Singh
+youtube: https://www.youtube.com/watch?v=VbNSYQx12oA
 session: Sunday Main Stage
 subjects: [ai-and-computing]
 ---

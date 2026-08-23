@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: sonya-lee
 speaker_name: Sonya Lee
+youtube: https://www.youtube.com/watch?v=peWlgxqZFCg
 session: Sunday Main Stage
 subjects: [personal-growth, entrepreneurship-and-work]
 ---

@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: ralf-rainer-von-albedyhll
 speaker_name: Ralf-Rainer von Albedyhll
+youtube: https://www.youtube.com/watch?v=irqT27DelU8
 subjects: [arts-and-media]
 ---
 

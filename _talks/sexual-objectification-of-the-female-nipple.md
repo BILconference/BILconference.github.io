@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: belle-phenomene
 speaker_name: Belle Phénomène
+youtube: https://www.youtube.com/watch?v=NC5PvU_gPqw
 subjects: [sex-and-relationships, arts-and-media]
 ---
 

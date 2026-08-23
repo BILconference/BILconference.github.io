@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: troy-gardner
 speaker_name: Troy Gardner
+youtube: https://www.youtube.com/watch?v=k-FkViRgQ10
 subjects: [environment-and-food]
 ---
 

@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: jeffrey-szilagyi
 speaker_name: Jeffrey Szilagyi
+youtube: https://www.youtube.com/watch?v=yoo-7bnwKp8
 session: Saturday Unconference
 subjects: [mind-and-consciousness, health-and-longevity]
 ---

@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: christopher-spalding
 speaker_name: Christopher Spalding
+youtube: https://www.youtube.com/watch?v=yzkdKWVo1k4
 session: Saturday Main Stage
 subjects: [science-and-space]
 ---

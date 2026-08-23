@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: linda-maepa
 speaker_name: Linda Maepa
+youtube: https://www.youtube.com/watch?v=Ee8a5Drc9_4
 subjects: [security-and-privacy, environment-and-food]
 ---
 

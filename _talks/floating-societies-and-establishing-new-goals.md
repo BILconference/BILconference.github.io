@@ -8,5 +8,6 @@ event: bil-2012
 event_name: BIL 2012
 speaker: michael-keenan
 speaker_name: Michael Keenan
+youtube: https://www.youtube.com/watch?v=48o5YCbcEas
 subjects: [society-and-politics]
 ---
