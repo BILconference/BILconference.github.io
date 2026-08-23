@@ -1,6 +1,6 @@
 # Talks
 
-One markdown file per talk, 160 in all, rendered at `/talks/<slug>/`.
+One markdown file per talk, rendered at `/talks/<slug>/`.
 
 ```yaml
 title: "The Age of CryptoFinance"
@@ -10,6 +10,7 @@ speaker: johann-gevers       # slug in _speakers/
 speaker_name: "Johann Gevers"
 youtube: "https://www.youtube.com/watch?v=..."   # watch or youtu.be URL
 subjects: [Cryptocurrency, Economics]
+session: "Saturday Morning"      # optional schedule slot, display only
 ```
 
 A `youtube:` URL renders an embedded player on the talk page, a thumbnail
