@@ -37,7 +37,7 @@ sections:
     the costs, however our goal is to have participants! Giving what you can will
     help us cover costs, especially if you invite a friend! Thank you for spreading
     this amazing opportunity! Giving the suggested amount or more makes us breathe
-    a bit easier. Thank you to those that can! [![Eventbrite - BIL LA 2018](https://www.eventbrite.com/custombutton?eid=20085120135)](https://www.eventbrite.com/e/bil-la-2018-tickets-46866897151)
+    a bit easier. Thank you to those that can! [Tickets on Eventbrite](https://www.eventbrite.com/e/bil-la-2018-tickets-46866897151)
     The ticket tiers are as follows: $500.00 Sponsor $250.00 Philanthropist $100.00
     BILder **$50.00 SUGGESTED PRICE** $25.00 Students and Starving Artists *An extra
     note:* *We want you to come at any amount. There is no top down structure, we
@@ -52,8 +52,8 @@ sections:
     items simply cost.* *On behalf of the pre- org team as well as BIL Collaborative,
     thank you! Give what you can!! *'
 - subject: Donate
-  info: '[![](http://dabuttonfactory.com/button.png?t=Donate!&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=0ff&ebgc=032d2d)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WVFA93UNG3752)
-    ![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif) BIL Conference is an
+  info: '[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WVFA93UNG3752)
+    BIL Conference is an
     all-volunteer donation-run event. We thank you for your tax-deductible contribution!'
 - subject: Contributors
   info: 'Thank you to the organizations that are providing support! [Brookfield Properties](https://www.brookfieldproperties.com/contact/)
@@ -74,7 +74,7 @@ sections:
     [![](/media/2015/07/Bulletproof-Dove-Logo.png)](https://www.bulletproof.com/)
     [Chicken Coup Studio](http://chickencoupstudio.com/)'
 - subject: Volunteering
-  info: '[![](http://dabuttonfactory.com/button.png?t=Sign+Up+to+Volunteer!&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763)](https://docs.google.com/forms/d/e/1FAIpQLScIt7po7C4rpbF0WEdoouZOGMl8V3OajBwTLv7ZuCGBgBKvQQ/viewform)
+  info: '[Sign Up to Volunteer](https://docs.google.com/forms/d/e/1FAIpQLScIt7po7C4rpbF0WEdoouZOGMl8V3OajBwTLv7ZuCGBgBKvQQ/viewform)
     A few of the roles we are looking to fill: Pre-Planning Committee: Be involved
     from the ground up! WE have monthly, and eventually weekly calls discussing the
     progress of BIL.  Sponsorhip Coordination: Find sponsors for BIL! Be the point
@@ -111,10 +111,10 @@ sections:
 - subject: Interactives
   info: As we have interactives sign up, we will post them here. If you have an interactive
     experience that you would like to host, please sign up on the wiki with the button
-    below! [![](http://dabuttonfactory.com/button.png?t=Sign+up+an+Interactive!&f=Calibri-Bold&ts=37&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=00f&ebgc=073763)](http://bilconference.pbworks.com/w/page/126740069/BIL%202018%3ALA-%20Sign%20Up%20to%20Host%20an%20Interactive%20Experience)
+    below! [Sign up an Interactive](http://bilconference.pbworks.com/w/page/126740069/BIL%202018%3ALA-%20Sign%20Up%20to%20Host%20an%20Interactive%20Experience)
 - subject: Things We Need
   info: If you want to help out, please see our[wiki](http://bilconference.pbworks.com/w/page/126741065/BIL%202018%3ALA-%20What%20We%20Need)
-    for things we need that you might be able to bring! [![](http://dabuttonfactory.com/button.png?t=Things+We+Need&f=Calibri-Bold&ts=31&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763)](http://bilconference.pbworks.com/w/page/126741065/BIL%202018%3ALA-%20What%20We%20Need)
+    for things we need that you might be able to bring! [Things We Need](http://bilconference.pbworks.com/w/page/126741065/BIL%202018%3ALA-%20What%20We%20Need)
 - subject: F.A.Q.
   info: '# BIL LA 2018 FAQ **WHAT IS BIL?****WHAT DOES BIL STAND FOR? WHERE CAN I
     WATCH BIL TALKS****WHEN IS BIL LA 2018?****WHERE IS BIL LA 2018?**  **WHO IS IN
@@ -367,7 +367,7 @@ BIL is an ad-hoc conference for people looking to change the world in big ways. 
 
 Yes, the naming & unconference spirit was a play off of the formal and elite approach that TED employed to create access to the excellent adventure of life through building a shared community since 2008. Los Angeles is thriving with artists, technologists, makers and doers of all sorts. BIL brings them together for an inspiring weekend of creativity, innovation, new relationships and opportunities.
 
-This fully participant-run (that means  you!), all-volunteer event will host **one main stage** (fully recocorded) of  15 min talks. This will be an [unconference](https://en.wikipedia.org/wiki/Unconference) stage that will not be curated.  You can announce your talk to the community by signing up online [here](http://bilconference.pbworks.com/w/page/126739520/BIL%202018%3ALA-%20Speaker%20Info%20and%20Instructions), *though there will still be whiteboards to sign up for your time slot on the **day of the event, beginning at 9am, Saturday and Sunday.***
+This fully participant-run (that means  you!), all-volunteer event will host **one main stage** (fully recorded) of  15 min talks. This will be an [unconference](https://en.wikipedia.org/wiki/Unconference) stage that will not be curated.  You can announce your talk to the community by signing up online [here](http://bilconference.pbworks.com/w/page/126739520/BIL%202018%3ALA-%20Speaker%20Info%20and%20Instructions), *though there will still be whiteboards to sign up for your time slot on the **day of the event, beginning at 9am, Saturday and Sunday.***
 
 We will showcase themes of Technology and Humanities.  We will lock-in a few high profile speakers, but our goal is to have our unconference EMERGE through the participation of our community.
 

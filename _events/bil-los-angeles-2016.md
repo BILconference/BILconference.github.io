@@ -56,7 +56,7 @@ organizers:
   duties: Speaker Coordinator
 - name: Elizabeth Reynolds
   slug: elizabeth-reynolds
-  duties: Cross Campus Liason
+  duties: Cross Campus Liaison
 - name: Byron Go
   slug: byron-go
   duties: Volunteer
@@ -136,7 +136,7 @@ sections:
     a nice dinner.
 
 
-    [![Eventbrite - BIL LA 2016](https://www.eventbrite.com/custombutton?eid=20085120135)](http://www.eventbrite.com/e/bil-la-2016-tickets-20085120135?ref=ebtnebregn)
+    [Tickets on Eventbrite](http://www.eventbrite.com/e/bil-la-2016-tickets-20085120135?ref=ebtnebregn)
     If you have a volunteer, sponsor, or partner code, you may enter it at the end
     of the ticketing process. Please see our [Sponsor Page](https://bilconference.com/event/bil-los-angeles-2016/#sponsor)
     for the added benefits of being a BILder, Philanthropist or Sponsor! The ticket
@@ -157,15 +157,15 @@ sections:
     goal)! BIL LA is the official fundraiser for BIL Collaborative, the non profit
     for BIL.*'
 - subject: Donate
-  info: '[![](http://dabuttonfactory.com/button.png?t=Donate!&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=0ff&ebgc=032d2d)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WVFA93UNG3752)
-    ![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif) BIL Conference is an
+  info: '[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WVFA93UNG3752)
+    BIL Conference is an
     all-volunteer donation-run event. We thank you for your tax-deductible contribution!'
 - subject: Sponsor
   info: '[![unnamed](/media/2015/12/unnamed.jpg)](/media/2015/12/unnamed.jpg)
 
 
-    [![](http://dabuttonfactory.com/button.png?t=Donate!&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=0ff&ebgc=032d2d)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WVFA93UNG3752)
-    ![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)Increase your exposure
+    [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WVFA93UNG3752)
+    Increase your exposure
     to motivated people spreading great ideas! We expect 400 attendees this year and
     have had anywhere from 200 to 800 attendees with less than a months notice --
     every year. Attendance is open to everyone. This openness makes BIL a wonderful
@@ -286,7 +286,7 @@ sections:
     PREVIOUS SPONSORS ![10984541_10153059744006041_7323322655073919157_o](/media/2015/12/10984541_10153059744006041_7323322655073919157_o.jpg)'
 - subject: Volunteering
   info: 'If you would like to volunteer at BIL, please fill out the form using the
-    button below! [![](http://dabuttonfactory.com/button.png?t=Sign+Up+to+Volunteer!&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763)](https://docs.google.com/forms/d/1E-gG0k9y1BQVm5UE8hSt4PRpEeSKBwV62VJFNO7ckZM/viewform?c=0&w=1)
+    button below! [Sign Up to Volunteer](https://docs.google.com/forms/d/1E-gG0k9y1BQVm5UE8hSt4PRpEeSKBwV62VJFNO7ckZM/viewform?c=0&w=1)
     A few of the roles we are looking to fill: Pre-Planning Committee: Be involved
     from the ground up! WE have monthly, and eventually weekly calls discussing the
     progress of BIL.  Sponsorhip Coordination: Find sponsors for BIL! Be the point
@@ -321,7 +321,7 @@ sections:
 - subject: Interactives
   info: 'As we have interactives sign up, we will post them here. If you have an interactive
     experience that you would like to host, please sign up on the volunteer form with
-    the button below! [![](http://dabuttonfactory.com/button.png?t=Sign+up+an+Interactive!&f=Calibri-Bold&ts=37&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=00f&ebgc=073763)](https://docs.google.com/forms/d/1E-gG0k9y1BQVm5UE8hSt4PRpEeSKBwV62VJFNO7ckZM/viewform)
+    the button below! [Sign up an Interactive](https://docs.google.com/forms/d/1E-gG0k9y1BQVm5UE8hSt4PRpEeSKBwV62VJFNO7ckZM/viewform)
     --- [Create:Fixate](http://createfixate.com), the LA-based non-profit for emerging
     artists, will be running a “Kreativity Zone” for adults, allowing participants
     to flex their creative muscles with childlike arts and crafts. Best known for
@@ -387,7 +387,7 @@ sections:
     host a  **KIDS @ BIL CORNER!** ![](http://4.bp.blogspot.com/-xoMmBYA0Uio/UiOufQtfmOI/AAAAAAAAOck/i0GnFEeCjuc/s1600/lam_logo_600w.png)
 - subject: Things We Need
   info: If you want to help out, please see our google doc for [things we need](https://docs.google.com/document/d/11OSOr96wFSf4hmaHFKZZB3KJ3_Eybs0adWPFwvwj2NQ/edit?usp=sharing)
-    that you might be able to bring! [![](http://dabuttonfactory.com/button.png?t=Things+We+Need&f=Calibri-Bold&ts=31&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763)](https://docs.google.com/document/d/11OSOr96wFSf4hmaHFKZZB3KJ3_Eybs0adWPFwvwj2NQ/edit?usp=sharing)
+    that you might be able to bring! [Things We Need](https://docs.google.com/document/d/11OSOr96wFSf4hmaHFKZZB3KJ3_Eybs0adWPFwvwj2NQ/edit?usp=sharing)
 - subject: F.A.Q. & Logistics
   info: '# BIL LA 2016 FAQ **WHAT IS BIL?****WHAT DOES BIL STAND FOR?  WHERE CAN I
     WATCH BIL TALKS****WHEN IS BIL LA 2016?****WHERE IS BIL LA 2016?****HOTELS****PARKING

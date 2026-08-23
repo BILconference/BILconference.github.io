@@ -8,7 +8,13 @@ layout: default
       <h1>{{ page.title }}</h1>
       <p class="event-meta">
         {% if page.country %}<span class="f32"><span class="flag {{ page.country | downcase }}" title="{{ page.country }}"></span></span> {% endif %}
-        {% if page.start_date %}{{ page.start_date | date: "%B %-d, %Y" }}{% if page.end_date and page.end_date != page.start_date %} – {{ page.end_date | date: "%B %-d, %Y" }}{% endif %}{% endif %}
+        {% comment %} The WordPress import gave some events a synthetic
+          whole-month range; show just the month for those. {% endcomment %}
+        {% assign sm = page.start_date | date: "%Y-%m" %}
+        {% assign em = page.end_date | date: "%Y-%m" %}
+        {% assign sday = page.start_date | date: "%-d" %}
+        {% assign eday = page.end_date | date: "%-d" | plus: 0 %}
+        {% if page.start_date %}{% if sm == em and sday == "1" and eday >= 28 %}{{ page.start_date | date: "%B %Y" }}{% else %}{{ page.start_date | date: "%B %-d, %Y" }}{% if page.end_date and page.end_date != page.start_date %} – {{ page.end_date | date: "%B %-d, %Y" }}{% endif %}{% endif %}{% endif %}
         {% if page.location %} · {{ page.location }}{% endif %}
       </p>
       {% if page.venue %}<p class="event-venue">{{ page.venue }}</p>{% endif %}
@@ -21,6 +27,7 @@ layout: default
   </div>
 </div>
 <article class="page page-body event">
+  <p class="archive-banner">Archived event — preserved as it was written at the time.</p>
   {{ content }}
 
   {% for section in page.sections %}
