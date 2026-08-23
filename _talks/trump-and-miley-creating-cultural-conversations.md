@@ -3,7 +3,7 @@ title: "Trump and Miley: Creating Cultural Conversations"
 slug: trump-and-miley-creating-cultural-conversations
 event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
-speaker: devin-o-neill
+speaker: devin-oneill
 speaker_name: "Devin O'Neill"
 youtube: https://www.youtube.com/watch?v=VkwYHAbuawc
 session: Saturday Unconference
