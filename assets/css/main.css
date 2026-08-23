@@ -447,7 +447,7 @@ hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
   color: var(--blue-light);
   font-size: 1rem;
   line-height: 1;
-  padding: 0 0.4rem;
+  padding: 0 0.4rem 0 0;
   cursor: pointer;
   opacity: 0.7;
   transition: transform 0.25s ease, opacity 0.15s ease;
