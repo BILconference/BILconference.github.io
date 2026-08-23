@@ -5,6 +5,7 @@ date: '2015-08-04 00:27:36'
 wordpress_id: 800
 original_url: http://bilconference.com/christine-peterson/
 association: Co-Founder & Past President, Foresight Institute
+photo: /media/2015/12/Christine-Peterson.jpg
 ---
 
 Christine Peterson writes, lectures, and briefs the media on coming powerful technologies, especially nanotechnology and life extension. She is Co-Founder and Past President of Foresight Institute, the leading nanotech public interest group. Foresight educates the public, technical community, and policymakers on nanotechnology and its long-term effects.

@@ -1,0 +1,8 @@
+---
+title: Pamela Hawley
+slug: pamela-hawley
+photo: /media/2016/03/Pamela-Hawley.jpg
+excerpt: "Speaker, BIL:LA 2016"
+---
+
+lifelong commitment social entrepreneurship grew out of a visit to Mexico at age 12, where she saw extreme poverty firsthand. Since then she has volunteered in more than 10 countries. Pamela’s global experience includes volunteering in micro finance in remote villages of India; crisis relief work in the 2000 El Salvador earthquake; sustainable farming in Guatemala; digital divide training in Cambodia; and indigenous community preservation in Ecuador. Pamela founded and launched VolunteerMatch Corporate in 1996, bringing in more than $1 million revenue and 20 Fortune 500 companies. In November 2001, she decided to leave VolunteerMatch. Her true calling was to move her social entrepreneurship to an international stage. She recognized that certain resources in the United States were entirely unavailable internationally. This motivated her to found UniversalGiving in 2002. UniversalGiving is an award-winning online platform that allows people to donate and volunteer with vetted organizations all over the world. It allows users to donate and volunteer with vetted organizations all over the world, connecting people with opportunities to give back at the local level. In addition to quality NGO partners, UniversalGiving is unique in its revenue generation. UniversalGiving is a free service, and 100% of each donation made through the site go directly to the cause. UniversalGiving remains financially sustainable by providing consulting services to Fortune 500 companies, helping them scale their Philanthropy and Volunteering programs all over the world.
