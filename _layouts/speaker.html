@@ -14,6 +14,7 @@ layout: default
       {% comment %} Jekyll auto-derives excerpt from the first paragraph; only
         show it as a hero note when it isn't just the body's opening. {% endcomment %}
       {% if note != "" %}{% unless body_text contains note %}<p class="profile-note">{{ page.excerpt }}</p>{% endunless %}{% endif %}
+      {% if page.website %}<p class="event-links"><a href="{{ page.website }}">Website</a></p>{% endif %}
     </div>
   </div>
 </div>
