@@ -5,7 +5,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: mencius-moldbug
 speaker_name: Mencius Moldbug
-youtube: https://www.youtube.com/watch?v=ZluMysK2B1E
+video: https://www.youtube.com/watch?v=ZluMysK2B1E
 subjects: [society-and-politics]
 ---
 

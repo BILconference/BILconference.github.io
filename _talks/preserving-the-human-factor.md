@@ -5,7 +5,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: carter-gibson
 speaker_name: Carter Gibson
-youtube: https://www.youtube.com/watch?v=J1sYIDESFto
+video: https://www.youtube.com/watch?v=J1sYIDESFto
 subjects: [society-and-politics]
 ---
 

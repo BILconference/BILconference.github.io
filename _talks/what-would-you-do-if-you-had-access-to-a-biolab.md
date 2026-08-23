@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: scott-pownall
 speaker_name: Scott Pownall
-youtube: https://www.youtube.com/watch?v=BI4xToe3Vo8
+video: https://www.youtube.com/watch?v=BI4xToe3Vo8
 subjects: [science-and-space, community-and-unconference]
 ---
 

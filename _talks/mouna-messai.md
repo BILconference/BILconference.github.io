@@ -5,7 +5,7 @@ event: bilwomen-tunisia-2015
 event_name: "BIL:Women Tunisia 2015"
 speaker: mouna-messai
 speaker_name: "Mouna Messai"
-youtube: "https://www.youtube.com/watch?v=g2o5EP1HQzc"
+video: "https://www.youtube.com/watch?v=g2o5EP1HQzc"
 subjects: [society-and-politics]
 ---
 

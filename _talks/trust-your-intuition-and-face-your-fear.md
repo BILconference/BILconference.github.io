@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: simmone-park
 speaker_name: Simmone Park
-youtube: https://www.youtube.com/watch?v=c5vbjQnxzEI
+video: https://www.youtube.com/watch?v=c5vbjQnxzEI
 subjects: [personal-growth]
 ---
 

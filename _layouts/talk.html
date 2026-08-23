@@ -16,13 +16,20 @@ layout: default
   </div>
 </div>
 <article class="page page-body talk">
-  {% include youtube-id.html url=page.youtube %}
+  {% include video-id.html url=page.video %}
   {% if vid != "" %}
   <div class="video-embed">
     <iframe src="https://www.youtube-nocookie.com/embed/{{ vid }}" title="{{ page.title }}" frameborder="0" allowfullscreen loading="lazy"></iframe>
   </div>
-  {% elsif page.youtube %}
-  <p><a href="{{ page.youtube }}">Watch the talk &rarr;</a></p>
+  {% elsif vimeo_id != "" %}
+  <div class="video-embed">
+    <iframe src="https://player.vimeo.com/video/{{ vimeo_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  </div>
+  {% elsif page.video %}
+  <p><a href="{{ page.video }}">Watch the talk &rarr;</a></p>
+  {% endif %}
+  {% if page.slides or page.audio %}
+  <p class="talk-resources">{% if page.slides %}<a href="{{ page.slides }}">Slides &rarr;</a>{% endif %}{% if page.slides and page.audio %} · {% endif %}{% if page.audio %}<a href="{{ page.audio }}">Audio recording &rarr;</a>{% endif %}</p>
   {% endif %}
 
   {{ content }}
@@ -40,7 +47,7 @@ layout: default
     <h2>More from {{ page.event_name }}</h2>
     <ul class="talk-list">
       {% for t in ev_related limit: 4 %}
-      <li><a href="{{ t.url | relative_url }}">{{ t.title }}</a>{% if t.speaker_name %} <span class="talk-speaker">— {{ t.speaker_name }}</span>{% endif %}{% if t.youtube %} <span class="badge">▶ video</span>{% endif %}</li>
+      <li><a href="{{ t.url | relative_url }}">{{ t.title }}</a>{% if t.speaker_name %} <span class="talk-speaker">— {{ t.speaker_name }}</span>{% endif %}{% if t.video %} <span class="badge">▶ video</span>{% endif %}</li>
       {% endfor %}
     </ul>
   </section>
@@ -55,7 +62,7 @@ layout: default
     <h2>More on <a href="{{ '/topics/' | relative_url }}#{{ topic }}">{{ td.name | default: topic }}</a></h2>
     <ul class="talk-list">
       {% for t in topic_related limit: 4 %}
-      <li><a href="{{ t.url | relative_url }}">{{ t.title }}</a>{% if t.speaker_name %} <span class="talk-speaker">— {{ t.speaker_name }}</span>{% endif %}{% if t.youtube %} <span class="badge">▶ video</span>{% endif %}</li>
+      <li><a href="{{ t.url | relative_url }}">{{ t.title }}</a>{% if t.speaker_name %} <span class="talk-speaker">— {{ t.speaker_name }}</span>{% endif %}{% if t.video %} <span class="badge">▶ video</span>{% endif %}</li>
       {% endfor %}
     </ul>
   </section>

@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: damian-apunte
 speaker_name: Damian Apunte
-youtube: https://www.youtube.com/watch?v=V2HysamGoSg
+video: https://www.youtube.com/watch?v=V2HysamGoSg
 subjects: [environment-and-food, arts-and-media]
 ---
 

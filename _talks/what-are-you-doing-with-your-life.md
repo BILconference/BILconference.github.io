@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: veronica-flores
 speaker_name: Veronica Flores
-youtube: https://www.youtube.com/watch?v=pupyj_2jR24
+video: https://www.youtube.com/watch?v=pupyj_2jR24
 session: Saturday Unconference
 subjects: [personal-growth, entrepreneurship-and-work]
 ---

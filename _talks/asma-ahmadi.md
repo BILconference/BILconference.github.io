@@ -5,7 +5,7 @@ event: bil-apbs
 event_name: "BIL:APBS"
 speaker: asma-ahmadi
 speaker_name: "Asma Ahmadi"
-youtube: "https://www.youtube.com/watch?v=1Cvy-YsphjA"
+video: "https://www.youtube.com/watch?v=1Cvy-YsphjA"
 subjects: [personal-growth]
 ---
 

@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: jason-dunn
 speaker_name: Jason Dunn
-youtube: https://www.youtube.com/watch?v=xEMqDvt19vE
+video: https://www.youtube.com/watch?v=xEMqDvt19vE
 subjects: [science-and-space]
 ---
 

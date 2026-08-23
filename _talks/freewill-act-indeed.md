@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: nathan-miller
 speaker_name: Nathan Miller
-youtube: https://www.youtube.com/watch?v=0Bt4DQzAx_M
+video: https://www.youtube.com/watch?v=0Bt4DQzAx_M
 subjects: [society-and-politics]
 ---
 

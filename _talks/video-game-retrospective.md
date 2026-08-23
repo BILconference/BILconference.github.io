@@ -6,7 +6,7 @@ event_name: BIL 2018 Los Angeles
 speaker: william-volk
 speaker_name: William Volk
 session: "Saturday 2:00"
-youtube: "https://www.youtube.com/watch?v=6yplzif60KQ"
+video: "https://www.youtube.com/watch?v=6yplzif60KQ"
 subjects: [arts-and-media]
 ---
 

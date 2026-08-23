@@ -3,7 +3,7 @@ layout: page
 title: Videos
 permalink: /videos/
 ---
-{% assign with_video = site.talks | where_exp: "t", "t.youtube" %}
+{% assign with_video = site.talks | where_exp: "t", "t.video" %}
 <p>{{ with_video.size }} recorded talks from BIL events around the world. Click any thumbnail to watch.</p>
 <div class="filter-bar" data-filter-items=".video-card" data-filter-groups=".video-grid" data-filter-placeholder="Filter videos by title or speaker"></div>
 

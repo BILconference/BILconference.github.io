@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: kevin-russell
 speaker_name: Kevin Russell
-youtube: https://www.youtube.com/watch?v=jp2DjjrFNx8
+video: https://www.youtube.com/watch?v=jp2DjjrFNx8
 subjects: [personal-growth]
 ---
 

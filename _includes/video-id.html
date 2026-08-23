@@ -1,0 +1,10 @@
+{% comment %}
+  Parses include.url and sets, in the caller's scope:
+    `vid`      — YouTube video id ("" if none)
+    `vimeo_id` — Vimeo video id ("" if none)
+{% endcomment %}
+{% assign vid = "" %}
+{% assign vimeo_id = "" %}
+{% if include.url contains "watch?v=" %}{% assign vid = include.url | split: "v=" | last | split: "&" | first %}
+{% elsif include.url contains "youtu.be/" %}{% assign vid = include.url | split: "youtu.be/" | last | split: "?" | first %}
+{% elsif include.url contains "vimeo.com/" %}{% assign vimeo_id = include.url | split: "vimeo.com/" | last | split: "/" | first | split: "?" | first %}{% endif %}

@@ -8,7 +8,7 @@ event: bil-davos-2017
 event_name: BIL:Davos 2017
 speaker: heather-vancura
 speaker_name: Heather VanCura
-youtube: https://www.youtube.com/watch?v=gwKoF4ek3o0
+video: https://www.youtube.com/watch?v=gwKoF4ek3o0
 start_time: '2017-01-17 10:00:00'
 end_time: '2017-01-17 11:00:00'
 subjects: [entrepreneurship-and-work, society-and-politics]

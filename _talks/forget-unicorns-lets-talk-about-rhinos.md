@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: matt-toner
 speaker_name: Matt Toner
-youtube: https://www.youtube.com/watch?v=4xhw2RIZxdA
+video: https://www.youtube.com/watch?v=4xhw2RIZxdA
 subjects: [entrepreneurship-and-work]
 ---
 

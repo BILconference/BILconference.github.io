@@ -5,7 +5,7 @@ event: bil-sayada
 event_name: "BIL:Sayada"
 speaker: ahmed-mhenni
 speaker_name: "Ahmed M'henni & Mohamed Naceur Abderazzak"
-youtube: "https://www.youtube.com/watch?v=x8YYpuZMW4k"
+video: "https://www.youtube.com/watch?v=x8YYpuZMW4k"
 subjects: [society-and-politics, community-and-unconference]
 ---
 

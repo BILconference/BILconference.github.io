@@ -5,7 +5,7 @@ event: bil-apbs
 event_name: "BIL:APBS"
 speaker: fares-zeghidi
 speaker_name: "Fares Zéghidi"
-youtube: "https://www.youtube.com/watch?v=fgn9_YRUDnY"
+video: "https://www.youtube.com/watch?v=fgn9_YRUDnY"
 subjects: [personal-growth]
 ---
 

@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: amanda-palmer
 speaker_name: Amanda Palmer
-youtube: https://www.youtube.com/watch?v=s4TZpUqi0kI
+video: https://www.youtube.com/watch?v=s4TZpUqi0kI
 subjects: [arts-and-media]
 summary_ai: true
 ---

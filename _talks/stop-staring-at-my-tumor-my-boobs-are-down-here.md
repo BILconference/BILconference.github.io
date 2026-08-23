@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: charlie-nox
 speaker_name: Charlie Nox
-youtube: https://www.youtube.com/watch?v=v45AtiGfolg
+video: https://www.youtube.com/watch?v=v45AtiGfolg
 subjects: [sex-and-relationships, health-and-longevity]
 ---
 

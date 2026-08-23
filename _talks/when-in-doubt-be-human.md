@@ -8,6 +8,6 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: andrea-hayes
 speaker_name: Andrea Hayes
-youtube: https://www.youtube.com/watch?v=okNeTqq3CmM
+video: https://www.youtube.com/watch?v=okNeTqq3CmM
 subjects: [personal-growth]
 ---

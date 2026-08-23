@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: karuna-tanahashi
 speaker_name: Karuna Tanahashi
-youtube: https://www.youtube.com/watch?v=wBaFjMQNo4g
+video: https://www.youtube.com/watch?v=wBaFjMQNo4g
 subjects: [arts-and-media, personal-growth]
 ---
 

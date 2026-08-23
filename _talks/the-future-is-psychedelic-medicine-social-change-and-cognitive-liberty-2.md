@@ -8,7 +8,7 @@ event: bil-flash-la-2015
 event_name: 'BIL: FLASH LA 2015'
 speaker: ashley-booth
 speaker_name: Ashley Booth
-youtube: https://www.youtube.com/watch?v=tXIh7aUjlHo&index=7&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ
+video: https://www.youtube.com/watch?v=tXIh7aUjlHo&index=7&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ
 subjects: [mind-and-consciousness, society-and-politics]
 summary_ai: true
 ---

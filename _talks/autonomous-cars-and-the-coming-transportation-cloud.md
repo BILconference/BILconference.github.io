@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: rahul-sonand
 speaker_name: Rahul Sonand
-youtube: https://www.youtube.com/watch?v=56r0Qv4-h5s
+video: https://www.youtube.com/watch?v=56r0Qv4-h5s
 subjects: [transportation, ai-and-computing]
 ---
 

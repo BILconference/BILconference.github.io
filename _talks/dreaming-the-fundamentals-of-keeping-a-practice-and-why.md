@@ -5,7 +5,7 @@ event: bil-2018-los-angeles
 event_name: BIL 2018 Los Angeles
 speaker_name: Jason Levit
 session: "Sunday 3:20"
-youtube: "https://www.youtube.com/watch?v=PSGNNW-0qT8"
+video: "https://www.youtube.com/watch?v=PSGNNW-0qT8"
 subjects: [mind-and-consciousness]
 summary_ai: true
 ---

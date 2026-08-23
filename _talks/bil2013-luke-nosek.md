@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: luke-nosek
 speaker_name: Luke Nosek
-youtube: https://www.youtube.com/watch?v=FgeraNRDvUg
+video: https://www.youtube.com/watch?v=FgeraNRDvUg
 subjects: [entrepreneurship-and-work]
 summary_ai: true
 ---

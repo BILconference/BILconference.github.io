@@ -8,7 +8,7 @@ event: bil-davos-2017
 event_name: BIL:Davos 2017
 speaker: evan-van-ness
 speaker_name: Evan Van Ness
-youtube: https://www.youtube.com/watch?v=_TDxXw3k5TU
+video: https://www.youtube.com/watch?v=_TDxXw3k5TU
 start_time: '2017-01-20 14:00:00'
 end_time: '2017-01-20 15:00:00'
 subjects: [ai-and-computing]

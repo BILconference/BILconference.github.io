@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: mystic-pete
 speaker_name: Mystic Pete
-youtube: https://www.youtube.com/watch?v=vreoYkjrM_M
+video: https://www.youtube.com/watch?v=vreoYkjrM_M
 subjects: [arts-and-media, mind-and-consciousness]
 ---
 

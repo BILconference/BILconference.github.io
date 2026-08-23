@@ -8,6 +8,6 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: yana-kabirova
 speaker_name: Yana Kabirova
-youtube: https://www.youtube.com/watch?v=k_z0_WYxCJ4
+video: https://www.youtube.com/watch?v=k_z0_WYxCJ4
 subjects: [personal-growth]
 ---

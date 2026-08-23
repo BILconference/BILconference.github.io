@@ -5,7 +5,7 @@ event: bil-soliman
 event_name: "BIL Soliman"
 speaker: mohamed-aymen-romadhani
 speaker_name: "Mohamed Aymen Romadhani"
-youtube: "https://www.youtube.com/watch?v=z6Kkym-vD5c"
+video: "https://www.youtube.com/watch?v=z6Kkym-vD5c"
 subjects: [personal-growth]
 ---
 

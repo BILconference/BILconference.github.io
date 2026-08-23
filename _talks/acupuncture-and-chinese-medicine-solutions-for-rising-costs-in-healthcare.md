@@ -8,7 +8,7 @@ event: bil-davos-2017
 event_name: BIL:Davos 2017
 speaker: snohomish-brown
 speaker_name: Snohomish Brown
-youtube: https://www.youtube.com/watch?v=N304afI-9q8
+video: https://www.youtube.com/watch?v=N304afI-9q8
 start_time: '2017-01-20 18:00:00'
 end_time: '2017-01-20 19:00:00'
 subjects: [health-and-longevity]

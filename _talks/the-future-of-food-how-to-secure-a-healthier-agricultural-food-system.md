@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: judy-frankel
 speaker_name: Judy Frankel
-youtube: https://www.youtube.com/watch?v=VKBuwgBbnAE
+video: https://www.youtube.com/watch?v=VKBuwgBbnAE
 session: Sunday Main Stage
 subjects: [environment-and-food]
 ---

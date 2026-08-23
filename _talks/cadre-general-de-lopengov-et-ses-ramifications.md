@@ -5,7 +5,7 @@ event: bil-sayada
 event_name: "BIL:Sayada"
 speaker: azza-chaouch
 speaker_name: "Azza Chaouch"
-youtube: "https://www.youtube.com/watch?v=_TwBqmlubCk"
+video: "https://www.youtube.com/watch?v=_TwBqmlubCk"
 subjects: [society-and-politics]
 ---
 

@@ -5,7 +5,7 @@ event: bil-lpbt
 event_name: "BIL:LPBT"
 speaker: rym-el-guid
 speaker_name: "Rym El Guid"
-youtube: "https://www.youtube.com/watch?v=7PF7BsDWm1g"
+video: "https://www.youtube.com/watch?v=7PF7BsDWm1g"
 subjects: [personal-growth]
 ---
 

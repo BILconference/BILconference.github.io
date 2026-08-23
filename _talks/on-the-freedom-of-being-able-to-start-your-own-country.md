@@ -6,7 +6,7 @@ event_name: BIL 2018 Los Angeles
 speaker: alexandros-pagidas
 speaker_name: Alexandros Pagidas
 session: "Saturday 2:40"
-youtube: "https://www.youtube.com/watch?v=U68oTmfpVIY"
+video: "https://www.youtube.com/watch?v=U68oTmfpVIY"
 subjects: [society-and-politics]
 summary_ai: true
 ---

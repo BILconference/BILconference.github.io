@@ -8,7 +8,7 @@ event: bil-flash-la-2015
 event_name: 'BIL: FLASH LA 2015'
 speaker: alex-wormuth
 speaker_name: Alex Wormuth
-youtube: https://www.youtube.com/watch?v=ih66eQxz2Fw&index=6&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ
+video: https://www.youtube.com/watch?v=ih66eQxz2Fw&index=6&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ
 subjects: [health-and-longevity, ai-and-computing]
 summary_ai: true
 ---

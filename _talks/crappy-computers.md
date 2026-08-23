@@ -6,7 +6,7 @@ event_name: BIL 2018 Los Angeles
 speaker: michael-gat
 speaker_name: Michael Gat
 session: "Saturday 3:20"
-youtube: "https://www.youtube.com/watch?v=ggGOcU5d5Rw"
+video: "https://www.youtube.com/watch?v=ggGOcU5d5Rw"
 subjects: [ai-and-computing]
 ---
 

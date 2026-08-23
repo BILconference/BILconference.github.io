@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: d-cotter
 speaker_name: D. Cotter
-youtube: https://www.youtube.com/watch?v=XvPaPS6gm70
+video: https://www.youtube.com/watch?v=XvPaPS6gm70
 session: Sunday Main Stage
 subjects: [entrepreneurship-and-work, arts-and-media]
 ---

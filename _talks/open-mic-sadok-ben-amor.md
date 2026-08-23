@@ -5,7 +5,7 @@ event: bil-lpbt
 event_name: "BIL:LPBT"
 speaker: sadok-ben-amor
 speaker_name: "Sadok Ben Amor"
-youtube: "https://www.youtube.com/watch?v=QcVp1oTiFSE"
+video: "https://www.youtube.com/watch?v=QcVp1oTiFSE"
 subjects: [community-and-unconference]
 ---
 

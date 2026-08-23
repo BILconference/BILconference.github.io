@@ -52,7 +52,7 @@ title: Home
     <a href="{{ '/events/' | relative_url }}"><strong>{{ site.events.size }}</strong> events</a>
     <a href="{{ '/speakers/' | relative_url }}"><strong>~{{ est_speakers }}</strong> speakers</a>
     <a href="{{ '/talks/' | relative_url }}"><strong>~{{ est_talks }}</strong> talks</a>
-    <a href="{{ '/videos/' | relative_url }}"><strong>{{ site.talks | where_exp: "t", "t.youtube" | size }}</strong> videos</a>
+    <a href="{{ '/videos/' | relative_url }}"><strong>{{ site.talks | where_exp: "t", "t.video" | size }}</strong> videos</a>
   </p>
   <p class="stats-note">Estimated from the events whose line-ups were documented —
     {{ site.speakers.size }} speakers and {{ site.talks.size }} talks are archived here so far.</p>

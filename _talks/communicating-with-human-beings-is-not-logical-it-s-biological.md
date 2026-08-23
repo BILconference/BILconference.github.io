@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: john-bates
 speaker_name: John Bates
-youtube: https://www.youtube.com/watch?v=N2rXmnfdrgw
+video: https://www.youtube.com/watch?v=N2rXmnfdrgw
 session: Saturday Main Stage
 subjects: [personal-growth]
 ---

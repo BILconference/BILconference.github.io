@@ -5,7 +5,7 @@ event: bil-apbs
 event_name: "BIL:APBS"
 speaker: mariam-toure
 speaker_name: "Mariam Touré"
-youtube: "https://www.youtube.com/watch?v=-UYPMxNsYv0"
+video: "https://www.youtube.com/watch?v=-UYPMxNsYv0"
 subjects: [personal-growth]
 ---
 

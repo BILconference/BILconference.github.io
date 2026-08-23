@@ -5,7 +5,7 @@ event: bil-ezzouhour
 event_name: "BIL:Ezzouhour"
 speaker: mounir-argoubi
 speaker_name: "Mounir Argoubi"
-youtube: "https://www.youtube.com/watch?v=dzRPtBz3d-8"
+video: "https://www.youtube.com/watch?v=dzRPtBz3d-8"
 subjects: [arts-and-media]
 ---
 

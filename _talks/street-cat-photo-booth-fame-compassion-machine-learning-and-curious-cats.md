@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: jordan-matthew-yerman
 speaker_name: Jordan Matthew Yerman
-youtube: https://www.youtube.com/watch?v=Aa2itoAJRl8
+video: https://www.youtube.com/watch?v=Aa2itoAJRl8
 subjects: [ai-and-computing, arts-and-media]
 summary_ai: true
 ---

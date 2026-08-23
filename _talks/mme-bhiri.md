@@ -5,7 +5,7 @@ event: bil-women
 event_name: "BIL:Women"
 speaker: mme-bhiri
 speaker_name: "Mme Bhiri"
-youtube: "https://www.youtube.com/watch?v=dO-OAWa3YmU"
+video: "https://www.youtube.com/watch?v=dO-OAWa3YmU"
 subjects: [society-and-politics]
 ---
 

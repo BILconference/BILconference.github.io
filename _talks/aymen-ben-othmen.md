@@ -5,7 +5,7 @@ event: bil-bardo
 event_name: "BIL:Bardo"
 speaker: aymen-ben-othmen
 speaker_name: "Aymen Ben Othmen"
-youtube: "https://www.youtube.com/watch?v=bQYUwUXJVs0"
+video: "https://www.youtube.com/watch?v=bQYUwUXJVs0"
 subjects: [personal-growth]
 ---
 

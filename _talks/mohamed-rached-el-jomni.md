@@ -5,7 +5,7 @@ event: bil-youth
 event_name: "BIL:Youth"
 speaker: mohamed-rached-el-jomni
 speaker_name: "Mohamed Rached El Jomni"
-youtube: "https://www.youtube.com/watch?v=lwNIDH3ybdA"
+video: "https://www.youtube.com/watch?v=lwNIDH3ybdA"
 subjects: [entrepreneurship-and-work]
 ---
 

@@ -9,6 +9,6 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: nikolas-badminton
 speaker_name: Nikolas Badminton
-youtube: https://www.youtube.com/watch?v=25KGcLi7dSQ
+video: https://www.youtube.com/watch?v=25KGcLi7dSQ
 subjects: [ai-and-computing]
 ---

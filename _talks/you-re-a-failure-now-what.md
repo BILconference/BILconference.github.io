@@ -6,7 +6,7 @@ event_name: BIL 2018 Los Angeles
 speaker: michael-gat
 speaker_name: Michael Gat
 session: "Saturday 1:40"
-youtube: "https://www.youtube.com/watch?v=Cj5U6CQfJBA"
+video: "https://www.youtube.com/watch?v=Cj5U6CQfJBA"
 subjects: [personal-growth]
 ---
 

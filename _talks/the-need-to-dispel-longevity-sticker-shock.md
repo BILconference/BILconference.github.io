@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: aubrey-de-grey
 speaker_name: Aubrey de Grey
-youtube: https://www.youtube.com/watch?v=PX5bes7z4Lg
+video: https://www.youtube.com/watch?v=PX5bes7z4Lg
 subjects: [health-and-longevity]
 ---
 

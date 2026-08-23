@@ -8,7 +8,7 @@ event: bil-sf-2014
 event_name: BIL:SF 2014
 speaker: brad-templeton
 speaker_name: Brad Templeton
-youtube: https://www.youtube.com/watch?v=i7zKvSVyhzA&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=4
+video: https://www.youtube.com/watch?v=i7zKvSVyhzA&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=4
 subjects: [transportation, security-and-privacy]
 summary_ai: true
 ---

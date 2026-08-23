@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: john-smart
 speaker_name: John Smart
-youtube: https://www.youtube.com/watch?v=EBEfhKdmb9g
+video: https://www.youtube.com/watch?v=EBEfhKdmb9g
 session: Saturday Main Stage
 subjects: [ai-and-computing]
 ---

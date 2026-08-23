@@ -8,6 +8,6 @@ event: bil-2012
 event_name: BIL 2012
 speaker: ray-podder
 speaker_name: Ray Podder
-youtube: https://www.youtube.com/watch?v=2TkkRhPrhBo
+video: https://www.youtube.com/watch?v=2TkkRhPrhBo
 subjects: [environment-and-food]
 ---

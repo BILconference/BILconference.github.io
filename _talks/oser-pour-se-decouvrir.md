@@ -5,7 +5,7 @@ event: bil-lpbt
 event_name: "BIL:LPBT"
 speaker: hamideddine-bouali
 speaker_name: "Hamideddine Bouali"
-youtube: "https://www.youtube.com/watch?v=9U-9q9Pryqc"
+video: "https://www.youtube.com/watch?v=9U-9q9Pryqc"
 subjects: [personal-growth]
 ---
 

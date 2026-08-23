@@ -5,7 +5,7 @@ event: bil-anime
 event_name: "BIL:Anime"
 speaker: raedd-luffy
 speaker_name: "RaedD Luffy"
-youtube: "https://www.youtube.com/watch?v=eAEiWlDlDLc"
+video: "https://www.youtube.com/watch?v=eAEiWlDlDLc"
 subjects: [arts-and-media]
 ---
 

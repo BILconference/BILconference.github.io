@@ -5,7 +5,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: john-roberts
 speaker_name: John Roberts
-youtube: https://www.youtube.com/watch?v=G62ngxWMrGk
+video: https://www.youtube.com/watch?v=G62ngxWMrGk
 subjects: [education-and-learning]
 ---
 

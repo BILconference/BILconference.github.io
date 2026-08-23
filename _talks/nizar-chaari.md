@@ -5,7 +5,7 @@ event: bil-soukra
 event_name: "BIL:Soukra"
 speaker: nizar-chaari
 speaker_name: "Nizar Chaari"
-youtube: "https://www.youtube.com/watch?v=oMa5hqjJkJw"
+video: "https://www.youtube.com/watch?v=oMa5hqjJkJw"
 subjects: [arts-and-media]
 ---
 

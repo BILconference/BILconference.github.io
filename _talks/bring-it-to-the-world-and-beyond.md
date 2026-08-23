@@ -8,7 +8,7 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: alex-lightman
 speaker_name: Alex Lightman
-youtube: https://www.youtube.com/watch?v=HvcnW96qBW4
+video: https://www.youtube.com/watch?v=HvcnW96qBW4
 subjects: [entrepreneurship-and-work]
 summary_ai: true
 ---

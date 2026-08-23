@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: julien-emile-geay
 speaker_name: Julien Emile-Geay
-youtube: https://www.youtube.com/watch?v=fESWFza4CGY
+video: https://www.youtube.com/watch?v=fESWFza4CGY
 session: Saturday Unconference
 subjects: [environment-and-food, society-and-politics]
 ---

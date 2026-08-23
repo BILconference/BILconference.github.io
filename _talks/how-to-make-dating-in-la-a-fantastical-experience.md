@@ -8,7 +8,7 @@ event: bil-flash-la-2015
 event_name: 'BIL: FLASH LA 2015'
 speaker: erin-tillman
 speaker_name: Erin Tillman
-youtube: https://www.youtube.com/watch?v=vlwLVXYGQGY&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ&index=3
+video: https://www.youtube.com/watch?v=vlwLVXYGQGY&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ&index=3
 subjects: [sex-and-relationships]
 summary_ai: true
 ---

@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: gary-stuart
 speaker_name: Gary Stuart
-youtube: https://www.youtube.com/watch?v=KppOGyjVEnU
+video: https://www.youtube.com/watch?v=KppOGyjVEnU
 session: Saturday Unconference
 subjects: [mind-and-consciousness, personal-growth]
 ---

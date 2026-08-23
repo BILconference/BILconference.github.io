@@ -8,6 +8,6 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: alexis-nelson
 speaker_name: Alexis Nelson & William Mark McCullough
-youtube: https://www.youtube.com/watch?v=d-JQZDNj574&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=21
+video: https://www.youtube.com/watch?v=d-JQZDNj574&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=21
 subjects: [arts-and-media]
 ---

@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: maria-entraigues-abramson
 speaker_name: Maria Entraigues-Abramson
-youtube: https://www.youtube.com/watch?v=ekgSL_sO2Ic
+video: https://www.youtube.com/watch?v=ekgSL_sO2Ic
 subjects: [health-and-longevity]
 ---
 

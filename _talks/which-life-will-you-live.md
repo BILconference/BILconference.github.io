@@ -5,7 +5,7 @@ event: bil-lpbt
 event_name: "BIL:LPBT"
 speaker: olfa-ben-mohamed
 speaker_name: "Olfa Ben Mohamed"
-youtube: "https://www.youtube.com/watch?v=YkmJG8nN6_0"
+video: "https://www.youtube.com/watch?v=YkmJG8nN6_0"
 subjects: [personal-growth]
 ---
 

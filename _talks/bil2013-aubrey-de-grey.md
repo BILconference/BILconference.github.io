@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: aubrey-de-grey
 speaker_name: Aubrey de Grey
-youtube: https://www.youtube.com/watch?v=KwG-rNYZk-s
+video: https://www.youtube.com/watch?v=KwG-rNYZk-s
 subjects: [health-and-longevity]
 summary_ai: true
 ---

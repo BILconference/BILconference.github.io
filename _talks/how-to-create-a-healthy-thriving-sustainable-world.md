@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: mike-rose
 speaker_name: Mike Rose
-youtube: https://www.youtube.com/watch?v=mTK7JFB4yKc
+video: https://www.youtube.com/watch?v=mTK7JFB4yKc
 subjects: [society-and-politics, environment-and-food]
 ---
 

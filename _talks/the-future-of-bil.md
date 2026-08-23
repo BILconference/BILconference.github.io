@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: cody-marx-bailey
 speaker_name: Cody Marx Bailey & Michael Cummings
-youtube: https://www.youtube.com/watch?v=ASnJTBtHSC8
+video: https://www.youtube.com/watch?v=ASnJTBtHSC8
 subjects: [community-and-unconference]
 ---
 

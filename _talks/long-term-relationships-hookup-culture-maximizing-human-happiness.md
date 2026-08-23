@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: christine-peterson
 speaker_name: Christine Peterson
-youtube: https://www.youtube.com/watch?v=_ycgpfAIE1U
+video: https://www.youtube.com/watch?v=_ycgpfAIE1U
 session: Saturday Unconference
 subjects: [sex-and-relationships]
 ---

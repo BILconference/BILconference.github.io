@@ -8,7 +8,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: sandra-daugherty
 speaker_name: Sandra "Sex Nerd" Daugherty
-youtube: https://www.youtube.com/watch?v=-V2ky06Bt4A
+video: https://www.youtube.com/watch?v=-V2ky06Bt4A
 subjects: [sex-and-relationships]
 ---
 

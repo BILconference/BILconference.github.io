@@ -8,6 +8,6 @@ event: bil-2012
 event_name: BIL 2012
 speaker: damian-madray
 speaker_name: Damian Madray
-youtube: https://www.youtube.com/watch?v=YkjzAJ01Pg0
+video: https://www.youtube.com/watch?v=YkjzAJ01Pg0
 subjects: [personal-growth]
 ---

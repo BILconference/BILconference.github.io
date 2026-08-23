@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: paul-hynek-gregg-katano
 speaker_name: Paul Hynek & Gregg Katano
-youtube: https://www.youtube.com/watch?v=dt4f8gMd_Dw
+video: https://www.youtube.com/watch?v=dt4f8gMd_Dw
 subjects: [ai-and-computing, arts-and-media]
 ---
 

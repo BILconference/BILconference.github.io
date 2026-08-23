@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: shannon-lambie
 speaker_name: Shannon Lambie
-youtube: https://www.youtube.com/watch?v=HRE-SBjv9mQ
+video: https://www.youtube.com/watch?v=HRE-SBjv9mQ
 subjects: [environment-and-food]
 summary_ai: true
 ---

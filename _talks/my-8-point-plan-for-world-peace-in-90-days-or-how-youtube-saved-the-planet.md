@@ -8,7 +8,7 @@ event: bil-davos-2017
 event_name: BIL:Davos 2017
 speaker: anne-mottola
 speaker_name: Anne Mottola
-youtube: https://www.youtube.com/watch?v=VOwG_tYg-ns
+video: https://www.youtube.com/watch?v=VOwG_tYg-ns
 start_time: '2017-01-17 22:00:00'
 end_time: '2017-01-17 23:00:00'
 subjects: [society-and-politics, arts-and-media]

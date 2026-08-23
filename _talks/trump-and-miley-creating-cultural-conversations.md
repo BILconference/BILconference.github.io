@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: devin-oneill
 speaker_name: "Devin O'Neill"
-youtube: https://www.youtube.com/watch?v=VkwYHAbuawc
+video: https://www.youtube.com/watch?v=VkwYHAbuawc
 session: Saturday Unconference
 subjects: [society-and-politics, arts-and-media]
 ---

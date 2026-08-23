@@ -5,7 +5,7 @@ event: bil-fst2
 event_name: "BIL:FST2"
 speaker: hamza-kaabar
 speaker_name: "Hamza Kaabar"
-youtube: "https://www.youtube.com/watch?v=KE2ax58yesE"
+video: "https://www.youtube.com/watch?v=KE2ax58yesE"
 subjects: [personal-growth]
 ---
 

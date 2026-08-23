@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: signe-miranda
 speaker_name: Signe Miranda
-youtube: https://www.youtube.com/watch?v=CxbAXKZY_rM
+video: https://www.youtube.com/watch?v=CxbAXKZY_rM
 subjects: [arts-and-media]
 ---
 

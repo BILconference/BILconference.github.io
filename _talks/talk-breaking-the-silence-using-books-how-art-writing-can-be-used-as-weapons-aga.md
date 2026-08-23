@@ -9,7 +9,7 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: mirabelle-jones
 speaker_name: Mirabelle Jones
-youtube: https://www.youtube.com/watch?v=HMYwTyn27ss&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=15&spfreload=1
+video: https://www.youtube.com/watch?v=HMYwTyn27ss&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=15&spfreload=1
 subjects: [arts-and-media, society-and-politics]
 summary_ai: true
 ---

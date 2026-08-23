@@ -8,7 +8,7 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: andrew-mcgregor
 speaker_name: Andrew McGregor
-youtube: https://www.youtube.com/watch?v=hrJtyLaqYmo&index=13&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu
+video: https://www.youtube.com/watch?v=hrJtyLaqYmo&index=13&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu
 subjects: [ai-and-computing]
 summary_ai: true
 ---

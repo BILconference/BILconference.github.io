@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: mya-stark
 speaker_name: Mya Stark
-youtube: https://www.youtube.com/watch?v=HP0EoAnTqLI
+video: https://www.youtube.com/watch?v=HP0EoAnTqLI
 subjects: [education-and-learning]
 ---
 

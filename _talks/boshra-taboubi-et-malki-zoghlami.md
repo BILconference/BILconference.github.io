@@ -5,7 +5,7 @@ event: bil-bardo
 event_name: "BIL:Bardo"
 speaker: boshra-taboubi
 speaker_name: "Boshra Taboubi et Malki Zoghlami"
-youtube: "https://www.youtube.com/watch?v=2n8XxcOb5B0"
+video: "https://www.youtube.com/watch?v=2n8XxcOb5B0"
 subjects: [personal-growth]
 ---
 

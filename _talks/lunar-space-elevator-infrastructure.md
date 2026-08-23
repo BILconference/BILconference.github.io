@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: michael-laine
 speaker_name: Michael Laine
-youtube: https://www.youtube.com/watch?v=YcL1JOMRbvI
+video: https://www.youtube.com/watch?v=YcL1JOMRbvI
 subjects: [science-and-space]
 ---
 

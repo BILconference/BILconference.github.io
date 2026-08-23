@@ -1,5 +1,5 @@
 {% comment %}Thumbnail card linking to a talk page. Pass talk=<talk doc>.{% endcomment %}
-{% include youtube-id.html url=include.talk.youtube %}
+{% include video-id.html url=include.talk.video %}
 <a class="video-card" href="{{ include.talk.url | relative_url }}">
   {% if vid != "" %}<img src="https://i.ytimg.com/vi/{{ vid }}/hqdefault.jpg" alt="" loading="lazy">{% endif %}
   <span class="video-card-title">{{ include.talk.title }}</span>

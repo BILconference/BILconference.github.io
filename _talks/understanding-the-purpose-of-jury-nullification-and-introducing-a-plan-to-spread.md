@@ -9,6 +9,6 @@ event: bil-2012
 event_name: BIL 2012
 speaker: kai-chang
 speaker_name: Kai Chang
-youtube: https://www.youtube.com/watch?v=ng90fwwWlIA
+video: https://www.youtube.com/watch?v=ng90fwwWlIA
 subjects: [society-and-politics]
 ---

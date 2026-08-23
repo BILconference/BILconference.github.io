@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: melanie-knight
 speaker_name: Melanie Knight
-youtube: https://www.youtube.com/watch?v=f5NuL97yHZs
+video: https://www.youtube.com/watch?v=f5NuL97yHZs
 subjects: [environment-and-food, education-and-learning]
 summary_ai: true
 ---

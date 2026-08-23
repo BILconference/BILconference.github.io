@@ -5,7 +5,7 @@ event: bil-women
 event_name: "BIL:Women"
 speaker: dalila-yaakoubi
 speaker_name: "Dalila Yaakoubi"
-youtube: "https://www.youtube.com/watch?v=fX2SjAF21MM"
+video: "https://www.youtube.com/watch?v=fX2SjAF21MM"
 subjects: [society-and-politics]
 ---
 

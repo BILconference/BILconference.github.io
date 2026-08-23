@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: chris-vasquez
 speaker_name: Chris Vasquez
-youtube: https://www.youtube.com/watch?v=t_o3pfZKI0A
+video: https://www.youtube.com/watch?v=t_o3pfZKI0A
 session: Sunday Main Stage
 subjects: [transportation]
 ---

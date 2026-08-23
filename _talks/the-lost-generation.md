@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: lisa-bunnage
 speaker_name: Lisa Bunnage
-youtube: https://www.youtube.com/watch?v=VINHmlrGWzQ
+video: https://www.youtube.com/watch?v=VINHmlrGWzQ
 subjects: [education-and-learning, society-and-politics]
 ---
 

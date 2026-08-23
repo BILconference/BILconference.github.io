@@ -5,7 +5,7 @@ event: bil-2013
 event_name: BIL 2013
 speaker: andy-lee
 speaker_name: Andy Lee
-youtube: https://www.youtube.com/watch?v=7Et13DB2lvM
+video: https://www.youtube.com/watch?v=7Et13DB2lvM
 subjects: [ai-and-computing]
 ---
 

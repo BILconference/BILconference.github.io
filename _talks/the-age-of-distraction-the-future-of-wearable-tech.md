@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: isa-gordon
 speaker_name: Isa Gordon
-youtube: https://www.youtube.com/watch?v=YDHIHi8tbp8
+video: https://www.youtube.com/watch?v=YDHIHi8tbp8
 session: Sunday Unconference
 subjects: [ai-and-computing, mind-and-consciousness]
 ---

@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: diana-ng
 speaker_name: Diana Ng
-youtube: https://www.youtube.com/watch?v=Bb6Osa26220
+video: https://www.youtube.com/watch?v=Bb6Osa26220
 subjects: [mind-and-consciousness]
 ---
 

@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: alex-wormuth
 speaker_name: Alex Wormuth
-youtube: https://www.youtube.com/watch?v=8TiYESCeNNQ
+video: https://www.youtube.com/watch?v=8TiYESCeNNQ
 subjects: [health-and-longevity, ai-and-computing]
 ---
 

@@ -8,7 +8,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: josh-whiton
 speaker_name: Josh Whiton
-youtube: https://www.youtube.com/watch?v=nOd7YuQEfTM
+video: https://www.youtube.com/watch?v=nOd7YuQEfTM
 subjects: [health-and-longevity]
 ---
 

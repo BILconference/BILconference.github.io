@@ -5,7 +5,7 @@ event: bil-act
 event_name: "BIL:ACT"
 speaker: taher-alouane
 speaker_name: "Taher Alouane"
-youtube: "https://www.youtube.com/watch?v=jeGyX5y1Gyc"
+video: "https://www.youtube.com/watch?v=jeGyX5y1Gyc"
 subjects: [society-and-politics]
 ---
 

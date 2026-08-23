@@ -5,7 +5,7 @@ event: bil-bardo
 event_name: "BIL:Bardo"
 speaker: farah-ben-mehrez
 speaker_name: "Farah Ben Mehrez"
-youtube: "https://www.youtube.com/watch?v=LGeRWGNrkrE"
+video: "https://www.youtube.com/watch?v=LGeRWGNrkrE"
 subjects: [personal-growth]
 ---
 

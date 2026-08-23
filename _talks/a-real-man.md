@@ -5,7 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: jason-bowers
 speaker_name: Jason Bowers
-youtube: https://www.youtube.com/watch?v=nnAv7RrJv2Y
+video: https://www.youtube.com/watch?v=nnAv7RrJv2Y
 subjects: [sex-and-relationships, personal-growth]
 ---
 

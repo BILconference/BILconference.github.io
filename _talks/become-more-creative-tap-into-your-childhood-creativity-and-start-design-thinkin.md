@@ -9,7 +9,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: meena-sandhu
 speaker_name: Meena Sandhu
-youtube: https://www.youtube.com/watch?v=EJl8SIZmXZs
+video: https://www.youtube.com/watch?v=EJl8SIZmXZs
 subjects: [personal-growth, entrepreneurship-and-work]
 ---
 

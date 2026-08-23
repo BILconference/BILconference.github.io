@@ -8,7 +8,7 @@ event: bil-vancouver-2016
 event_name: BIL:Vancouver 2016
 speaker: tracey-friesen
 speaker_name: Tracey Friesen
-youtube: https://youtu.be/8VjMw56Gjp4
+video: https://youtu.be/8VjMw56Gjp4
 subjects: [arts-and-media, society-and-politics]
 ---
 

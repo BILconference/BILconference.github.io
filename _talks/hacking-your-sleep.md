@@ -6,7 +6,7 @@ event_name: BIL 2010
 speaker: matt-bell
 speaker_name: Matt Bell
 session: "Friday 16:20, Fire Hose Room"
-youtube: https://www.youtube.com/watch?v=H78QmGSTYPw
+video: https://www.youtube.com/watch?v=H78QmGSTYPw
 subjects: [health-and-longevity]
 ---
 

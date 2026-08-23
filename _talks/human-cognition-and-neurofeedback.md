@@ -8,6 +8,6 @@ event: bil-2012
 event_name: BIL 2012
 speaker: jonathan-toomin
 speaker_name: Jonathan Toomin
-youtube: https://www.youtube.com/watch?v=VlDgO3sXQzc
+video: https://www.youtube.com/watch?v=VlDgO3sXQzc
 subjects: [mind-and-consciousness]
 ---

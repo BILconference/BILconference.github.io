@@ -8,7 +8,7 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: ashley-booth
 speaker_name: Ashley Booth
-youtube: https://www.youtube.com/watch?v=Uc9qsVEWv90&index=16&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu
+video: https://www.youtube.com/watch?v=Uc9qsVEWv90&index=16&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu
 subjects: [mind-and-consciousness, society-and-politics]
 summary_ai: true
 ---
