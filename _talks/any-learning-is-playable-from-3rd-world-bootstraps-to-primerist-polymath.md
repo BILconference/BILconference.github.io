@@ -5,6 +5,7 @@ event: bil-2010
 event_name: BIL 2010
 speaker: alex-peake
 speaker_name: Alex Peake
+session: "Saturday 13:00, Open Culture Room"
 subjects: [education-and-learning]
 ---
 

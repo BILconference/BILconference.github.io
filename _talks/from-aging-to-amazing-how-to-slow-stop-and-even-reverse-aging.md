@@ -5,7 +5,7 @@ event: bil-2010
 event_name: BIL 2010
 speaker: kat-cotter
 speaker_name: Kat Cotter
-session: "JIL"
+session: "Friday 10:20, JIL"
 subjects: [health-and-longevity]
 original_url: http://2010.bilconference.com/2010/02/kat-cotter-from-aging-to-amazing-how-to-slow-stop-and-even-reverse-aging/
 ---

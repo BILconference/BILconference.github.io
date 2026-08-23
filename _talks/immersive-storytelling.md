@@ -5,6 +5,7 @@ event: bil-2010
 event_name: BIL 2010
 speaker: brent-bushnell
 speaker_name: Brent Bushnell
+session: "Friday 15:20, Fire Hose Room"
 subjects: [arts-and-media]
 original_url: http://2010.bilconference.com/2010/02/brent-bushnell-immersive-storytelling/
 ---

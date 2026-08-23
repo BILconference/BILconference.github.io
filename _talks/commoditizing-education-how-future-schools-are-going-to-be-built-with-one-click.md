@@ -5,6 +5,7 @@ event: bil-2010
 event_name: BIL 2010
 speaker: steli-efti
 speaker_name: Steli Efti
+session: "Friday 17:00, Fire Hose Room"
 subjects: [education-and-learning, entrepreneurship-and-work]
 original_url: http://2010.bilconference.com/2010/02/steli-efti-commoditizing-education-how-future-schools-are-going-to-be-built-with-one-click/
 ---

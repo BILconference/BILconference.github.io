@@ -5,6 +5,7 @@ event: bil-2010
 event_name: BIL 2010
 speaker: johannes-bhakdi
 speaker_name: Johannes Bhakdi
+session: "Friday 12:40, Fire Hose Room"
 subjects: [entrepreneurship-and-work, ai-and-computing]
 original_url: http://2010.bilconference.com/2010/02/web-3-0-user-generated-business/
 ---

@@ -5,6 +5,7 @@ event: bil-2010
 event_name: BIL 2010
 speaker: will-marshall
 speaker_name: Will Marshall & Creon Levit
+session: "Saturday 12:00, Fire Hose Room"
 youtube: https://www.youtube.com/watch?v=GyX2t2HxwPE
 subjects: [science-and-space]
 ---

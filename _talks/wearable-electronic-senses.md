@@ -5,6 +5,7 @@ event: bil-2010
 event_name: BIL 2010
 speaker: eric-boyd
 speaker_name: Eric Boyd
+session: "Friday 11:00, Fire Hose Room"
 youtube: https://www.youtube.com/watch?v=sDvRL2q_D64
 subjects: [ai-and-computing, mind-and-consciousness]
 original_url: http://2010.bilconference.com/2010/02/eric-boyd-wearable-electronic-senses/
