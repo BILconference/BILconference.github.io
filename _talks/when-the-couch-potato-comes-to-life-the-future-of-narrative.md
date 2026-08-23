@@ -9,4 +9,5 @@ event_name: BIL:Vancouver 2016
 speaker: ollie-rankin
 speaker_name: Ollie Rankin
 youtube: https://www.youtube.com/watch?v=UvbcV0rFyVo
+subjects: [arts-and-media, ai-and-computing]
 ---

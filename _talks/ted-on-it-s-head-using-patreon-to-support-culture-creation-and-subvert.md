@@ -5,4 +5,5 @@ event: bil-vancouver-2016
 event_name: BIL Vancouver 2016
 speaker: denise-brennan
 speaker_name: Denise Brennan
+subjects: [arts-and-media, entrepreneurship-and-work]
 ---

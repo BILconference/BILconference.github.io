@@ -10,4 +10,5 @@ event_name: BIL:Vancouver 2016
 speaker: bartosz-bos
 speaker_name: Bartosz Bos
 youtube: https://www.youtube.com/watch?v=z1t72boDgQ4
+subjects: [entrepreneurship-and-work]
 ---

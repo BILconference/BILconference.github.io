@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: callum-donald-mathers
 speaker_name: Callum Donald Mathers
 session: Sunday Afternoon
+subjects: [personal-growth]
 ---

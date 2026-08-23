@@ -9,4 +9,5 @@ event_name: BIL:SF 2014
 speaker: a-jolly
 speaker_name: A. Jolly
 youtube: https://www.youtube.com/watch?v=qDMtboQeRMc&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=9
+subjects: [money-and-crypto]
 ---

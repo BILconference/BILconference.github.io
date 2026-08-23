@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: kathleen-sage-esq
 speaker_name: Kathleen Sage, Esq.
 youtube: https://www.youtube.com/watch?v=7m5zbSAwRgE&index=17&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu
+subjects: [entrepreneurship-and-work]
 ---

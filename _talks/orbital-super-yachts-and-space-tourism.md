@@ -8,6 +8,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: john-spencer
 speaker_name: John Spencer
+subjects: [science-and-space]
 ---
 
 John has an image presentation staring of his orbital super yacht “Destiny” concept and design. He would like to really show the “big picture” of our potential future off-world from an experience perspective.

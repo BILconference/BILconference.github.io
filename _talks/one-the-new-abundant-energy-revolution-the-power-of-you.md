@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: ray-podder
 speaker_name: Ray Podder
+subjects: [environment-and-food]
 ---

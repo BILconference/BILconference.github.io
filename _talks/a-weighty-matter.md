@@ -6,4 +6,5 @@ event_name: BIL 2018 Los Angeles
 speaker_name: William Volk
 session: "Saturday 3:00"
 youtube: "https://www.youtube.com/watch?v=9C7v9ksqDO0"
+subjects: [health-and-longevity]
 ---

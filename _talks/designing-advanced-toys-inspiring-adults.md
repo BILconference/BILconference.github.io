@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: mark-forti
 speaker_name: Mark Forti
+subjects: [arts-and-media]
 ---

@@ -8,8 +8,7 @@ event_name: BIL:TN Online
 speaker: malek-omri
 speaker_name: Malek Omri
 youtube: https://www.youtube.com/watch?v=3FuDWQwA0dI
-subjects:
-- Sociology
+subjects: [community-and-unconference]
 ---
 
 This talk with describe how BIL online will work in Tunisia

@@ -6,4 +6,5 @@ event_name: BIL 2018 Los Angeles
 speaker_name: "Kmom & Sage"
 session: "Saturday 11:20"
 youtube: "https://www.youtube.com/watch?v=dQ0KlyMcqJY"
+subjects: [arts-and-media]
 ---

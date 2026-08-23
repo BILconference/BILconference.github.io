@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: victoria-burke-esq
 speaker_name: Victoria Burke, Esq.
 youtube: https://www.youtube.com/watch?v=qrcXtPJgpBw&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=9
+subjects: [entrepreneurship-and-work, society-and-politics]
 ---

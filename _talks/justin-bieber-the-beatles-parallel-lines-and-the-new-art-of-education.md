@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: mathew-crawford
 speaker_name: Mathew Crawford
+subjects: [education-and-learning, arts-and-media]
 ---

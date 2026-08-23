@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: lauren-barghout-ph-d
 speaker_name: Lauren Barghout Ph.D.
 youtube: https://www.youtube.com/watch?v=TlOouD5FXJc&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=4
+subjects: [ai-and-computing]
 ---

@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: veronica-flores
 speaker_name: Veronica Flores
 youtube: https://www.youtube.com/watch?v=1WlkwPZcfu8&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=10
+subjects: [personal-growth, environment-and-food]
 ---

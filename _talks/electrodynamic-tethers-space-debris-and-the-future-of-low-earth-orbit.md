@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: zach-urbina
 speaker_name: Zach Urbina
+subjects: [science-and-space]
 ---

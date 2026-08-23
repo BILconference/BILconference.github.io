@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: alexandros-pagidas
 speaker_name: Alexandros Pagidas
+subjects: [personal-growth]
 ---

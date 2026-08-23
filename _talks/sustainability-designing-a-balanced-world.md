@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: graham-hill
 speaker_name: Graham Hill
+subjects: [environment-and-food]
 ---

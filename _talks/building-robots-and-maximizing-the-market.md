@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: erin-rapacki
 speaker_name: Erin Rapacki
+subjects: [ai-and-computing, entrepreneurship-and-work]
 ---

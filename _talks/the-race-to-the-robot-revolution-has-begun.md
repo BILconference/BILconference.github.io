@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: eric-shuss
 speaker_name: Eric Shuss
 youtube: https://www.youtube.com/watch?v=pSy6iS69Crk&index=2&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu
+subjects: [ai-and-computing]
 ---

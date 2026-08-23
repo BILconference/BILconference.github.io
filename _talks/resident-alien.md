@@ -10,10 +10,7 @@ speaker: daniel-ramamoorthy
 speaker_name: Daniel Ramamoorthy
 start_time: '2017-01-19 22:00:00'
 end_time: '2017-01-19 23:00:00'
-subjects:
-- Economics
-- Environment
-- Sociology
+subjects: [personal-growth]
 ---
 
 Daniel was born an alien and has remained one for most of his life. A local of Dublin, New Haven, Banda Aceh, Harare, Algiers, Paris, Abu-Dhabi and Rabat, he is a multi-cultured multi-passioned alien to these communities and yet a resident with a deep sense of calling and belonging to each. Dan’s talk explores our view on aliens, the role of aliens locally and globally, and a challenge to better embrace and engage with the different, the misfit, the other – the alien.

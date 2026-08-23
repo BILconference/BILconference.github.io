@@ -1,0 +1,12 @@
+---
+layout: page
+title: Search
+permalink: /search/
+---
+<div class="filter-bar search-bar">
+  <input type="search" id="site-search" placeholder="Search speakers, talks, and events" aria-label="Search speakers, talks, and events" autofocus>
+  <span class="filter-count" id="search-count" aria-live="polite"></span>
+</div>
+<noscript><p>Search needs JavaScript. Try the <a href="{{ '/speakers/' | relative_url }}">speakers</a>, <a href="{{ '/talks/' | relative_url }}">talks</a>, and <a href="{{ '/topics/' | relative_url }}">topics</a> indexes instead.</p></noscript>
+<div id="search-results"></div>
+<script src="{{ '/assets/js/search.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>

@@ -9,4 +9,5 @@ event_name: BIL:Vancouver 2016
 speaker: melissa-higgs
 speaker_name: Melissa Higgs
 youtube: https://www.youtube.com/watch?v=IGVamNPFBss
+subjects: [environment-and-food]
 ---

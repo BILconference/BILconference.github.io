@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: marina-adshade
 speaker_name: Marina Adshade
 session: Sunday Afternoon
+subjects: [sex-and-relationships, ai-and-computing]
 ---

@@ -1,0 +1,30 @@
+---
+layout: page
+title: Topics
+permalink: /topics/
+---
+<p>{{ site.talks.size }} talks organized by theme.
+<em class="ai-inline">Topics were assigned with the help of AI — <a href="https://github.com/BILconference/BILconference.github.io/issues">corrections welcome</a>.</em></p>
+
+<p class="topic-chips">
+{% for t in site.data.topics %}
+{% assign matches = site.talks | where_exp: "k", "k.subjects contains t.key" %}
+{% if matches.size > 0 %}<a class="tag" href="#{{ t.key }}">{{ t.name }} ({{ matches.size }})</a>{% endif %}
+{% endfor %}
+</p>
+
+{% for t in site.data.topics %}
+{% assign matches = site.talks | where_exp: "k", "k.subjects contains t.key" | sort: "title" %}
+{% if matches.size > 0 %}
+<h2 class="year-head" id="{{ t.key }}">{{ t.name }}</h2>
+<ul class="talk-list">
+  {% for k in matches %}
+  <li>
+    <a href="{{ k.url | relative_url }}">{{ k.title }}</a>
+    {% if k.speaker_name %}<span class="talk-speaker">— {{ k.speaker_name }}</span>{% endif %}
+    {% if k.youtube %}<span class="badge">▶ video</span>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}

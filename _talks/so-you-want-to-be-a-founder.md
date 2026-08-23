@@ -5,4 +5,5 @@ event: bil-vancouver-2017
 event_name: "BIL: Vancouver 2017"
 speaker: nabi-awada
 speaker_name: Nabi Awada
+subjects: [entrepreneurship-and-work]
 ---

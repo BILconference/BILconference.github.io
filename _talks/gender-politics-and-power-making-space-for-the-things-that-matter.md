@@ -9,4 +9,5 @@ event_name: BIL:Vancouver 2016
 speaker: andrea-reimer
 speaker_name: Andrea Reimer
 youtube: https://www.youtube.com/watch?v=EDhX03LeyR0
+subjects: [sex-and-relationships, society-and-politics]
 ---

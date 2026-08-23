@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: carson-alexander-kivari
 speaker_name: Carson Alexander Kivari
 session: Saturday Afternoon
+subjects: [mind-and-consciousness]
 ---

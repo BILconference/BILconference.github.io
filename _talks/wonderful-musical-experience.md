@@ -9,4 +9,5 @@ event_name: 'BIL: FLASH LA 2015'
 speaker: mystic-pete
 speaker_name: Mystic Pete
 youtube: https://www.youtube.com/watch?v=oHmISX7QVdo&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ&index=5
+subjects: [arts-and-media]
 ---

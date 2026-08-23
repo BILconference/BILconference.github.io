@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: pat-kitano
 speaker_name: Pat Kitano
 youtube: https://www.youtube.com/watch?v=oy4ZNLFROlM&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=9
+subjects: [arts-and-media, society-and-politics]
 ---

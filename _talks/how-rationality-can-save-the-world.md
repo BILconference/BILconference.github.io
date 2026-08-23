@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: julie-galef
 speaker_name: Julie Galef
+subjects: [mind-and-consciousness]
 ---

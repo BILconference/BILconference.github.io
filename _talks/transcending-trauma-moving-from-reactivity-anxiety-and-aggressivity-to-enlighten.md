@@ -10,4 +10,5 @@ event_name: BIL:Vancouver 2016
 speaker: michael-a-gordon
 speaker_name: MIchael A. Gordon
 youtube: https://www.youtube.com/watch?v=XrDs_YL2TP8
+subjects: [mind-and-consciousness, personal-growth]
 ---

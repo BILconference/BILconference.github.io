@@ -9,4 +9,5 @@ event_name: BIL:SF 2014
 speaker: reichart-von-wolfsheild
 speaker_name: Reichart von Wolfsheild
 youtube: https://www.youtube.com/watch?v=cOb2UouppwU&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=1
+subjects: [security-and-privacy, society-and-politics]
 ---

@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: billie-carn
 speaker_name: Billie Carn
 session: Saturday Afternoon
+subjects: [ai-and-computing, personal-growth]
 ---

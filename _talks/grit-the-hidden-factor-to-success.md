@@ -9,4 +9,5 @@ event_name: BIL:SF 2014
 speaker: max-song
 speaker_name: Max Song
 youtube: https://www.youtube.com/watch?v=3CQ1_nW_T0E&list=PLCZHPSerQfFdcPpdxHJ0muheHFLHIj9A9&index=9
+subjects: [personal-growth]
 ---

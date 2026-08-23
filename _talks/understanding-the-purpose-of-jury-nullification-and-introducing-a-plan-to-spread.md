@@ -9,4 +9,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: kai-chang
 speaker_name: Kai Chang
+subjects: [society-and-politics]
 ---

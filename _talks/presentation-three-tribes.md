@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: tee-crane
 speaker_name: Tee Crane
 session: Saturday Afternoon
+subjects: [society-and-politics]
 ---

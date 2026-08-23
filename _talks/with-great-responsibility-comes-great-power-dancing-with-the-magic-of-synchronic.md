@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: byron-go
 speaker_name: Byron Go
 youtube: https://www.youtube.com/watch?v=o1WY2Vo0BG0&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=11
+subjects: [mind-and-consciousness]
 ---

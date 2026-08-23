@@ -5,4 +5,5 @@ event: bil-vancouver-2016
 event_name: BIL Vancouver 2016
 speaker: william-r-ayling
 speaker_name: William R. Ayling
+subjects: [mind-and-consciousness]
 ---

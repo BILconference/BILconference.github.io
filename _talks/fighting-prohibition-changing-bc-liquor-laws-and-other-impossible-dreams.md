@@ -9,4 +9,5 @@ event_name: BIL:Vancouver 2016
 speaker: corinne-lea
 speaker_name: Corinne Lea
 youtube: https://www.youtube.com/watch?v=3Yk4bBPvTM4
+subjects: [society-and-politics, environment-and-food]
 ---

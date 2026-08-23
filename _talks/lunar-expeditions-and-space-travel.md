@@ -8,6 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: barney-pell
 speaker_name: Barney Pell
-subjects:
-- Aerospace
+subjects: [science-and-space]
 ---

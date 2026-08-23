@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: divia-melwani
 speaker_name: Divia Melwani
+subjects: [mind-and-consciousness, personal-growth]
 ---

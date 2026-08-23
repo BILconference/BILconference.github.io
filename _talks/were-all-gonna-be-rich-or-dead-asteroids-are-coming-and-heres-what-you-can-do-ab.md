@@ -9,4 +9,5 @@ event: bil-sf-2014
 event_name: BIL:SF 2014
 speaker: alex-cureton-griffiths
 speaker_name: Alex Cureton-Griffiths
+subjects: [science-and-space]
 ---

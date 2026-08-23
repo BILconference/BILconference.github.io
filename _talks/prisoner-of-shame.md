@@ -5,4 +5,5 @@ event: bil-vancouver-2017
 event_name: "BIL: Vancouver 2017"
 speaker: winston-yeung
 speaker_name: Winston Yeung
+subjects: [personal-growth, mind-and-consciousness]
 ---

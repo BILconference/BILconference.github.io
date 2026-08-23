@@ -8,4 +8,5 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: anouk-wipprecht
 speaker_name: Anouk Wipprecht
+subjects: [ai-and-computing, arts-and-media]
 ---

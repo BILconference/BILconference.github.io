@@ -10,4 +10,5 @@ event_name: BIL:SF 2014
 speaker: christine-peterson
 speaker_name: Christine Peterson
 youtube: https://www.youtube.com/watch?v=-fn1PzTrb38&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=5
+subjects: [sex-and-relationships]
 ---

@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: isa-gordon
 speaker_name: Isa Gordon
 youtube: https://www.youtube.com/watch?v=e1t6zdtUb-g&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=12
+subjects: [environment-and-food]
 ---

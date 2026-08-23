@@ -5,4 +5,5 @@ event: biloakland
 event_name: BIL Oakland 2016
 speaker: robin-hanson
 speaker_name: Robin Hanson
+subjects: [ai-and-computing, society-and-politics]
 ---

@@ -8,6 +8,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: josh-whiton
 speaker_name: Josh Whiton
+subjects: [health-and-longevity]
 ---
 
 In this talk Josh suggests a protocol for reducing glycation and promoting autophagy while eating as much as you like.

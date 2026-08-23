@@ -6,4 +6,5 @@ event_name: BIL 2018 Los Angeles
 speaker_name: Paul Carey
 session: "Saturday 4:20"
 youtube: "https://www.youtube.com/watch?v=_seyFuUdmy0"
+subjects: [mind-and-consciousness]
 ---

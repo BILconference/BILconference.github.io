@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: damian-madray
 speaker_name: Damian Madray
+subjects: [personal-growth]
 ---

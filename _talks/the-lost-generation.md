@@ -9,6 +9,7 @@ event_name: BIL:Vancouver 2016
 speaker: lisa-bunnage
 speaker_name: Lisa Bunnage
 youtube: https://www.youtube.com/watch?v=VINHmlrGWzQ
+subjects: [education-and-learning, society-and-politics]
 ---
 
 Kids today are being raised without discipline. Parents are so busy trying to please their kids that they are forgetting to give them what they really need: leadership, someone to look up to.

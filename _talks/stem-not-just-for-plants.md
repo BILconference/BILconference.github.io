@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: wes-wong
 speaker_name: Wes Wong
 session: Saturday Morning
+subjects: [education-and-learning]
 ---

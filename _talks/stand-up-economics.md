@@ -5,4 +5,5 @@ event: biloakland
 event_name: BIL Oakland 2016
 speaker: yoram-bauman
 speaker_name: Yoram Bauman
+subjects: [money-and-crypto, arts-and-media]
 ---

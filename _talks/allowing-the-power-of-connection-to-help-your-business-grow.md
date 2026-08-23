@@ -8,6 +8,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: erin-mooney
 speaker_name: Erin Mooney
+subjects: [entrepreneurship-and-work, personal-growth]
 ---
 
 How do you connect with other people from a place of authenticity that cultivates connection?

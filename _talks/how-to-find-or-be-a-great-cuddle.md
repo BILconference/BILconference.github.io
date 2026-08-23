@@ -5,4 +5,5 @@ event: bil-vancouver-2017
 event_name: "BIL: Vancouver 2017"
 speaker: marylen-reid
 speaker_name: Marylen Reid
+subjects: [sex-and-relationships]
 ---

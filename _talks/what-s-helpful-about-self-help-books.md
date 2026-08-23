@@ -6,4 +6,5 @@ event_name: BIL 2018 Los Angeles
 speaker_name: Steve Friedman
 session: "Saturday 11:40"
 youtube: "https://www.youtube.com/watch?v=3n1dg8BkPgY"
+subjects: [personal-growth]
 ---

@@ -9,6 +9,7 @@ event_name: BIL:Vancouver 2016
 speaker: matt-toner
 speaker_name: Matt Toner
 youtube: https://www.youtube.com/watch?v=4xhw2RIZxdA
+subjects: [entrepreneurship-and-work]
 ---
 
 Everyone in the tech space is very excited by the emergence of what are called ""unicorns"" - basically, startups that are worth $1 bn or more. This has made for a lot of frothy discussions, breathless editorials and wildly inflated expectations.

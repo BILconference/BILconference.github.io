@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: andrew-papp
 speaker_name: Andrew Papp
+subjects: [health-and-longevity, environment-and-food]
 ---

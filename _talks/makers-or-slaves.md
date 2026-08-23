@@ -10,9 +10,7 @@ speaker: alexandros-pagidas
 speaker_name: Alexandros Pagidas
 start_time: '2017-01-20 20:00:00'
 end_time: '2017-01-20 21:00:00'
-subjects:
-- Future
-- Sociology
+subjects: [ai-and-computing, society-and-politics]
 ---
 
 How do our views around technology, leisure and work determine our present and future? A talk that mixes data about the effects of technology and automation on work and society with insights and observations from the philosophy and languages of classical antiquity (ancient Greek and Latin) to ask us to reflect on the status and meaning of being a citizen and a maker and whether we'd like emerging technologies to be used to enrich the few or liberate the many.

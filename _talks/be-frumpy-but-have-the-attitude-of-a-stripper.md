@@ -9,4 +9,5 @@ event_name: BIL:Vancouver 2016
 speaker: patricia-morrison
 speaker_name: Patricia Morrison
 youtube: https://www.youtube.com/watch?v=5bLa7oCKgwY
+subjects: [personal-growth]
 ---
