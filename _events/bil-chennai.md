@@ -10,4 +10,10 @@ year: 2011
 country: IN
 location: Chennai, India
 facebook_event: https://www.facebook.com/events/132932150103118/
+speakers:
+- atlee-chennaite
+- g-j-siddharth
+- praveen-chrispugg
+- muthiah-ramanathan
+- pravin-shekar
 ---

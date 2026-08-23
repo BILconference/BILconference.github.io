@@ -30,6 +30,10 @@ speakers:
 - vaidy-chandramouli
 - ilango-vasudevan
 - shriram-sanjeevi
+- subash-chandira
+- oscar-victor-v-lizardo
+- dilipan-bose
+- c-k-kumaravel
 sections:
 - subject: Event
   info: 'A smart city can be defined as a city which is equipped with basic infrastructure
