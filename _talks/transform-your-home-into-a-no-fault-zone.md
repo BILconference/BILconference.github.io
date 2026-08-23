@@ -5,8 +5,15 @@ event: bil-2010
 event_name: BIL 2010
 speaker: soraya-deen
 speaker_name: Soraya Deen
-session: "JIL"
+session: "Friday 10:40, JIL"
 subjects: [personal-growth, sex-and-relationships]
+original_url: http://m.bilconference.com/details?c=E7
 ---
 
-*Recovered from the archived BIL 2010 speaker announcements; part of the JIL satellite track at the Museum of Latin American Art; no talk description survives.*
+*● Learn to communicate; without blame or shame.
+
+*● Learn to look beyond behaviors, to the needs that motivate such behaviors.
+
+*● Transform your home into a “NO FAULT ZONE”.
+
+*● Manage Differences – turn DEFIANCE into CO-OPERATION

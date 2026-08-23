@@ -10,3 +10,5 @@ original_url: http://jtoomim.org/files/a_practical_guide_to_cognitive_enhancemen
 ---
 
 *Recovered from the speaker's bilconference.com bio; no talk description survives.*
+
+Slides: http://jtoomim.org/files/a_practical_guide_to_cognitive_enhancement_slides.pdf

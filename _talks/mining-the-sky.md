@@ -5,6 +5,7 @@ event: bil-2010
 event_name: BIL 2010
 speaker: michael-heartsong
 speaker_name: Michael Heartsong
+session: "Saturday 13:40, Fire Hose Room"
 subjects: [science-and-space]
 original_url: http://2010.bilconference.com/2010/02/michael-heartsong-mining-the-sky/
 ---

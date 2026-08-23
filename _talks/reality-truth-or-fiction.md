@@ -5,6 +5,7 @@ event: bil-2010
 event_name: BIL 2010
 speaker: daniel-miller
 speaker_name: Daniel Miller
+session: "Saturday 10:20, Fire Hose Room"
 subjects: [mind-and-consciousness, ai-and-computing]
 original_url: http://2010.bilconference.com/2010/02/daniel-miller-reality-truth-or-fiction/
 ---
