@@ -28,12 +28,34 @@ title: Home
 
 <section class="module-map">
   <h2>BIL around the world</h2>
+  {% comment %} Most events never had their line-ups written down. Estimate
+    totals by taking the average per event among events whose line-ups ARE
+    documented, times all events; round to the nearest 50. {% endcomment %}
+  {% assign ev_with_talks = 0 %}
+  {% assign ev_with_speakers = 0 %}
+  {% assign speaker_links = 0 %}
+  {% for e in site.events %}
+    {% assign evtalks = site.talks | where: "event", e.slug %}
+    {% if evtalks.size > 0 %}{% assign ev_with_talks = ev_with_talks | plus: 1 %}{% endif %}
+    {% assign sps = evtalks | map: "speaker" | compact | uniq %}
+    {% assign n = sps.size %}
+    {% if e.speakers %}{% assign combined = sps | concat: e.speakers | uniq %}{% assign n = combined.size %}{% endif %}
+    {% if e.slug == "bil-2015" %}{% assign v = site.speakers | where: "bil_2015", true %}{% assign n = n | plus: v.size %}{% endif %}
+    {% if n > 0 %}
+      {% assign ev_with_speakers = ev_with_speakers | plus: 1 %}
+      {% assign speaker_links = speaker_links | plus: n %}
+    {% endif %}
+  {% endfor %}
+  {% assign est_talks = site.talks.size | times: site.events.size | divided_by: ev_with_talks | plus: 25 | divided_by: 50 | times: 50 %}
+  {% assign est_speakers = speaker_links | times: site.events.size | divided_by: ev_with_speakers | plus: 25 | divided_by: 50 | times: 50 %}
   <p class="hero-stats">
     <a href="{{ '/events/' | relative_url }}"><strong>{{ site.events.size }}</strong> events</a>
-    <a href="{{ '/speakers/' | relative_url }}"><strong>{{ site.speakers.size }}</strong> speakers</a>
-    <a href="{{ '/talks/' | relative_url }}"><strong>{{ site.talks.size }}</strong> talks</a>
+    <a href="{{ '/speakers/' | relative_url }}"><strong>~{{ est_speakers }}</strong> speakers</a>
+    <a href="{{ '/talks/' | relative_url }}"><strong>~{{ est_talks }}</strong> talks</a>
     <a href="{{ '/videos/' | relative_url }}"><strong>{{ site.talks | where_exp: "t", "t.youtube" | size }}</strong> videos</a>
   </p>
+  <p class="stats-note">Estimated from the events whose line-ups were documented —
+    {{ site.speakers.size }} speakers and {{ site.talks.size }} talks are archived here so far.</p>
 </section>
 
 <section class="module-events">

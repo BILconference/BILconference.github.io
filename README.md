@@ -2,7 +2,8 @@
 
 BIL Conference — the ad-hoc, participant-powered unconference. Static
 Jekyll site for GitHub Pages, preserving 56 events across five continents
-(2008–2018), 318 speakers, and 160 talks, 99 of them with video.
+(2008–2018), 401 speakers, and 295 talks, 123 of them with video —
+counts that grow as more line-ups are recovered.
 
 ## Provenance
 
@@ -20,8 +21,8 @@ the neuron hero banner, and the dotted world map.
 | Path | What |
 | --- | --- |
 | `_events/` | 56 events with dates, venue, organizers, sponsor/press refs |
-| `_speakers/` | 318 speakers (the BIL 2015 Vancouver roster is folded in, marked `bil_2015: true`) |
-| `_talks/` | 160 talks linked to event + speaker, many with YouTube video |
+| `_speakers/` | speakers (the BIL 2015 Vancouver roster is folded in, marked `bil_2015: true`) |
+| `_talks/` | talks linked to event + speaker, many with YouTube video |
 | `_organizers/` | 75 organizers (rendered inline on event pages) |
 | `_sponsors/` | 32 sponsors (rendered inline on event pages) |
 | `_press/` | 15 press mentions |
