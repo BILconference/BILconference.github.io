@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: darren-fujimoto
 speaker_name: Darren Fujimoto
+subjects: [sex-and-relationships]
 ---
 
 Successful Dating for Introverts and Intellectuals in the Technocentric era

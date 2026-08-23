@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: rachel-cherwitz-and-robert-kandell
 speaker_name: Rachel Cherwitz & Robert Kandell
+subjects: [sex-and-relationships]
 ---

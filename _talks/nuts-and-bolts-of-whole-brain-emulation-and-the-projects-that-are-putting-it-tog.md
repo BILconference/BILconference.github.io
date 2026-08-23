@@ -9,4 +9,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: randal-a-koene
 speaker_name: Randal A. Koene
+subjects: [ai-and-computing, mind-and-consciousness]
 ---

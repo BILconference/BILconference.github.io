@@ -5,4 +5,5 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: suleiman-bakhit
 speaker_name: Suleiman Bakhit
+subjects: [arts-and-media, society-and-politics]
 ---

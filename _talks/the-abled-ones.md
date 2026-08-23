@@ -9,4 +9,5 @@ event_name: BIL:Vancouver 2016
 speaker: karen-magill
 speaker_name: Karen Magill
 youtube: https://www.youtube.com/watch?v=6G5peu2Jp98
+subjects: [society-and-politics]
 ---

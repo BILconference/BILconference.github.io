@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: nikolas-badminton
 speaker_name: Nikolas Badminton
 session: Saturday Afternoon
+subjects: [ai-and-computing, mind-and-consciousness]
 ---

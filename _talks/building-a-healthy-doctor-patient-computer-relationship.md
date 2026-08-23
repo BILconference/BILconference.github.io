@@ -10,8 +10,7 @@ speaker: stephen-gershman
 speaker_name: Stephen Gershman
 start_time: '2017-01-17 16:00:00'
 end_time: '2017-01-17 17:00:00'
-subjects:
-- Health
+subjects: [health-and-longevity, ai-and-computing]
 ---
 
 Your medical relationship has a third-wheel, and it's not human. It's a database, and it has the power to have your records and to hold them from this day forward, for better or worse, in sickness and health (even until after death do you part).

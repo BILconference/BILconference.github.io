@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: joel-grus
 speaker_name: Joel Grus
+subjects: [society-and-politics]
 ---

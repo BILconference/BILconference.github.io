@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: domina-ravish
 speaker_name: Domina Ravish
+subjects: [sex-and-relationships]
 ---

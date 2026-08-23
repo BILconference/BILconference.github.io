@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: aubrey-de-grey
 speaker_name: Aubrey de Grey
+subjects: [health-and-longevity, science-and-space]
 ---

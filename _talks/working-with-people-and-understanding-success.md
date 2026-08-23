@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: judd-weiss
 speaker_name: Judd Weiss
+subjects: [entrepreneurship-and-work, personal-growth]
 ---

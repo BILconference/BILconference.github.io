@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: christopher-rasch
 speaker_name: Christopher Rasch
+subjects: [society-and-politics, money-and-crypto]
 ---

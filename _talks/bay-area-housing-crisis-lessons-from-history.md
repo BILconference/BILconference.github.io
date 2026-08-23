@@ -5,4 +5,5 @@ event: biloakland
 event_name: BIL Oakland 2016
 speaker: kim-mai-cutler
 speaker_name: Kim-Mai Cutler
+subjects: [society-and-politics]
 ---

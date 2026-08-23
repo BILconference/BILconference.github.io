@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: laura-glass
 speaker_name: Laura Glass
 session: Sunday Afternoon
+subjects: [sex-and-relationships, entrepreneurship-and-work]
 ---

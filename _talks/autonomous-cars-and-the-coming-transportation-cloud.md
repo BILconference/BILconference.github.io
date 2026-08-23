@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: rahul-sonand
 speaker_name: Rahul Sonand
+subjects: [transportation, ai-and-computing]
 ---
 
 The Transportation Cloud: Zero to Driverless in 1.9 years. How electrification and autonomy will rapidly disrupt the economics of driving & transform society from the ground up

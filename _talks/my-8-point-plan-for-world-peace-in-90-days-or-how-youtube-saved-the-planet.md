@@ -11,10 +11,7 @@ speaker_name: Anne Mottola
 youtube: https://www.youtube.com/watch?v=VOwG_tYg-ns
 start_time: '2017-01-17 22:00:00'
 end_time: '2017-01-17 23:00:00'
-subjects:
-- Economics
-- Environment
-- Sociology
+subjects: [society-and-politics, arts-and-media]
 ---
 
 As a rebel anthropologist and an independent thinker, I tend to look at patterns of information differently. In the pursuit of knowledge, I discovered that YouTube has already saved the planet. All we need is a plan for world peace and we can have low-to-no cost energy, dispense with the debt economy, greatly increase production and greatly reduce pollution. And, most importantly, we can finally have our flying cars!

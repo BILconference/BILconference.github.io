@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: dan-lok
 speaker_name: Dan Lok
 session: Saturday Morning
+subjects: [personal-growth]
 ---

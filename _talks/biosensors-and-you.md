@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: jean-rintoul
 speaker_name: Jean Rintoul
+subjects: [health-and-longevity, ai-and-computing]
 ---

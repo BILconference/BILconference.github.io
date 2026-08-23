@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: peter-voss
 speaker_name: Peter Voss
+subjects: [ai-and-computing]
 ---

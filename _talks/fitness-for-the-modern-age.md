@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: hailey-mccann
 speaker_name: Hailey McCann
 youtube: https://www.youtube.com/watch?v=W79LXSH4lf8&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=15
+subjects: [health-and-longevity]
 ---

@@ -9,4 +9,5 @@ event_name: BIL 2012
 speaker: jamais-cascio
 speaker_name: Jamais Cascio
 youtube: https://youtu.be/UqhVSSKv858?list=PLCZHPSerQfFchlAQ0LVhlGyL_m8SdpeiQ
+subjects: [ai-and-computing, society-and-politics]
 ---

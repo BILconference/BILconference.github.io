@@ -5,4 +5,5 @@ event: bil-vancouver-2016
 event_name: BIL Vancouver 2016
 speaker: cease-wyss
 speaker_name: Cease Wyss
+subjects: [society-and-politics, arts-and-media]
 ---

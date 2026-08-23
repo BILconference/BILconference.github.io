@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: lara-catone
 speaker_name: Lara Catone
+subjects: [sex-and-relationships, health-and-longevity]
 ---

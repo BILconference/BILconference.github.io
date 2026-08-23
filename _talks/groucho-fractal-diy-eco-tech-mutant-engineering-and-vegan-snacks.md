@@ -8,4 +8,5 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: scott-beibin
 speaker_name: Scott Beibin
+subjects: [environment-and-food]
 ---

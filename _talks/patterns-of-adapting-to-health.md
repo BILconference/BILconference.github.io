@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: dr-frederick-navarro
 speaker_name: Dr. Frederick Navarro
 youtube: https://www.youtube.com/watch?v=GQhpl6KzYH8&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=7
+subjects: [health-and-longevity]
 ---

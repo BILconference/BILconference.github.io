@@ -9,6 +9,7 @@ event_name: BIL:Vancouver 2016
 speaker: jacob-mcgill
 speaker_name: Jacob McGill
 youtube: https://www.youtube.com/watch?v=huOI90KVG90
+subjects: [health-and-longevity]
 ---
 
 I am an expert in Health Span, this is a distinction between Quality Of Life VS Longevity. Both are important and living a long time with a poor quality of life is only half a life.

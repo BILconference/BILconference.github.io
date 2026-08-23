@@ -5,4 +5,5 @@ event: biloakland
 event_name: BIL Oakland 2016
 speaker: christine-peterson
 speaker_name: Christine Peterson
+subjects: [personal-growth]
 ---

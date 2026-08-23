@@ -8,4 +8,5 @@ event: bil-sf-2014
 event_name: BIL:SF 2014
 speaker: j-m-perkins
 speaker_name: J.M. Perkins
+subjects: [personal-growth]
 ---

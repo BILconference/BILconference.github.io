@@ -10,12 +10,7 @@ speaker: julia-bossmann
 speaker_name: Julia Bossmann
 start_time: '2017-01-20 21:15:00'
 end_time: '2017-01-20 22:15:00'
-subjects:
-- Digital
-- Economics
-- Environment
-- Future
-- Sociology
+subjects: [society-and-politics, environment-and-food]
 ---
 
 Civilizations have come and perished throughout history. Now that we've developed into one globally connected civilization, a catastrophic event would no longer affect an isolated pocket, but might bring all of humanity into darker ages. We're facing self-made perils as well as natural ones. I want to go over ideas related to long-term thinking.

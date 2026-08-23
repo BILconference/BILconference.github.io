@@ -9,4 +9,5 @@ event_name: BIL:Vancouver 2016
 speaker: dr-alexandra-greenhill
 speaker_name: Dr. Alexandra Greenhill
 youtube: https://www.youtube.com/watch?v=xXdganh4akA
+subjects: [health-and-longevity, personal-growth]
 ---

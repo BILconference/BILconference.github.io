@@ -11,8 +11,7 @@ speaker_name: Karim Benabdallah
 youtube: https://www.youtube.com/watch?v=feD_yc8GFAc
 start_time: '2017-01-17 20:00:00'
 end_time: '2017-01-17 22:00:00'
-subjects:
-- Future
+subjects: [ai-and-computing, society-and-politics]
 ---
 
 The major changes that are shaping our world today are not about new technologies so much as seeing involvement of everybody in the process. From content creation to activism, anybody today can rule the web and use social media for a good use that goes from saving a kitty trapped in a tree to changing a whole country.

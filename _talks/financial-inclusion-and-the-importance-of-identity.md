@@ -11,11 +11,7 @@ speaker_name: Balázs Némethi
 youtube: https://www.youtube.com/watch?v=yhEsOnH3p3Q
 start_time: '2017-01-18 10:00:00'
 end_time: '2017-01-18 11:00:00'
-subjects:
-- Cryptocurrency
-- Digital
-- Economics
-- Sociology
+subjects: [money-and-crypto, society-and-politics]
 ---
 
 To bring a focused attention on the importance of identity and how it can bring a systematic change in life once someone is being recognized. Where identity matters in a world where we are overcrowded with identity, and how identity becomes the most important asset in someone´s life.

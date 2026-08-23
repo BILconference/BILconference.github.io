@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: ilan-wright
 speaker_name: Ilan Wright
 session: Sunday Afternoon
+subjects: [environment-and-food]
 ---

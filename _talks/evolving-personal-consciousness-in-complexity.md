@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: dawna-jones
 speaker_name: Dawna Jones
 session: Sunday Afternoon
+subjects: [mind-and-consciousness]
 ---

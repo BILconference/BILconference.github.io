@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: mike-funergy
 speaker_name: Mike Funergy
 session: Sunday Afternoon
+subjects: [arts-and-media]
 ---

@@ -8,4 +8,5 @@ event: bil-sf-2014
 event_name: BIL:SF 2014
 speaker: molly-maloof
 speaker_name: Dr. Molly Maloof
+subjects: [health-and-longevity, ai-and-computing]
 ---

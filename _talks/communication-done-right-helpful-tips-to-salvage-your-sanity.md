@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: hydrangea-jacqueline-darling
 speaker_name: Hydrangea Jacqueline Darling
+subjects: [personal-growth]
 ---

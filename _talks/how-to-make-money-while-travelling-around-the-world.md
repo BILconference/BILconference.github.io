@@ -9,4 +9,5 @@ event_name: BIL:Vancouver 2016
 speaker: ricky-shetty
 speaker_name: Ricky Shetty
 youtube: https://www.youtube.com/watch?v=OgX0qnMtKaQ
+subjects: [entrepreneurship-and-work]
 ---

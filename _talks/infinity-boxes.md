@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: matt-elson
 speaker_name: Matt Elson
 youtube: https://www.youtube.com/watch?v=dAFxxI9Fv2o&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=14
+subjects: [arts-and-media]
 ---

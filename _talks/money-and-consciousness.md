@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: josh-whiton
 speaker_name: Josh Whiton
 youtube: https://www.youtube.com/watch?v=461p55-O09U&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=5
+subjects: [money-and-crypto, mind-and-consciousness]
 ---

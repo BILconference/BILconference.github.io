@@ -4,6 +4,7 @@ slug: panel-managing-cultural-spaces-perspectives-from-the-frontline
 event: bil-vancouver-2017
 event_name: "BIL: Vancouver 2017"
 session: Sunday Afternoon
+subjects: [arts-and-media, society-and-politics]
 ---
 
 Panelists:

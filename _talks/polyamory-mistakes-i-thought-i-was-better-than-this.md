@@ -7,4 +7,5 @@ speaker: sandra-daugherty
 speaker_name: Sandra Daugherty
 session: "Sunday 2:00"
 youtube: "https://www.youtube.com/watch?v=JPrLYyP2yV8"
+subjects: [sex-and-relationships]
 ---

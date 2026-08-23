@@ -1,0 +1,33 @@
+# Controlled vocabulary for talk subjects. Keys appear in each talk's
+# subjects: list; names are the display labels. Order here is the order
+# on /topics/.
+- key: ai-and-computing
+  name: AI & Computing
+- key: science-and-space
+  name: Science & Space
+- key: health-and-longevity
+  name: Health & Longevity
+- key: mind-and-consciousness
+  name: Mind & Consciousness
+- key: sex-and-relationships
+  name: Sex & Relationships
+- key: money-and-crypto
+  name: Money & Crypto
+- key: society-and-politics
+  name: Society & Politics
+- key: environment-and-food
+  name: Environment & Food
+- key: education-and-learning
+  name: Education & Learning
+- key: arts-and-media
+  name: Arts & Media
+- key: entrepreneurship-and-work
+  name: Entrepreneurship & Work
+- key: security-and-privacy
+  name: Security & Privacy
+- key: transportation
+  name: Transportation
+- key: personal-growth
+  name: Personal Growth
+- key: community-and-unconference
+  name: Community & Unconference

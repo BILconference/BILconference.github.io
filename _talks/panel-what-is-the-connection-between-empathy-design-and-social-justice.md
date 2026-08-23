@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: timothy-huffman
 speaker_name: Timothy Huffman
 youtube: https://www.youtube.com/watch?v=o7ODQ74eZkw&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=14
+subjects: [society-and-politics]
 ---

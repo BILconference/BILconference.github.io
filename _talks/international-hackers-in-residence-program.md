@@ -9,4 +9,5 @@ event_name: BIL:SF 2014
 speaker: mitch-altman
 speaker_name: Mitch Altman
 youtube: https://www.youtube.com/watch?v=eXYP9RhB_d0&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=7
+subjects: [ai-and-computing, community-and-unconference]
 ---

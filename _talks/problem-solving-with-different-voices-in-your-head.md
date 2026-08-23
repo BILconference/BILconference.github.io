@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: justin-dudek
 speaker_name: Justin Dudek
 youtube: https://www.youtube.com/watch?v=yMoOP-4VSdI&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=18
+subjects: [mind-and-consciousness]
 ---

@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: alex-backer
 speaker_name: Alex Bäcker
 youtube: https://www.youtube.com/watch?v=P6sa4ntzrWY&index=17&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu
+subjects: [personal-growth]
 ---

@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: jaan-tallinn
 speaker_name: Jaan Tallinn
+subjects: [ai-and-computing]
 ---

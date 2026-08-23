@@ -6,6 +6,7 @@ event_name: "BIL:Los Angeles 2016"
 speaker: john-bates
 speaker_name: John Bates
 session: Saturday Main Stage
+subjects: [personal-growth]
 ---
 
 Communication matters a lot. If you're communicating with Human Beings it's not logical, it's biological.

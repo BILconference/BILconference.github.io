@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: jordan-matthew-yerman
 speaker_name: Jordan Matthew Yerman
 session: Saturday Afternoon
+subjects: [ai-and-computing]
 ---

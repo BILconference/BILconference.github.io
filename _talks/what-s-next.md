@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: beth-campbell
 speaker_name: Beth Campbell
 session: Saturday Morning
+subjects: [personal-growth]
 ---

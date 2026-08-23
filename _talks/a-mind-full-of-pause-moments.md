@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: linzi-martin
 speaker_name: Linzi Martin
 session: Sunday Afternoon
+subjects: [mind-and-consciousness]
 ---

@@ -8,6 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: william-pomerantz
 speaker_name: William Pomerantz
-subjects:
-- Aerospace
+subjects: [science-and-space]
 ---

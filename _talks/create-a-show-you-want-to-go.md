@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: eddie-lam
 speaker_name: Eddie Lam
 session: Sunday Afternoon
+subjects: [arts-and-media]
 ---

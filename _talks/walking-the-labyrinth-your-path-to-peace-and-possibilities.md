@@ -9,6 +9,7 @@ event_name: BIL:Vancouver 2016
 speaker: diana-ng
 speaker_name: Diana Ng
 youtube: https://www.youtube.com/watch?v=Bb6Osa26220
+subjects: [mind-and-consciousness]
 ---
 
 I would like to speak about why and how I came to building the first public labyrinth in Metro Vancouver with the City of Surrey. I will inspire a path to peace and possibilities on the labyrinth.

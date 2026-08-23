@@ -8,4 +8,5 @@ event: bil-los-angeles-2015
 event_name: BIL:Los Angeles 2015
 speaker: gadget
 speaker_name: Gadget
+subjects: [transportation]
 ---

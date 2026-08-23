@@ -9,6 +9,7 @@ event_name: BIL:Vancouver 2016
 speaker: jason-porath
 speaker_name: Jason Porath
 youtube: https://www.youtube.com/watch?v=4XKKwLzOJkI
+subjects: [arts-and-media, society-and-politics]
 ---
 
 There is a long history of badass women who've been systematically excised from the history books and out of children's literature. Why is that?

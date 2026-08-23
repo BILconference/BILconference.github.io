@@ -10,7 +10,7 @@ layout: default
         {% if page.event %} · <a href="{{ '/events/' | append: page.event | append: '/' | relative_url }}">{{ page.event_name }}</a>{% elsif page.event_name %} · {{ page.event_name }}{% endif %}
       </p>
       {% if page.subjects %}
-      <p class="tag-row">{% for s in page.subjects %}<span class="tag">{{ s }}</span>{% endfor %}</p>
+      <p class="tag-row">{% for s in page.subjects %}{% assign td = site.data.topics | where: "key", s | first %}<a class="tag" href="{{ '/topics/' | relative_url }}#{{ s }}">{{ td.name | default: s }}</a>{% endfor %}</p>
       {% endif %}
     </div>
   </div>
@@ -26,6 +26,37 @@ layout: default
   {% endif %}
 
   {{ content }}
+
+  {% assign ev_related = "" | split: "" %}
+  {% if page.event %}
+    {% assign ev_related = site.talks | where: "event", page.event | where_exp: "t", "t.slug != page.slug" | sort: "title" %}
+  {% endif %}
+  {% if ev_related.size > 0 %}
+  <section class="event-section">
+    <h2>More from {{ page.event_name }}</h2>
+    <ul class="talk-list">
+      {% for t in ev_related limit: 4 %}
+      <li><a href="{{ t.url | relative_url }}">{{ t.title }}</a>{% if t.speaker_name %} <span class="talk-speaker">— {{ t.speaker_name }}</span>{% endif %}{% if t.youtube %} <span class="badge">▶ video</span>{% endif %}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.subjects %}
+  {% assign topic = page.subjects | first %}
+  {% assign td = site.data.topics | where: "key", topic | first %}
+  {% assign topic_related = site.talks | where_exp: "t", "t.subjects contains topic" | where_exp: "t", "t.slug != page.slug" | where_exp: "t", "t.event != page.event" | sort: "title" %}
+  {% if topic_related.size > 0 %}
+  <section class="event-section">
+    <h2>More on <a href="{{ '/topics/' | relative_url }}#{{ topic }}">{{ td.name | default: topic }}</a></h2>
+    <ul class="talk-list">
+      {% for t in topic_related limit: 4 %}
+      <li><a href="{{ t.url | relative_url }}">{{ t.title }}</a>{% if t.speaker_name %} <span class="talk-speaker">— {{ t.speaker_name }}</span>{% endif %}{% if t.youtube %} <span class="badge">▶ video</span>{% endif %}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+  {% endif %}
 
   <p class="backlink"><a href="{{ '/talks/' | relative_url }}">&larr; All talks</a></p>
 </article>

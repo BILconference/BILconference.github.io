@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: jason-wells
 speaker_name: Jason Wells
+subjects: [ai-and-computing]
 ---

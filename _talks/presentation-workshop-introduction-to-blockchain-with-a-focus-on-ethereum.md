@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: cody-marx-bailey
 speaker_name: Cody Marx Bailey
 session: Saturday Afternoon
+subjects: [ai-and-computing]
 ---

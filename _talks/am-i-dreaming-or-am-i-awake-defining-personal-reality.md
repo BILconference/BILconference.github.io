@@ -5,4 +5,5 @@ event: bil-vancouver-2016
 event_name: BIL Vancouver 2016
 speaker: tee-crane
 speaker_name: Tee Crane
+subjects: [mind-and-consciousness]
 ---

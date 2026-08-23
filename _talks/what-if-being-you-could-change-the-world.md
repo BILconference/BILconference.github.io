@@ -8,6 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: sophie-mihalko
 speaker_name: Sophie Mihalko
-subjects:
-- Neuroscience
+subjects: [personal-growth]
 ---

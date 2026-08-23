@@ -9,4 +9,5 @@ event_name: BIL:SF 2014
 speaker: gayle-karen-young-2
 speaker_name: Gayle Karen Young
 youtube: https://www.youtube.com/watch?v=whHyhmqXyRw&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=2
+subjects: [entrepreneurship-and-work]
 ---

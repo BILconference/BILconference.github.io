@@ -9,4 +9,5 @@ event_name: BIL:Los Angeles 2015
 speaker: michael-hartl
 speaker_name: Michael Hartl
 youtube: https://www.youtube.com/watch?v=i4XlYlrC_fw&index=1&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu
+subjects: [science-and-space]
 ---

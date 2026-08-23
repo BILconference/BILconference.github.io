@@ -6,4 +6,5 @@ event_name: "BIL: Vancouver 2017"
 speaker: niko-bell
 speaker_name: Niko Bell
 session: Sunday Afternoon
+subjects: [sex-and-relationships]
 ---

@@ -8,4 +8,5 @@ event: bil-2012
 event_name: BIL 2012
 speaker: sabrina-morgan
 speaker_name: Sabrina Morgan
+subjects: [sex-and-relationships]
 ---

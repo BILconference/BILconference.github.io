@@ -9,4 +9,5 @@ event_name: BIL:Vancouver 2016
 speaker: david-ascher
 speaker_name: David Ascher
 youtube: https://www.youtube.com/watch?v=85b6cm7wvIQ
+subjects: [ai-and-computing, security-and-privacy]
 ---

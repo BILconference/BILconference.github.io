@@ -8,6 +8,7 @@ event: bil-2012
 event_name: BIL 2012
 speaker: isa-gordon
 speaker_name: Isa Gordon
+subjects: [mind-and-consciousness]
 ---
 
 A brief overview of simple strategies to effect change in brain and body, emphasizing practical techniques borrowed from systems of meta-thinking, neuro-linguistic programming and ideokinesis. The talk will include examples from guided meditations that use visual, tactile and semantic imagery to elevate mood, focus mind, heal disease, or re-pattern neuromuscular habits, and tips for writing your own and using a computer or phone as guide. If there's interest, I'll schedule additional sessions to lead full meditations.
