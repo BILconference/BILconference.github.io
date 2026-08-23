@@ -30,19 +30,34 @@ layout: default
   </section>
   {% endfor %}
 
-  {% if page.speakers %}
+  {% comment %} Speakers grid: explicit speakers: front matter, plus speakers
+    derived from this event's talks, plus the folded Vancouver roster on the
+    BIL 2015 page. {% endcomment %}
+  {% assign speaker_slugs = "" | split: "" %}
+  {% if page.speakers %}{% assign speaker_slugs = speaker_slugs | concat: page.speakers %}{% endif %}
+  {% if page.slug == "bil-2015" %}
+    {% assign vancouver = site.speakers | where: "bil_2015", true | map: "slug" %}
+    {% assign speaker_slugs = speaker_slugs | concat: vancouver %}
+  {% endif %}
+  {% assign event_talks = site.talks | where: "event", page.slug %}
+  {% assign talk_speakers = event_talks | map: "speaker" | compact %}
+  {% assign speaker_slugs = speaker_slugs | concat: talk_speakers | compact | uniq %}
+  {% assign event_speakers = "" | split: "" %}
+  {% for s_slug in speaker_slugs %}
+    {% assign one = site.speakers | where: "slug", s_slug %}
+    {% assign event_speakers = event_speakers | concat: one %}
+  {% endfor %}
+  {% assign event_speakers = event_speakers | uniq | sort: "title" %}
+  {% if event_speakers.size > 0 %}
   <section class="event-section">
     <h2>Speakers</h2>
     <div class="people-grid">
-      {% for s_slug in page.speakers %}
-      {% assign sp = site.speakers | where: "slug", s_slug | first %}
-      {% if sp %}
+      {% for sp in event_speakers %}
       <a class="person" href="{{ sp.url | relative_url }}">
         <img src="{{ sp.photo | default: '/assets/img/blank-person.png' | replace: '/media/', '/media/thumbs/' | relative_url }}" alt="{{ sp.title }}" loading="lazy">
         <span>{{ sp.title }}</span>
         {% if sp.association %}<small>{{ sp.association | truncate: 60 }}</small>{% endif %}
       </a>
-      {% endif %}
       {% endfor %}
     </div>
   </section>
