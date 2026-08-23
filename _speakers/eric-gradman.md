@@ -3,6 +3,7 @@ title: Eric Gradman
 slug: eric-gradman
 excerpt: "Speaker, BIL 2009"
 association: "Applied Minds; The Mutaytor / Cirque Berzerk"
+photo: /media/2009/02/eric_gradman.jpg
 ---
 
 Eric Gradman is a circus performer, roboticist, and interactive artist. (Yes, the art and the artist are both interactive).

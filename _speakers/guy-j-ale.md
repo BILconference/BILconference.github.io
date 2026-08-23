@@ -3,6 +3,7 @@ title: Guy J Ale
 slug: guy-j-ale
 excerpt: "Speaker, BIL 2011"
 association: "President of Lifespan Seminar, www.lifespanseminar.com"
+photo: /media/2011/03/guy_j_ale.jpg
 ---
 
 Mr. Ale was recently a keynote speaker on optimizing lifespan potential at the Java World Congress in Sri Lanka, following which he was invited to give a keynote address in Chandigarh, India, September 26 - October 3, 2011, at a regional conference which will be attended by government ministers from China, Bangladesh, Afghanistan, and India. He is next presenting Lifespan Seminar at the "Toward a Science of Consciousness" conference at Stockholm University, Sweden, May 2 - 8, 2011. Mr. Ale is the author of "A Manual for Mastering Your Life".

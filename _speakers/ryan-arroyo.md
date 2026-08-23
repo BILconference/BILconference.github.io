@@ -3,6 +3,7 @@ title: Ryan Arroyo
 slug: ryan-arroyo
 excerpt: "Speaker, BIL 2009"
 association: "MyWaterFuture.com"
+photo: /media/2009/02/ryan_arroyo.jpg
 ---
 
 After spending several years working for an overseas manufacturer and seeing first hand the dramatic and massive factory infrastructure in China, India, and Vietnam, Ryan Arroyo decided to switch careers and focus on opportunities that promote earth-friendly practices and sustainable living. Being a long-time resident of Southern California, water conservation was an important area to focus.
