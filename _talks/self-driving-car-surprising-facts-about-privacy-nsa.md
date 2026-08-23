@@ -10,4 +10,7 @@ speaker: brad-templeton
 speaker_name: Brad Templeton
 youtube: https://www.youtube.com/watch?v=i7zKvSVyhzA&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=4
 subjects: [transportation, security-and-privacy]
+summary_ai: true
 ---
+
+Brad Templeton surveys Snowden-era revelations about NSA and allied surveillance — PRISM, undersea cable taps, weakened cryptographic standards, and cell-tower location records — arguing privacy underpins freedom. He then reviews Google's self-driving car testing record and announced timelines from Tesla, Volvo, Mercedes, and Nissan.

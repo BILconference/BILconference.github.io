@@ -10,4 +10,7 @@ speaker: a-jolly
 speaker_name: A. Jolly
 youtube: https://www.youtube.com/watch?v=qDMtboQeRMc&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=9
 subjects: [money-and-crypto]
+summary_ai: true
 ---
+
+A. Jolly explains credit card and travel rewards optimization: sign-up bonuses, cardholder perks, and cash back versus airline miles valuation. He covers tracking mileage balances with AwardWallet, stacking discounted gift cards with cashback portals, manufacturing spend through gift cards and Kiva loans, hidden-city ticketing, and negotiating annual fee waivers.

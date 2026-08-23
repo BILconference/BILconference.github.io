@@ -10,4 +10,7 @@ speaker: hailey-mccann
 speaker_name: Hailey McCann
 youtube: https://www.youtube.com/watch?v=W79LXSH4lf8&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=15
 subjects: [health-and-longevity]
+summary_ai: true
 ---
+
+Hailey McCann, a USA Weightlifting certified coach, discusses how prolonged sitting at desk jobs creates mobility problems, using Olympic weightlifting positions as a benchmark for healthy range of motion. She covers core bracing, tight hip flexors, hip hinging, and simple daily mobility drills such as overhead squat variations, then answers audience questions about back pain and stretching.

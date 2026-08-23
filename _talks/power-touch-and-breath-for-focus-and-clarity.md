@@ -10,4 +10,7 @@ speaker: linda-maepa
 speaker_name: Linda Maepa
 youtube: https://www.youtube.com/watch?v=eJ_4gI_DJaU&index=5&list=PLCZHPSerQfFdcPpdxHJ0muheHFLHIj9A9
 subjects: [mind-and-consciousness, personal-growth]
+summary_ai: true
 ---
+
+Linda Maepa, a tech entrepreneur and former massage therapist, presents practical tools for stress reduction and deliberate choice-making. She leads the audience through diaphragmatic breathing with a longer exhale to activate the parasympathetic nervous system, demonstrates acupressure points for sinus and tension headaches, and frames uncomfortable emotions as prompts for conscious choices.

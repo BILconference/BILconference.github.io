@@ -10,4 +10,7 @@ speaker: colleen-wynia
 speaker_name: Colleen Wynia
 youtube: https://www.youtube.com/watch?v=INeTAGDKJ3w
 subjects: [personal-growth]
+summary_ai: true
 ---
+
+Colleen Wynia recounts losing her father, cousins, and sister and describes what she interprets as after-death communications from them, including moved objects, radio malfunctions, and dreams. She lists what she calls myths about spirit communication, claims benefits such as easing grief and deepening intuition, and ties the practice to law-of-attraction coaching and healthier lifestyle choices.

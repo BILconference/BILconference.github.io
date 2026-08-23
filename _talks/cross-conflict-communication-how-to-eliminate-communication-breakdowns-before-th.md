@@ -11,4 +11,7 @@ speaker: den-bradshaw
 speaker_name: Den Bradshaw
 youtube: https://www.youtube.com/watch?v=xusU4P_HT5k&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=8
 subjects: [personal-growth]
+summary_ai: true
 ---
+
+Den Bradshaw argues technology-mediated communication has atrophied interpersonal skills while making in-person interactions more consequential. Using a paired talking-over-each-other exercise, he teaches empathic active listening — summarizing the other person's words back — and explains how emotional arousal shuts down logical processing, recommending a pre-made plan that addresses emotions first, including physical gestures like a hug, before returning to the issue.

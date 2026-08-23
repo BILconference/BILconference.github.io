@@ -11,4 +11,7 @@ speaker: mirabelle-jones
 speaker_name: Mirabelle Jones
 youtube: https://www.youtube.com/watch?v=HMYwTyn27ss&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=15&spfreload=1
 subjects: [arts-and-media, society-and-politics]
+summary_ai: true
 ---
+
+Mirabelle Jones, a book artist and sexual assault advocate, presents Jarring, an edition of letterpress and laser-cut artist's books collecting survivor narratives, sold to university special collections with proceeds going to rape crisis centers. She introduces Survivor Manual, a printable zine of advocate resources, and discusses how art can counter rape culture.

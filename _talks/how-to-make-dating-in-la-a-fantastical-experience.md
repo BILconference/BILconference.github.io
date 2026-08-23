@@ -10,4 +10,7 @@ speaker: erin-tillman
 speaker_name: Erin Tillman
 youtube: https://www.youtube.com/watch?v=vlwLVXYGQGY&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ&index=3
 subjects: [sex-and-relationships]
+summary_ai: true
 ---
+
+Dating coach Erin Tillman argues singles hate dating because of unrealistic checklists, mismatched relationship goals, over-seriousness, and assumptions about exclusivity. She advises clarifying what one wants, treating dates as casual get-to-know-you sessions, "dating yourself," and choosing activity-based dates around Los Angeles.

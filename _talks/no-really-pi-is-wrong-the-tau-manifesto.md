@@ -10,4 +10,7 @@ speaker: michael-hartl
 speaker_name: Michael Hartl
 youtube: https://www.youtube.com/watch?v=i4XlYlrC_fw&index=1&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu
 subjects: [science-and-space]
+summary_ai: true
 ---
+
+Michael Hartl argues that pi, defined as circumference over diameter, is an unnatural circle constant and proposes tau (C/r = 2pi) instead. He recounts launching the Tau Manifesto on June 28, 2010, its spread through geek culture, and works through radian angle measures, Euler's identity, and the circular area formula to show tau simplifies each.

@@ -10,4 +10,7 @@ speaker: veronica-flores
 speaker_name: Veronica Flores
 youtube: https://www.youtube.com/watch?v=1WlkwPZcfu8&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=10
 subjects: [personal-growth, environment-and-food]
+summary_ai: true
 ---
+
+Veronica Flores describes taking up gardening to manage anger, anxiety, and distrust, arguing that tending plants forces presence, patience, and daily attention. Using a neglected passion fruit seedling as a through-line, she critiques instant-gratification culture and presents the garden as a space for experimentation, play, and reframing failure as learning.

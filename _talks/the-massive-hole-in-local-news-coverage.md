@@ -10,4 +10,7 @@ speaker: pat-kitano
 speaker_name: Pat Kitano
 youtube: https://www.youtube.com/watch?v=oy4ZNLFROlM&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=9
 subjects: [arts-and-media, society-and-politics]
+summary_ai: true
 ---
+
+Pat Kitano describes building the Breaking News Network across 400 cities on three principles: curating independent publishers' content, including community newsmakers, and rejecting advertising. He argues local media underserves topical niches and outlines networks for 14 topics curating national influencers, publishers, and local bloggers into "advocate networks" for causes.

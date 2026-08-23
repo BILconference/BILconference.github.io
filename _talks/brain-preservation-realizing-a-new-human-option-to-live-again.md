@@ -10,4 +10,7 @@ speaker: john-m-smart
 speaker_name: John M. Smart
 youtube: https://www.youtube.com/watch?v=GakKzIWH2-Q&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=3
 subjects: [health-and-longevity, science-and-space]
+summary_ai: true
 ---
+
+John Smart, co-founder of the Brain Preservation Foundation, argues chemical plastination could inexpensively preserve human connectomes at death for possible future memory retrieval or revival. He describes small-animal brain preservation and scanning progress, the foundation's mouse and pig brain prize, lifelogging and posthumous digital "twin" avatars, and speculative future whole-brain scanning technologies.

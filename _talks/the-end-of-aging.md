@@ -10,4 +10,7 @@ speaker: maria-entraigues-abramson
 speaker_name: Maria Entraigues-Abramson
 youtube: https://www.youtube.com/watch?v=VaOtGFi741A&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=4
 subjects: [health-and-longevity]
+summary_ai: true
 ---
+
+Maria Entraigues-Abramson of SENS Research Foundation presents Aubrey de Grey's framework of aging as seven types of accumulating cellular and molecular damage. She cites roughly 100,000 aging-related deaths per day, contrasts damage-repair "rejuvenation biotechnology" with gerontology and geriatrics, and details a bacteria-derived enzyme intended to clear oxidized cholesterol plaque.

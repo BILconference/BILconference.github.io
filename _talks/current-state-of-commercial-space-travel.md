@@ -10,4 +10,7 @@ speaker: george-loretta-whitesides
 speaker_name: George & Loretta Whitesides
 youtube: https://youtu.be/OTpfjrTRvx8?list=PLCZHPSerQfFcg1-4TdvnyuuYii0eOrVZg
 subjects: [science-and-space]
+summary_ai: true
 ---
+
+Loretta Whitesides recounts founding Yuri's Night, the worldwide April 12 space celebration marking Gagarin's flight and the first Shuttle launch, from the first 2001 Los Angeles event to parties at NASA Ames and Goddard. She describes giving the brand away to grassroots organizers, a crew celebration aboard the International Space Station, and invites the audience to help plan the next LA event.

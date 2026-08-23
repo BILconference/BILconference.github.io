@@ -10,4 +10,7 @@ speaker: andrew-mcgregor
 speaker_name: Andrew McGregor
 youtube: https://www.youtube.com/watch?v=hrJtyLaqYmo&index=13&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu
 subjects: [ai-and-computing]
+summary_ai: true
 ---
+
+Andrew McGregor describes how war photography in eastern DR Congo exposed him to landmine victims and led him to write a short film about a rat and a robot guiding humans through minefields. Making the film produced an actual robot prototype that watches mine-sniffing rats and maps where they detect mines, and he outlines his organization Symbiobotics and a planned design challenge for landmine-clearing robotics.

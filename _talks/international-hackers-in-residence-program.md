@@ -10,4 +10,7 @@ speaker: mitch-altman
 speaker_name: Mitch Altman
 youtube: https://www.youtube.com/watch?v=eXYP9RhB_d0&list=PLCZHPSerQfFcky9wvca_447JJR6FxvqSW&index=7
 subjects: [ai-and-computing, community-and-unconference]
+summary_ai: true
 ---
+
+Mitch Altman argues schools fail to teach people how to live lives they love and presents hackerspaces — grown from a couple dozen in 2007 to 1,500 — as supportive communities for learning through hacking. He describes launching hackerinresidence.org, an international program matching traveling hackers with host organizations including Tsinghua University and Beijing Makerspace.

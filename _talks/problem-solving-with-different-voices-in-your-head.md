@@ -10,4 +10,7 @@ speaker: justin-dudek
 speaker_name: Justin Dudek
 youtube: https://www.youtube.com/watch?v=yMoOP-4VSdI&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=18
 subjects: [mind-and-consciousness]
+summary_ai: true
 ---
+
+Justin Dudek describes how unconscious behavioral patterns drive reactions, then teaches a technique — drawn from Tony Robbins and Jungian archetypes — of personifying inner consciousnesses (warrior, magician, lover, sovereign), physically embodying each, and asking them questions without filtering the answers. He leads the room through the warrior and magician exercises.

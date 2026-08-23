@@ -11,4 +11,7 @@ speaker: bartosz-bos
 speaker_name: Bartosz Bos
 youtube: https://www.youtube.com/watch?v=z1t72boDgQ4
 subjects: [entrepreneurship-and-work]
+summary_ai: true
 ---
+
+Bartosz Bos recounts his 3D-printing career at Figureprints and Shapeways, then dissects the failure of Inteeny, his startup for 3D-printed custom molds and sensor-laden connected devices. He attributes the collapse to hubris, endless talking instead of building, part-time commitment, shifting product direction, and poor team communication, concluding that execution matters more than ideas.

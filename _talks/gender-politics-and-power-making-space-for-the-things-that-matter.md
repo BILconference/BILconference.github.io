@@ -10,4 +10,7 @@ speaker: andrea-reimer
 speaker_name: Andrea Reimer
 youtube: https://www.youtube.com/watch?v=EDhX03LeyR0
 subjects: [sex-and-relationships, society-and-politics]
+summary_ai: true
 ---
+
+Vancouver city councillor Andrea Reimer uses her experience quitting smoking to argue that calling goals "impossible" evades responsibility, then applies this to gender equity in politics. She recounts media coverage fixating on her hair, being handed note-taking duties, and daily interruptions in council meetings, and asks men to stop interrupting while urging organizations to pursue equal representation.

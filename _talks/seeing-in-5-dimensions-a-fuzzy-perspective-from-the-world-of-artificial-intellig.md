@@ -10,4 +10,7 @@ speaker: lauren-barghout-ph-d
 speaker_name: Lauren Barghout Ph.D.
 youtube: https://www.youtube.com/watch?v=TlOouD5FXJc&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=4
 subjects: [ai-and-computing]
+summary_ai: true
 ---
+
+Lauren Barghout recounts being asked by Lotfi Zadeh, inventor of fuzzy logic, to define what an edge is, and presents her answer: vision as a five-dimensional space whose fifth dimension is abstraction, populated by "spatial taxons." She contrasts this fuzzy-logic approach with plateauing convolutional neural network object recognition.

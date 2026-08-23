@@ -11,4 +11,7 @@ speaker: michael-persimmon
 speaker_name: Michael Persimmon
 youtube: https://www.youtube.com/watch?v=ePPSmok50hc
 subjects: [ai-and-computing]
+summary_ai: true
 ---
+
+Michael Persimmon recounts decades of frustration with planned obsolescence, then presents open source software as the remedy, surveying free alternatives such as LibreOffice, Krita, Inkscape, Blender, and QGIS. He demonstrates reviving old laptops by installing Linux, shares stories of clients and family running it, and frames the open source movement as built on sharing, gratitude, and community.

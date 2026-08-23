@@ -8,4 +8,7 @@ speaker_name: Alexandros Pagidas
 session: "Saturday 2:40"
 youtube: "https://www.youtube.com/watch?v=U68oTmfpVIY"
 subjects: [society-and-politics]
+summary_ai: true
 ---
+
+Alexandros Pagidas argues that citizens under laws they never consented to are unfree by the classical Republican definition, likening the inescapable social contract to servitude. He proposes political entrepreneurship — the ability to start new micro-states as one starts businesses — and addresses one-world-government arguments, concentration of power, and the tragedy of the commons.

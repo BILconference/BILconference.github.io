@@ -10,4 +10,7 @@ speaker: eden-harman-bernardy
 speaker_name: Eden Harman Bernardy
 youtube: https://www.youtube.com/watch?v=4enkmL1S9DA&list=PLCZHPSerQfFdaXi_c6cDzevXTzHyLLSdu&index=19
 subjects: [arts-and-media, personal-growth]
+summary_ai: true
 ---
+
+Acting coach Eden Harman Bernardy argues that acting pedagogy should move beyond motivation-based technique to incorporate neuroscience, using mindfulness meditation and neural pathway formation to build characters' points of view. She discusses research on cognitive flexibility and recommends practices for keeping the mind open.

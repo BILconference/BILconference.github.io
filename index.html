@@ -5,12 +5,25 @@ title: Home
 <section class="hero-banner">
   <img class="bil-logo" src="{{ '/media/2015/07/bil-white-500.png' | relative_url }}" alt="BIL">
   <h1>The unconference for people changing the world in big ways</h1>
-  <p class="hero-sub">Minds, not badges. Talks, not tickets.</p>
+  <p class="hero-sub">Minds, not badges. Talks, not tickets. 2008–2018 — the complete archive.</p>
 </section>
 
 <section class="module-intro">
-  <p>Most of you have heard of TED or watched the talks online, but do you know about BIL, the quirky, populist, unconference? Open to the public and fully participant powered, BIL features a wild mix of technologists, scientists, artists, hackers, and those with a passion for community awareness.</p>
-  <p>BIL emerged from a community of people who aspire to change the world for the better — everyone is on equal standing and we meet to share ideas, problems that need solving, and discoveries we are excited about. Our attendees are our speakers and our speakers are our attendees, and in true unconference style, attendees shape the conference through their participation.</p>
+  <p>In 2008, a group of friends got a crazy idea: crash TED. They wanted the
+  conversations without the price tag — so in two weeks they booked a small
+  venue down the street in Monterey, invited speakers, landed on NPR and in
+  the LA Times, and threw a free, open, participant-run counter-conference.
+  In an <em>Excellent Adventure</em> sort of way, they called it BIL.</p>
+  <p>For the next decade BIL happened wherever someone decided it should — an
+  old Masonic Temple in Long Beach, the Queen Mary, a converted movie house in
+  Vancouver, college campuses in Delhi and Salem, rooftops in Tunis, a bar in
+  Davos during the World Economic Forum. Everyone stood on equal footing:
+  the attendees were the speakers, the speakers were the attendees, and
+  anyone with fifteen minutes and an idea got a stage. TED eventually answered
+  the grassroots energy with TEDx; BIL just kept being BIL.</p>
+  <p>This site is the archive of all of it — every event, speaker, and talk
+  that survived, restored from the original bilconference.com and preserved
+  as it was written.</p>
 </section>
 
 <section class="module-map">
@@ -18,6 +31,7 @@ title: Home
   <p class="hero-stats">
     <a href="{{ '/events/' | relative_url }}"><strong>{{ site.events.size }}</strong> events</a>
     <a href="{{ '/speakers/' | relative_url }}"><strong>{{ site.speakers.size }}</strong> speakers</a>
+    <a href="{{ '/talks/' | relative_url }}"><strong>{{ site.talks.size }}</strong> talks</a>
     <a href="{{ '/videos/' | relative_url }}"><strong>{{ site.talks | where_exp: "t", "t.youtube" | size }}</strong> videos</a>
   </p>
 </section>
@@ -39,7 +53,11 @@ title: Home
 </section>
 
 <section class="module-cta">
-  <h2>Anyone can host a BIL</h2>
-  <p>BIL events are self-organizing — a venue, a wiki, and people with ideas worth sharing. That's how {{ site.events.size }} of them happened on five continents.</p>
+  <h2>The next BIL is yours to throw</h2>
+  <p>BIL was never an organization — it's a format, and the format is free.
+  A venue, a whiteboard, and people with ideas worth sharing: that's how
+  {{ site.events.size }} of them happened on five continents. The
+  <a href="{{ '/host-a-bil/guide/' | relative_url }}">organizers' handbook</a>
+  is preserved and waiting.</p>
   <a class="btn" href="{{ '/host-a-bil/' | relative_url }}">Host a BIL</a>
 </section>

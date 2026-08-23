@@ -10,4 +10,7 @@ speaker: kathleen-sage-esq
 speaker_name: Kathleen Sage, Esq.
 youtube: https://www.youtube.com/watch?v=7m5zbSAwRgE&index=17&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu
 subjects: [entrepreneurship-and-work]
+summary_ai: true
 ---
+
+Attorney Kathleen Sage advises small-business founders to build relationships with accountants, lawyers, bankers, and mentors; to understand contracts, using The Social Network's verbal agreements as an example; and to know their regulatory environment. Audience discussion covers when to incorporate, independent-contractor misclassification, and estimated taxes.
