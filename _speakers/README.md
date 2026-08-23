@@ -13,6 +13,11 @@ excerpt: "Speaker BIL LA 2015"
 The body is the bio. A speaker's talks appear on their page automatically
 via each talk's `speaker:` slug.
 
+A bio researched after the fact (rather than imported from the original
+site) must carry `bio_ai: true`, which renders an AI-assistance
+disclosure under it, and `bio_sources:` (a list of URLs, first one
+linked). Only add such bios when the person's identity is unambiguous.
+
 Speakers from the BIL 2015 Vancouver sub-site carry extra fields:
 
 ```yaml
