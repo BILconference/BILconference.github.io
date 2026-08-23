@@ -10,4 +10,7 @@ speaker: chris-lopez
 speaker_name: Chris Lopez
 youtube: https://www.youtube.com/watch?v=tUVRD08oMiM&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=8
 subjects: [education-and-learning, arts-and-media]
+summary_ai: true
 ---
+
+Chris Lopez of the 23b Shop hackerspace discusses what distinguishes a maker or hacker from "faux enablement," locating it in intense curiosity and hands-on skill built through hundreds of hours of tinkering. He questions 3D-printer hype — arguing the "killer app" hasn't arrived — and leads audience discussion of practical uses like Navy shipboard part printing.

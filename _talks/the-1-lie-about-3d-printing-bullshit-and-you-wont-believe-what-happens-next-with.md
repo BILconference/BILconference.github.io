@@ -11,4 +11,7 @@ speaker: pablos-holman
 speaker_name: Pablos Holman
 youtube: https://www.youtube.com/watch?v=5MyfgYhj788
 subjects: [ai-and-computing]
+summary_ai: true
 ---
+
+Pablos Holman argues the key property of 3D printing is not additive manufacturing but programmability — machines that never need to make the same thing twice — enabling rapid iteration like modern software development. He contrasts this with mold-based economies of scale and describes projects including a speculative food printer and on-demand custom manufacturing.

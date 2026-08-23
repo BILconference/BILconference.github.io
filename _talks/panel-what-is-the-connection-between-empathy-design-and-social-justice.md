@@ -10,4 +10,7 @@ speaker: timothy-huffman
 speaker_name: Timothy Huffman
 youtube: https://www.youtube.com/watch?v=o7ODQ74eZkw&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=14
 subjects: [society-and-politics]
+summary_ai: true
 ---
+
+Panelists from the group Thinking With define design, empathy, and social justice, then examine each pairwise connection, citing design-thinking examples such as Stanford's infant-warmer project in Nepal. They argue innovation needs systemic, empathic grounding, warn that empathy can turn paternalistic, and describe a space-redesign project with a homeless-youth organization in Venice.

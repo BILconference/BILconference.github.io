@@ -10,4 +10,7 @@ speaker: shannon-lambie
 speaker_name: Shannon Lambie
 youtube: https://www.youtube.com/watch?v=HRE-SBjv9mQ
 subjects: [environment-and-food]
+summary_ai: true
 ---
+
+Shannon Lambie outlines the scale of food waste — $31 billion annually in Canada and 1.3 billion tons globally — alongside rising food bank use, framing waste as a food security issue. She presents the Vancouver Fruit Tree Project, a volunteer nonprofit that harvests unused backyard fruit from over 200 tree owners and distributes it to community centers, shelters, and daycares.

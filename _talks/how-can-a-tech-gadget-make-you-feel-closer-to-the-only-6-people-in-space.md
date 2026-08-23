@@ -10,4 +10,7 @@ speaker: liam-kennedy
 speaker_name: Liam Kennedy
 youtube: https://www.youtube.com/watch?v=9331fxwa79U&index=2&list=PLCZHPSerQfFd_3zp_VxAYD6genV8W5VLQ
 subjects: [science-and-space, ai-and-computing]
+summary_ai: true
 ---
+
+Liam Kennedy presents ISS-Above, a Raspberry Pi device he invented that alerts users when the International Space Station passes overhead and streams its live HD Earth-viewing cameras. He describes the device's Kickstarter origins and roughly 900 installations, customer and classroom reactions, and argues the "orbital perspective" fosters environmental awareness and connection to the space program.

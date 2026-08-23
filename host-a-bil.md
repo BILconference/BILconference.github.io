@@ -19,6 +19,9 @@ BIL Conference in under Creative Commons licence.
 
 Ready to make one happen?
 
+- [The hosting guide](/host-a-bil/guide/) — the original organizers'
+  handbook: venues, money, speakers, and sponsorship, preserved from
+  a decade of BILs.
 - [Stream setup](/stream-setup/) — how past events put their talks live on
   YouTube, still a working playbook.
 - [Submit your event](/submit-new-event/) — get it into this archive once

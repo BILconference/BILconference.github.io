@@ -10,4 +10,7 @@ speaker: byron-go
 speaker_name: Byron Go
 youtube: https://www.youtube.com/watch?v=o1WY2Vo0BG0&list=PLCZHPSerQfFdmmBhNovfs5CVdmSNB_aCu&index=11
 subjects: [mind-and-consciousness]
+summary_ai: true
 ---
+
+Byron Go recounts how a chain of coincidences — a Facebook invitation aligning with a trip to Los Angeles — led him to speak at BIL ten days after learning it existed. He contrasts Jung's psychological definition of synchronicity with the physics sense of aligned frequencies, and proposes a three-step practice: know your alignment, notice synchronicities, and lean in by acting on them.

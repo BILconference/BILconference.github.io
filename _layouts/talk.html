@@ -26,6 +26,10 @@ layout: default
   {% endif %}
 
   {{ content }}
+  {% if page.summary_ai %}
+  <p class="ai-note">This summary was generated with the help of AI from the talk's
+    transcript. <a href="https://github.com/BILconference/BILconference.github.io/issues">Corrections welcome</a>.</p>
+  {% endif %}
 
   {% assign ev_related = "" | split: "" %}
   {% if page.event %}

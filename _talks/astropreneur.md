@@ -10,4 +10,7 @@ speaker: paul-fuller
 speaker_name: Paul Fuller
 youtube: https://www.youtube.com/watch?v=J9OCXw1saeM&index=2&list=PLCZHPSerQfFdcPpdxHJ0muheHFLHIj9A9
 subjects: [science-and-space, entrepreneurship-and-work]
+summary_ai: true
 ---
+
+Paul Fuller of the Space Frontier Foundation presents his concept for a space-themed game blending education and entertainment to rebuild interest in STEM. He critiques existing offerings like NASA's games and Kerbal, proposes a map-based civilization game where players run a space company, and in Q&A calls Mars One financially unworkable and premature.
