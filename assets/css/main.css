@@ -203,6 +203,12 @@ main.wrap { padding: 2.5rem 1.25rem 3rem; }
   font-size: 2rem;
   margin: 0 0 2rem;
 }
+.stats-note {
+  text-align: center;
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.75);
+  margin: 0.9rem 0 0;
+}
 .hero-stats {
   display: flex;
   justify-content: center;
