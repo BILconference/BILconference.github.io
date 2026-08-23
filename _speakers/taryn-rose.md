@@ -3,6 +3,7 @@ title: Taryn Rose
 slug: taryn-rose
 excerpt: "Speaker, BIL 2011"
 association: "Entrepreneur, Orthopedic Surgeon"
+photo: /media/2011/03/taryn_rose.jpg
 ---
 
 A true American success story, Taryn has come a long way since escaping Vietnam at the young age of 7 for the United States. Born in Ho Chi Minh City, Vietnam in 1967 she narrowly escaped with her family three days before the fall of Saigon.

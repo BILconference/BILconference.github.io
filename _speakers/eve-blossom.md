@@ -3,6 +3,7 @@ title: Eve Blossom
 slug: eve-blossom
 excerpt: "Speaker, BIL 2009"
 association: "Founder and CEO, Lulan Artisans"
+photo: /media/2009/02/eve_blossom.jpg
 ---
 
 Ms. Blossom's seventeen years’ experience in early-stage technology firms, international business, nonprofit and social ventures led her to founding Lulan Artisans. After earning her master’s degree in Architecture from Tulane University, she practiced at Gensler in Los Angeles. She then spent two years in Viet Nam restoring French villas for such clients as Price Waterhouse and Chase Manhattan, and training Vietnamese architects in technology. After returning to the US, Blossom was a VP of business development with Gravity, Inc, a software company in San Francisco, and then founded the San Francisco-based Envolved Inc./Foundation, an Internet portal for nonprofit groups. She moved to Charleston in 2001 and ran the fundraising office of the American College of the Building Arts.

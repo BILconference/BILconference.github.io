@@ -3,6 +3,7 @@ title: John Halcyon Styn
 slug: john-halcyon-styn
 excerpt: "Speaker, BIL 2011"
 association: "host, Hug Nation"
+photo: /media/2011/03/john_halcyon_styn.jpg
 ---
 
 Halcyon is a 13 year Burning Man participant, 2-time Webby Award winner, and former host of NBC.com's "Fears. Regrets. Desires."

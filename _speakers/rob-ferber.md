@@ -3,6 +3,7 @@ title: Rob Ferber
 slug: rob-ferber
 excerpt: "Speaker, BIL 2011"
 association: "CEO, ElectronVault, Inc."
+photo: /media/2011/03/rob_ferber.jpg
 ---
 
 Rob has over 10 years of experience with pioneering uses of battery technology including past lead battery roles at both Tesla Motors and AC Propulsion. A botanist, technologist, geneticist, chemist and serial entrepreneur, Rob has enjoyed two IPOs with market caps of over US$1 billion, one of which is in the electric vehicle space.

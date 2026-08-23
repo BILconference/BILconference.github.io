@@ -3,6 +3,7 @@ title: Tracy McSheery
 slug: tracy-mcsheery
 excerpt: "Speaker, BIL 2011"
 association: "Physicist, Engineer, CTO of PhaseSpace"
+photo: /media/2011/03/tracy_mcsheery.jpg
 ---
 
 After serving as a Lieutenant in the US Navy, Mr. McSheery founded several companies that span several decades in the development and research of technologies for industry and defense contracts.

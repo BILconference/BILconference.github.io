@@ -3,6 +3,7 @@ title: Francine Hardaway
 slug: francine-hardaway
 excerpt: "Speaker, BIL 2009"
 association: "Partner, Stealthmode Partners"
+photo: /media/2009/02/francine_hardaway.jpg
 ---
 
 Francine is a self-described geek-to-human translator. She bought her first Apple product in the (very) early 80s, abandoned it for the supposedly portable Compaq a few years later, and returned to Macs soon after. By the late 80s, she was haranguing her daughters' journalism teachers for continuing to make the students literally cut and paste up the school newspaper copy when desktop publishing already existed, and had sacrificed their high school popularity for their greater good. She also tried to give them fax machines for Christmas, which they returned.
