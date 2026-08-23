@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: darren-fujimoto
 speaker_name: Darren Fujimoto
+youtube: https://www.youtube.com/watch?v=o3VQvQaSc08
 subjects: [sex-and-relationships]
 ---
 

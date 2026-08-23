@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: glenn-sagon
 speaker_name: Glenn Sagon
+youtube: https://www.youtube.com/watch?v=8C22QM-icnA
 subjects: [entrepreneurship-and-work]
 ---
 

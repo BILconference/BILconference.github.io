@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: neal-anderberg
 speaker_name: Neal Anderberg
+youtube: https://www.youtube.com/watch?v=JUHsLVQmCs4
 session: Saturday Unconference
 subjects: [entrepreneurship-and-work]
 ---

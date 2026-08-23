@@ -8,5 +8,6 @@ event: bil-2012
 event_name: BIL 2012
 speaker: doug-jones
 speaker_name: Doug Jones
+youtube: https://www.youtube.com/watch?v=J0EquRPM6H0
 subjects: [science-and-space]
 ---

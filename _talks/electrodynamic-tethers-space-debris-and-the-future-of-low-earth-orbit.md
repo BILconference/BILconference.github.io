@@ -8,5 +8,6 @@ event: bil-2012
 event_name: BIL 2012
 speaker: zach-urbina
 speaker_name: Zach Urbina
+youtube: https://www.youtube.com/watch?v=4VmMD0fWL3Q
 subjects: [science-and-space]
 ---

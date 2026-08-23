@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: julia-bossmann
 speaker_name: Julia Bossmann
+youtube: https://www.youtube.com/watch?v=K3IE-orkWyM
 session: Saturday Main Stage
 subjects: [ai-and-computing, society-and-politics]
 ---

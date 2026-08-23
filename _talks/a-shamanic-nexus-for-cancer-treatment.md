@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: paul-a-spiegel
 speaker_name: Paul A. Spiegel
+youtube: https://www.youtube.com/watch?v=Mrgy3DhY70k
 subjects: [health-and-longevity, mind-and-consciousness]
 ---
 

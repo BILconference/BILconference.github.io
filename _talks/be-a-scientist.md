@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: tami-reiss
 speaker_name: Tami Reiss
+youtube: https://www.youtube.com/watch?v=pbOPBmrxRso
 session: Sunday Main Stage
 subjects: [science-and-space, entrepreneurship-and-work]
 ---

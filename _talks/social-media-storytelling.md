@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: emmett-furey
 speaker_name: Emmett Furey
+youtube: https://www.youtube.com/watch?v=71rYtAH5OeM
 session: Sunday Unconference
 subjects: [arts-and-media]
 ---

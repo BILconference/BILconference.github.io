@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: kenneth-hughes
 speaker_name: Kenneth Hughes
+youtube: https://www.youtube.com/watch?v=DN6Nu9KSt_k
 session: Sunday Unconference
 subjects: [arts-and-media, community-and-unconference]
 ---

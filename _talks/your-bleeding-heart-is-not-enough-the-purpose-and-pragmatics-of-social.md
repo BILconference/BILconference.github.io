@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: kevin-lew
 speaker_name: Kevin Lew
+youtube: https://www.youtube.com/watch?v=SjhN-4txYj8
 session: Saturday Main Stage
 subjects: [society-and-politics, entrepreneurship-and-work]
 ---

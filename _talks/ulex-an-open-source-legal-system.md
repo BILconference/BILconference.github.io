@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: tom-w-bell
 speaker_name: Tom W. Bell
+youtube: https://www.youtube.com/watch?v=I83ywM-zd4k
 session: Saturday Main Stage
 subjects: [society-and-politics]
 ---

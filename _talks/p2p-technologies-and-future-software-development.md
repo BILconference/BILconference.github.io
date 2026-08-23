@@ -8,5 +8,6 @@ event: bil-2012
 event_name: BIL 2012
 speaker: jaan-tallinn
 speaker_name: Jaan Tallinn
+youtube: https://www.youtube.com/watch?v=ImEt62_79aE
 subjects: [ai-and-computing]
 ---

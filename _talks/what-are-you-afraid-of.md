@@ -5,6 +5,7 @@ event: bil-los-angeles-2016
 event_name: "BIL:Los Angeles 2016"
 speaker: eden-harman-bernardy
 speaker_name: Eden Harman Bernardy
+youtube: https://www.youtube.com/watch?v=L3jIZsHMhSo
 session: Sunday Main Stage
 subjects: [personal-growth]
 ---
