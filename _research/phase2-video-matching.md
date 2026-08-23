@@ -1,0 +1,345 @@
+# Phase 2 — BILtalks video matching log
+
+Processed 162 uncovered videos.
+## Summary
+
+- attached: 64
+- created: 30
+- skipped: 68
+  - alternate: 6
+  - ambiguous-person: 1
+  - b-roll: 13
+  - interview: 19
+  - live-segment: 4
+  - live-stream: 5
+  - multi-part: 3
+  - multi-talk: 1
+  - no-person: 1
+  - no-talk-title: 11
+  - not-a-talk: 3
+  - possible-alternate: 1
+
+- `6RP0sx5TJLc` — Amanda Palmer at the BIL Conference 2013
+  - **skipped** (alternate): bil2013-amanda-palmer.md already links a different video (s4TZpUqi0kI); this is an alternate recording of the same appearance
+- `m-W1D-CFkDA` — BIL2014SF - Andrea Kuszewski - Creative Disobedience
+  - **created** -> `_talks/creative-disobedience.md`
+- `ftMRrjp9bok` — BIL2012 - Nina Hartley: Sexual Integrity, The North Star of Personal Growth and Healing
+  - **attached** -> `_talks/sexual-integrity-the-north-star-of-personal-growth-and-healing.md`
+- `-V2ky06Bt4A` — BIL2012 - Sandra Daugherty: I'm a Sex Nerd and So Can You!
+  - **attached** -> `_talks/im-a-sex-nerd-and-so-can-you.md`
+- `sCog7UQAWsk` — BIL2012 - Sex Geeks Reid Mihalko and Allison Moon (LIVE FROM BIL)
+  - **skipped** (live-segment): '(LIVE FROM BIL)' conversational live-stream segment, not a talk
+- `YTxhYGG_WsY` — BIL - Los Angeles 2015 - Day 1
+  - **skipped** (live-stream): full-day live stream recording
+- `Wl_O_sewHRQ` — BIL - Los Angeles 2015 - Day 2
+  - **skipped** (live-stream): full-day live stream recording
+- `kHWQ335FaU4` — BIL2014SF - Samuel Coniglio - Designing for Space Tourism
+  - **created** -> `_talks/designing-for-space-tourism.md`
+- `ZBIMKaQQ25w` — BIL2014SF - Romeo Stevens - 10 Weird Tricks to not Die
+  - **created** -> `_talks/10-weird-tricks-to-not-die.md`
+- `MF-rHWb7LYk` — BIL2014SF - Cindy Dinh - Authentic Relating
+  - **created** -> `_talks/authentic-relating.md`
+- `ErNK5MRxIBU` — BIL2014SF - Alexader Izvorski - Health and the Next 20 Years
+  - **created** -> `_talks/health-and-the-next-20-years.md` (source title typo 'Alexader' corrected to Alexander Izvorski)
+- `8-drdvvGX_Q` — BIL2014SF - Mark Ciotola - Future Day and Fast Entropy
+  - **created** -> `_talks/future-day-and-fast-entropy.md`
+- `zn67TK6LkiA` — BIL2014SF - Mike Souder - Filmmaking for Engineers
+  - **created** -> `_talks/filmmaking-for-engineers.md`
+- `9iWNtTVm9nY` — Interivew with BIL Conference Co-Founder, Cody Bailey
+  - **skipped** (interview): interview with co-founder, not a talk
+- `uwBd40k2xx0` — Fun at BIL, the Anti-Conference
+  - **skipped** (b-roll): atmosphere clip, Early Years, no year evidence
+- `urmIsFDKaqA` — Evan at BIL Conference
+  - **skipped** (ambiguous-person): 'Evan' not identifiable; Early Years, no year evidence
+- `bu-37FEgDj4` — Ed Wode on BIL Conference, Real Democracy and a Fair Global Economic Deal
+  - **skipped** (interview): interview-style clip; Early Years playlist, no year evidence
+- `ORW2kDs7C3U` — Bil 2008 Lexi and Jonathan: Social Bonding 2 of 2
+  - **skipped** (multi-part): social-bonding.md (bil-2008) already links OVYJacPmNEg; this is 'Social Bonding 2 of 2'
+- `_i2JgQLQR7Q` — TED Meets BIL
+  - **skipped** (b-roll): 'TED Meets BIL' recap/atmosphere clip
+- `xW4Q4LHAZUI` — BIL
+  - **skipped** (b-roll): title is just 'BIL'; no identifying information
+- `q6IIyByaxoM` — BIL2015 - Leslie Oliver Karpas - Meta-Modernism
+  - **skipped** (alternate): meta-modernism-a-design-methodology...md already links 5IcB85cNTkE; alternate upload of the same talk
+- `u4UPqA8uCpU` — BIL2015 - Lee Vodra - Droplabs
+  - **created** -> `_talks/droplabs.md`
+- `o0J_gSKEPBo` — BIL Conference 2015 : Los Angeles
+  - **skipped** (b-roll): 'Your Videos' attendee footage
+- `o6na9f76lDo` — BIL Wants To Know...
+  - **skipped** (b-roll): 'Your Videos' attendee footage
+- `ukJm2sihQ74` — Goofing Off at the BIL Conference
+  - **skipped** (b-roll): 'Your Videos' attendee footage
+- `vB055U-o-To` — Clinton (Cosmo) Mielke: Curing Death with Data
+  - **attached** -> `_talks/curing-death-with-data.md`
+- `pupyj_2jR24` — Veronica Flores: What Are You Doing with Your Life?
+  - **attached** -> `_talks/what-are-you-doing-with-your-life.md`
+- `irqT27DelU8` — Ralf-Rainer von Albedyhll: The Unlikely Story
+  - **attached** -> `_talks/the-unlikely-story.md`
+- `dt4f8gMd_Dw` — Paul Hynek & Gregg Katano - Future of VR
+  - **created** -> `_talks/future-of-vr.md`
+- `JUHsLVQmCs4` — Neal Anderberg: Non-Profit Sustainability
+  - **attached** -> `_talks/non-profit-sustainability.md`
+- `0Bt4DQzAx_M` — Nathan Miller: House of Parnofiello: Free Will Act In Deed
+  - **attached** -> `_talks/freewill-act-indeed.md`
+- `tJ4gRvWoRU0` — Mike “Pez” Pesavento: New Dimensions in Visualizing Biology
+  - **created** -> `_talks/new-dimensions-in-visualizing-biology.md`
+- `ASnJTBtHSC8` — Michael Cummings & Cody Marx Bailey: The Future of BIL
+  - **created** -> `_talks/the-future-of-bil.md`
+- `wlvtEh6Xqro` — Dr. Kevin Peter Hickerson: Powering Tomorrow
+  - **attached** -> `_talks/powering-tomorrow.md`
+- `DN6Nu9KSt_k` — Kenneth Hughes – Art Monks and remarriage to Science
+  - **attached** -> `_talks/art-monks-and-remarriage-to-science.md`
+- `fESWFza4CGY` — Julien Emile-Geay: Empty Heavens:  Societies, Beliefs, and Droughts
+  - **attached** -> `_talks/empty-heavens-societies-beliefs-and-droughts.md`
+- `yoo-7bnwKp8` — Jeffrey Szilagyi: Stress Intelligence
+  - **attached** -> `_talks/stress-intelligence.md`
+- `mMzVTcx2WwE` — Heather VanCura: Top Ten Ways to Ally for Women in Tech
+  - **attached** -> `_talks/top-ten-ways-to-ally-for-women-in-tech.md`
+- `kVP6eBeiw-w` — Hamed Mirzaei: From Rocks to Humans:  What it really means to be alive!
+  - **attached** -> `_talks/from-rocks-to-humans-what-it-really-means-to-be-alive.md`
+- `71rYtAH5OeM` — Emmett Furey: Social Media Storytelling
+  - **attached** -> `_talks/social-media-storytelling.md`
+- `VkwYHAbuawc` — Devin O’Neill: Trump and Miley:  Creating Cultural Conversations
+  - **attached** -> `_talks/trump-and-miley-creating-cultural-conversations.md`
+- `KppOGyjVEnU` — Gary Stuart: Whose MOVIE are you LIVING in?
+  - **attached** -> `_talks/whose-movie-are-you-living-in.md`
+- `RkOfqas5dvA` — BILYouth Interviews the BIL Conference Founders
+  - **skipped** (interview): BILYouth interview
+- `6c0xkSFLJ1o` — BILYouth Interviews Reichart Von Wolfsheild
+  - **skipped** (interview): BILYouth interview
+- `SgT-_eALyto` — BILYouth Interviews Den Bradshaw
+  - **skipped** (interview): BILYouth interview
+- `fn73WZPebpc` — BILYouth Interviews Christy Fair and Fedje Lang
+  - **skipped** (interview): BILYouth interview
+- `HJbsGpVMZFY` — BILYouth Interviews Jonah Spear
+  - **skipped** (interview): BILYouth interview
+- `UUIvkn1_Fqo` — BILYouth Interviews Alex Lightman
+  - **skipped** (interview): BILYouth interview
+- `XDWRDCM3BXo` — BIL2012 - Dave Asprey: Bio Hacking, Longevity Via Salt
+  - **created** -> `_talks/bio-hacking-longevity-via-salt.md`
+- `ZluMysK2B1E` — BIL2012 - Mencius Moldbug: How to Reboot the US Government
+  - **created** -> `_talks/how-to-reboot-the-us-government.md`
+- `2_Hr2uAYHPc` — BIL2012 - Reid Mihalko: Reid About Sex
+  - **created** -> `_talks/reid-about-sex.md`
+- `AgcP3VkdQ-E` — Welcome to BIL 2012!
+  - **skipped** (not-a-talk): welcome/opening segment, no speaker identified
+- `2TkkRhPrhBo` — BIL2012 - Ray Podder: The New Abundant Energy Revolution & The Power of You
+  - **attached** -> `_talks/one-the-new-abundant-energy-revolution-the-power-of-you.md`
+- `Ho7WyIUwwIg` — BIL2012 - Mike Rose: Intuitive IQ, The Four Fundamentals of Success
+  - **created** -> `_talks/intuitive-iq-the-four-fundamentals-of-success.md`
+- `EvVoE9hHjUE` — BIL2012 - Micah Daigle: Upgrade Democracy
+  - **created** -> `_talks/upgrade-democracy.md`
+- `c-E6LX0UrGE` — BIL2012 - Matt Bell, Jean Rintoul, and Mike Minadeo: Three 5 Minute Talks
+  - **skipped** (multi-talk): one video spanning three 5-minute talks (Matt Bell, Jean Rintoul, Mike Minadeo); cannot attach one-to-one
+- `yAUjYGcreXU` — BIL2012 - Luke Nosek: Brain Training through Meditation
+  - **created** -> `_talks/brain-training-through-meditation.md`
+- `YfS37XreAa4` — BIL 2012.mov
+  - **skipped** (b-roll): raw footage file 'BIL 2012.mov'
+- `TOom_xOX1zE` — Welcome to BIL 2012!
+  - **skipped** (not-a-talk): duplicate welcome/opening segment
+- `KC0NQPJ50hQ` — BIL 2014'S (AND TED'S) EXCELLENT ADVENTURE ... TO VANCOUVER.
+  - **skipped** (b-roll): promo/recap about BIL+TED Vancouver, not a talk
+- `N2rXmnfdrgw` — John Bates: Communicating with Human Beings is Not Logical (It’s Biological)
+  - **attached** -> `_talks/communicating-with-human-beings-is-not-logical-it-s-biological.md`
+- `EBEfhKdmb9g` — John Smart: Your Personal Sim: The Brave New World of Smart Agents
+  - **attached** -> `_talks/your-personal-sim-the-brave-new-world-of-smart-agents.md`
+- `PyGufQnbJms` — Alex Lightman: Medical VR is VR’s Killer App
+  - **attached** -> `_talks/medical-vr-is-vr-s-killer-app.md`
+- `K3IE-orkWyM` — Julia Bossmann: Forecasting
+  - **attached** -> `_talks/forecasting-or-how-i-stopped-worrying-about-the-future-and-starting-th.md`
+- `I83ywM-zd4k` — Tom W. Bell: Ulex: An Open Source Legal System
+  - **attached** -> `_talks/ulex-an-open-source-legal-system.md`
+- `ekgSL_sO2Ic` — Maria Entraigues Abramson: The Fountain Of Youth - Come on in, the water’s fine!
+  - **attached** -> `_talks/the-fountain-of-youth-come-on-in-the-water-s-fine.md`
+- `yzkdKWVo1k4` — Christopher Spalding: Upside-down, Inside-out Solar Systems
+  - **attached** -> `_talks/upside-down-inside-out-solar-systems.md`
+- `PX5bes7z4Lg` — Dr. Aubrey de Grey: The Need to Dispel Longevity Sticker Shock
+  - **attached** -> `_talks/the-need-to-dispel-longevity-sticker-shock.md`
+- `SjhN-4txYj8` — Kevin Lew - Your Bleeding Heart is Not Enough: The Purpose and Pragmatics of Social Impact
+  - **attached** -> `_talks/your-bleeding-heart-is-not-enough-the-purpose-and-pragmatics-of-social.md`
+- `VbNSYQx12oA` — Raj Singh: What AI Actually Means For You
+  - **attached** -> `_talks/what-ai-actually-means-for-you.md`
+- `t_o3pfZKI0A` — Chris Vasquez: Hyperloop: 21st Century Transportation
+  - **attached** -> `_talks/hyperloop-21st-century-transportation.md`
+- `pbOPBmrxRso` — Tami Reiss: Be a Scientist
+  - **attached** -> `_talks/be-a-scientist.md`
+- `peWlgxqZFCg` — Sonya Lee: UX Your Life
+  - **attached** -> `_talks/ux-your-life.md`
+- `VKBuwgBbnAE` — Judy Frankel: The Future of Food: How to Secure a Healthier Agricultural Food System
+  - **attached** -> `_talks/the-future-of-food-how-to-secure-a-healthier-agricultural-food-system.md`
+- `LKapqCiKrJ0` — Todd White: Biohacked Wine : Kill Your Hangover
+  - **attached** -> `_talks/biohacked-wine-kill-your-hangover.md`
+- `56r0Qv4-h5s` — Rahul Sonnad: Autonomous Cars and the Coming Transportation Cloud
+  - **attached** -> `_talks/autonomous-cars-and-the-coming-transportation-cloud.md`
+- `XvPaPS6gm70` — D. Cotter: B2H: Brands’ Path To Success In Social Media
+  - **attached** -> `_talks/b2h-brands-path-to-success-in-social-media-finding-and-becoming-one-wi.md`
+- `L3jIZsHMhSo` — Eden Harman Bernardy: What Are You Afraid of? ‎Harness the Power of Fear
+  - **attached** -> `_talks/what-are-you-afraid-of.md`
+- `vreoYkjrM_M` — Sound Bath with Sonorous Cello & Otherworldly Chanting, by Mystic Pete
+  - **created** -> `_talks/sound-bath-with-sonorous-cello-and-otherworldly-chanting.md` (performance session; speaker Mystic Pete already on site (bil-flash-la-2015))
+- `hyPyeIxcWAk` — Pop Culture Hero Coalition: Anti-Bullying and Social Justice
+  - **skipped** (no-person): Pop Culture Hero Coalition is an organization; no individual speaker named
+- `8TiYESCeNNQ` — Alex Wormuth:  Data Saves Lives
+  - **attached** -> `_talks/data-saves-lives.md`
+- `NC5PvU_gPqw` — Belle Phénomène: Sexual Objectification of the Female Nipple
+  - **attached** -> `_talks/sexual-objectification-of-the-female-nipple.md`
+- `_ycgpfAIE1U` — Christine Peterson: Keynote: Long-term Relationships & Hookup Culture: Maximizing Human Happiness
+  - **attached** -> `_talks/long-term-relationships-hookup-culture-maximizing-human-happiness.md`
+- `_KGFe8S_Kgs` — Dezso Molnar
+  - **skipped** (no-talk-title): person only (Dezso Molnar); no talk title to record and no basis for subjects
+- `o3VQvQaSc08` — Darren Fujimoto: Successful Dating for Introverts & Intellectuals in the Technocentric Era
+  - **attached** -> `_talks/successful-dating-for-introverts-and-intellectuals-in-the-technocentri.md`
+- `R2EGRACxINw` — Evo Heyning: Love Maps: Interpersonal Relationships, Communication, Personal Growth
+  - **attached** -> `_talks/interpersonal-relationships-communication-personal-growth.md`
+- `8C22QM-icnA` — Glenn Sagon: How Emotional Marketing Is Impacting Business
+  - **attached** -> `_talks/how-emotional-marketing-is-impacting-business.md`
+- `nnAv7RrJv2Y` — Jason Bowers: Becoming a “Real Man”
+  - **attached** -> `_talks/a-real-man.md`
+- `4iHZJupnoWM` — Justin Dudek: How to Build a Better ‘You’ Using Old Family Photos
+  - **attached** -> `_talks/how-to-build-a-better-you-using-photographs.md`
+- `k-FkViRgQ10` — Troy Gardner: 10 Simple Ways for Better Coffee (aka. you are probably brewing coffee all wrong…)
+  - **attached** -> `_talks/10-simple-ways-for-better-coffee-aka-you-are-probably-brewing-coffee-a.md`
+- `6E61Wj-m3r8` — Stuart Sherman: Why Software Sucks
+  - **attached** -> `_talks/why-software-sucks.md`
+- `ueKYLiWFuRU` — Snohomish Brown: Helping the Body Heal Itself:  Applications of Qi Gong and Chinese medicine
+  - **attached** -> `_talks/helping-the-body-heal-itself-applications-of-qi-gong-and-chinese-medic.md`
+- `c5vbjQnxzEI` — Simmone Park: Trust Your Intuition and Face Your Fear
+  - **attached** -> `_talks/trust-your-intuition-and-face-your-fear.md`
+- `Mrgy3DhY70k` — Paul A. Spiegel: A Shamanic Nexus for Cancer Treatment
+  - **attached** -> `_talks/a-shamanic-nexus-for-cancer-treatment.md`
+- `HP0EoAnTqLI` — Mya Stark: Tinkering with Education: Teaching Kids How to Learn Like a Maker
+  - **attached** -> `_talks/tinkering-with-education-teaching-kids-how-to-learn-like-a-maker.md`
+- `Ee8a5Drc9_4` — Linda Maepa: The Future of Energy is Cybersecurity
+  - **attached** -> `_talks/the-future-of-energy-is-cybersecurity.md`
+- `jp2DjjrFNx8` — Kevin Russell: Optimism is our Responsibility
+  - **attached** -> `_talks/optimism-is-our-responsibility.md`
+- `YDHIHi8tbp8` — Isa Gordon: The Age of Distraction & the Future of Wearable Tech
+  - **attached** -> `_talks/the-age-of-distraction-the-future-of-wearable-tech.md`
+- `9jOsZwZ27Mo` — Bianca Nasser - Introducing Means To A friend
+  - **created** -> `_talks/introducing-means-to-a-friend.md`
+- `_GzPA9AnRqA` — BIL2015 - Scott Reynolds - Earthdrop Designs: Using Lasers to Create Art
+  - **created** -> `_talks/earthdrop-designs-using-lasers-to-create-art.md`
+- `99OeF8Ay1R8` — BIL2015 - Kachina Gosselin - (Underwater) Citizen Science
+  - **created** -> `_talks/underwater-citizen-science.md`
+- `y5ceq71msM8` — BIL2015 - David Resnick - Stutter Social
+  - **created** -> `_talks/stutter-social.md`
+- `BLhAOIO7GEM` — BIL 2013 Setup
+  - **skipped** (b-roll): setup footage
+- `sP_Ve-Jt-H8` — BIL 2013
+  - **skipped** (b-roll): attendee video, no talk identified
+- `9ER21VijVGE` — Interview with BIL Conference Co-Founder Todd Huffman
+  - **skipped** (interview): interview with co-founder Todd Huffman
+- `UjOgoWJ9-FQ` — Why I Came to BIL (LIVE FROM BIL)
+  - **skipped** (live-segment): 'LIVE FROM BIL' vox-pop segment
+- `f2Rz8wmFFCM` — Waldorf Education (LIVE FROM BIL)
+  - **skipped** (live-segment): 'LIVE FROM BIL' segment, no speaker identified
+- `XWdrevmikpA` — How we became best friends at BIL (LIVE FROM BIL)
+  - **skipped** (b-roll): attendee clip
+- `0Ga-rvLypNk` — Naughty Librarians at BIL (LIVE FROM BIL)
+  - **skipped** (b-roll): attendee clip
+- `f78r6LSb1_4` — Dr.Nuclear is a Mad Scientist (LIVE FROM BIL)
+  - **skipped** (live-segment): 'LIVE FROM BIL' persona clip, not a talk
+- `pmI2cV3mWXo` — Guilty Pleasures and the Creative Process, Pt. 2 - Karuna Tanahashi - BIL 2013
+  - **skipped** (multi-part): guilty-pleasures-and-the-creative-process.md already links wBaFjMQNo4g (Pt. 1 & 2); this is a Pt. 2 upload
+- `WXeIfcUqHlc` — BIL Convention 2011 Long Beach California
+  - **skipped** (b-roll): event footage of BIL 2011 Long Beach; no talk identified
+- `r4XKvRs1Src` — BIL 2012 - Lucien Vattel - Gamedesk [Hunter's Cam]
+  - **created** -> `_talks/gamedesk.md` (only a Hunter's Cam recording exists for this talk)
+- `ng90fwwWlIA` — BIL 2012 - Kai Chang - Jury Nullification [Main Feed]
+  - **attached** -> `_talks/understanding-the-purpose-of-jury-nullification-and-introducing-a-plan-to-spread.md`
+- `ljrgmIOoIfA` — BIL 2012 - Jonathan Toomin - Neuroscience [Hunter's Cam]
+  - **skipped** (alternate): Hunter's Cam angle of Toomin Neuroscience; Main Feed (VlDgO3sXQzc) attached to human-cognition-and-neurofeedback.md
+- `bqcu3UDSNjA` — BIL 2012 - Loretta Whitesides - Zero Gravity [Main Feed]
+  - **skipped** (possible-alternate): Loretta Whitesides 'Zero Gravity'; likely the session already covered by current-state-of-commercial-space-travel.md (has a link); cannot confirm as a distinct talk
+- `WfO24-FYnwg` — BIL 2012 - Google Hangout with Mike Rose
+  - **skipped** (interview): Google Hangout, remote interview
+- `WFY1eojtXpA` — BIL 2012 - Greg Gage - Backyard Brains [Hunter's Cam]
+  - **skipped** (alternate): Hunter's Cam angle of Greg Gage Backyard Brains; Main Feed (GmM2h1ukiHY) used for created talk backyard-brains.md
+- `VllucnRbHAM` — BIL 2012 - Isaiah Frizzell - Culinary Copyright and the Future of Fine Dining [Main Feed]
+  - **created** -> `_talks/culinary-copyright-and-the-future-of-fine-dining.md`
+- `VlDgO3sXQzc` — BIL 2012 - Jonathan Toomin - Neuroscience [Main Feed]
+  - **attached** -> `_talks/human-cognition-and-neurofeedback.md` (video labeled 'Neuroscience [Main Feed]'; Toomin's only bil-2012 talk)
+- `ImEt62_79aE` — BIL 2012 - Jaan Tallinn - Co-Founder Skype, Singularitarian [Main Feed]
+  - **attached** -> `_talks/p2p-technologies-and-future-software-development.md` (video labeled with speaker descriptor; Tallinn's only bil-2012 talk)
+- `GmM2h1ukiHY` — BIL 2012 - Greg Gage - Backyard Brains [Main Feed]
+  - **created** -> `_talks/backyard-brains.md` ([Main Feed] used; Hunter's Cam (WFY1eojtXpA) logged as alternate)
+- `G62ngxWMrGk` — BIL 2012 - John Roberts - Purpose Driven Education [Main Feed]
+  - **created** -> `_talks/purpose-driven-education.md`
+- `5vnT381731E` — BIL 2012 - Judd Weiss - Hustle Bear, Weiss Investments [Main Feed]
+  - **attached** -> `_talks/working-with-people-and-understanding-success.md` (video labeled 'Hustle Bear, Weiss Investments'; Weiss's only bil-2012 talk)
+- `5v5lG-Unp44` — BIL 2012 - Google Hangout with Reid and Allison
+  - **skipped** (interview): Google Hangout, remote interview
+- `57fFWxIcQXU` — BIL 2012 - John Spencer - Space Tourism Society [Main Feed]
+  - **attached** -> `_talks/orbital-super-yachts-and-space-tourism.md`
+- `42UliFPtbNI` — BIL 2012 - Rex Ridenoure
+  - **skipped** (no-talk-title): person only (Rex Ridenoure); no talk title
+- `pd9iIIecL0U` — BIL 2012 - Alexandros & Damian - Redesigning Heroism Part 2 [Main Feed]
+  - **skipped** (multi-part): Redesigning Heroism Part 2; Part 1 (YkjzAJ01Pg0) attached to redesigning-heroism.md
+- `hnNnxFKC3Ws` — BIL 2012 - Google Hangout With Graham Hill
+  - **skipped** (interview): Google Hangout, remote interview
+- `V4ONMMVx8EI` — BIL 2012 - Aubrey De Grey - SENS [Main Feed]
+  - **attached** -> `_talks/anti-aging-bioscience-research.md`
+- `TwtpiB9YKZc` — BIL 2012 - Google Hangout with Max
+  - **skipped** (interview): Google Hangout, remote interview
+- `Ts2Wuwt2ApU` — BIL 2012 - Google Hangout with Jaan Tallinn
+  - **skipped** (interview): Google Hangout, remote interview
+- `TaSX2jLwbiQ` — BIL 2012 - Google Hangout with Doctor Nuclear
+  - **skipped** (interview): Google Hangout, remote interview
+- `PX8TBw50Yio` — BIL 2012 - Google Hangout with Ben Thomas
+  - **skipped** (interview): Google Hangout, remote interview
+- `N6iwIj0qkt4` — BIL 2012 - Brad Templeton - The self-driving cars are here [Main Feed]
+  - **created** -> `_talks/the-self-driving-cars-are-here.md`
+- `MpFAp7z6h6E` — BIL 2012 - Google Hangout with Michael Lane
+  - **skipped** (interview): Google Hangout, remote interview
+- `J1sYIDESFto` — BIL 2012 - Carter Gibson - Preserving the Human Factor [Main Feed]
+  - **created** -> `_talks/preserving-the-human-factor.md` ([Main Feed] used; DgplXLO0DUo ('Retaining the Human Factor') logged as alternate)
+- `Ff5qAjY2I2o` — BIL 2012 - Chelsea Rustrum - A Shareable Life [Main Feed]
+  - **created** -> `_talks/a-shareable-life.md`
+- `75BLNljF7Js` — BIL 2012 - Google Hangout With Jerry Tran
+  - **skipped** (interview): Google Hangout, remote interview
+- `5RsMixnzf9E` — BIL 2012 - Google Hangout with Mike
+  - **skipped** (interview): Google Hangout, remote interview
+- `pEgOMCeHU18` — BIL 2012 Space stage - Michael Clive (2)
+  - **skipped** (no-talk-title): person only (Michael Clive, space stage, part 2); no talk title, no matching bil-2012 talk file
+- `nOd7YuQEfTM` — BIL 2012 - Josh Whiton - Autophagy, Life Extension
+  - **attached** -> `_talks/a-dietary-anti-aging-protocol.md` (video 'Autophagy, Life Extension' = Whiton's dietary anti-aging protocol talk)
+- `iwv9tJWo0FU` — BIL 2012 - Alan Minsky - Libertarian [Main Feed]
+  - **skipped** (no-talk-title): 'Libertarian' descriptor does not clearly identify Alan Minsky's talk
+- `YkjzAJ01Pg0` — BIL 2012 - Alexandros & Damian - Redesigning Heroism Part 1[Main Feed]
+  - **attached** -> `_talks/redesigning-heroism.md` (Part 1 of 2; Part 2 (pd9iIIecL0U) logged as multi-part)
+- `ArnwL48IhoI` — BIL 2012 Space stage - Luke Nosek
+  - **skipped** (no-talk-title): person only (Luke Nosek, space stage); distinct from his main-stage talk, no title to record
+- `6-vnxP18V9o` — BIL 2012 Space stage - George and Loretta Whitesides
+  - **skipped** (alternate): current-state-of-commercial-space-travel.md already links youtu.be/OTpfjrTRvx8; alternate recording
+- `-wFMbjhIwI4` — BIL 2012 Space stage - Loretta Whitesides
+  - **skipped** (no-talk-title): person only (Loretta Whitesides, space stage); no talk title, possible overlap with existing linked talk
+- `48o5YCbcEas` — BIL2012 - Michael Keenan: Seasteading
+  - **attached** -> `_talks/floating-societies-and-establishing-new-goals.md` (video 'Seasteading' = Keenan's floating-societies talk (same topic))
+- `7MV_GbHW11k` — BIL 2012 - Jesse Clark - Space stage
+  - **skipped** (no-talk-title): person only (Jesse Clark, space stage); no talk title, no matching talk file
+- `dzmtdSSaF6M` — BIL 2012 - Kyle Cothern - Space stage
+  - **skipped** (no-talk-title): person only (Kyle Cothern, space stage); no talk title, no matching talk file
+- `9u6LnT14-Js` — BIL 2012 - Christie Dudley - Space stage
+  - **skipped** (no-talk-title): person only (Christie Dudley, space stage); no talk title, no matching talk file
+- `3I0BYj8tuLs` — BIL 2012 - Rex Ridenoure - Space stage
+  - **skipped** (no-talk-title): person only (Rex Ridenoure, space stage); no talk title, no matching talk file
+- `J0EquRPM6H0` — BIL 2012 - Doug Jones - Space stage
+  - **attached** -> `_talks/rockets-design-and-creation.md` (space-stage video; Jones's only bil-2012 talk (rockets))
+- `YMBLwiYod0k` — BIL 2012 - Michael Clive - Space stage
+  - **skipped** (no-talk-title): person only (Michael Clive, space stage); no talk title, no matching talk file
+- `4VmMD0fWL3Q` — BIL 2012 - Zach Urbina - Space stage
+  - **attached** -> `_talks/electrodynamic-tethers-space-debris-and-the-future-of-low-earth-orbit.md` (space-stage video; Urbina's only bil-2012 talk (space debris))
+- `sPInpNHUmjw` — BIL 2012- Rand Simberg- Space stage
+  - **attached** -> `_talks/space-transportation-and-future-possibilities.md` (space-stage video; Simberg's only bil-2012 talk (space transportation))
+- `pX5YJHbrKDM` — BIL 2012 - Alex Peake - Code is Literacy
+  - **created** -> `_talks/code-is-literacy.md`
+- `DgplXLO0DUo` — BIL2012 - Retaining the Human Factor (Carter Gibson, BIL 2012)
+  - **skipped** (alternate): 'Retaining the Human Factor' = same Carter Gibson talk; Main Feed (J1sYIDESFto) used for created preserving-the-human-factor.md
+- `W1aO4UwNkD4` — Welcome to BIL 2012
+  - **skipped** (not-a-talk): welcome/opening segment
+- `md_CvmWDi-4` — BIL - LA 2018 - Sunday, Part 3
+  - **skipped** (live-stream): full-day live stream recording (LA 2018)
+- `RJhI6YZTMA0` — BIL Los Angeles 2016  - Day 2 – LIVE
+  - **skipped** (live-stream): full-day live stream recording (LA 2016)
+- `NliCZ0R7VE8` — BIL LA 2016 - DAY 1
+  - **skipped** (live-stream): full-day live stream recording (LA 2016)
