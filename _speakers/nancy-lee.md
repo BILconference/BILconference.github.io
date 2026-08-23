@@ -1,4 +1,5 @@
 ---
+photo: /media/2017/04/Nancy-Lee.jpg
 title: Nancy Lee
 slug: nancy-lee
 date: '2017-04-28 00:29:33'
