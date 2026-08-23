@@ -19,117 +19,19 @@ organizers:
 - name: Haree Prasaad
   slug: haree-prasaad
   duties: Founder & President, BIL India
-sections:
-- subject: Speakers
-  info: '[![](/media/2017/05/1a.jpg)](/media/2017/05/1a.jpg)
-
-
-    ## [**Prateep V. Philip IPS**](https://www.facebook.com/DrPrateep-V-Philip-IPS-408550692531690/)
-
-
-    ADGP, ECONOMIC OFFENCE WING CHENNAI
-
-
-    [![](/media/2017/05/10A.jpg)](/media/2017/05/10A.jpg)
-
-
-    ## [**Santhosh Babu IAS**](http://www.santhoshbabu.org/)
-
-
-    CHAIRMAN & MANAGING DIRECTOR, TAMILNADU HANDICRAFT DEVELOPMENT CORPORATION
-
-
-    [![](/media/2017/05/5A.jpg)](/media/2017/05/5A.jpg)
-
-
-    ## **[Agnishwar Jayaprakash](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwjO_rXsmMLUAhVJuY8KHfMKBHcQFggqMAE&url=https%3A%2F%2Fwww.facebook.com%2Fagnishwarj&usg=AFQjCNGRo0qLDzlMmtIJJNK_vHB5ZXa3BQ&sig2=kbqHRkLWTpY9KLR3QEORJQ)**
-
-
-    FOUNDER IGNITE-INDIA, AGNI FOUNDATION & AEDX.VICE CHAIRMAN AGNI COLLEGE OF TECHNOLOGY
-
-
-    [![](/media/2017/05/9.jpg)](/media/2017/05/9.jpg)
-
-
-    ## **[Jhon Arokiasamy](https://www.facebook.com/profile.php?id=701840548)**
-
-
-    FOUNDER, PERSONA LEADERSHIP
-
-
-    [![](/media/2017/05/8.jpg)](/media/2017/05/8.jpg)
-
-
-    ## **D SAKTHI**
-
-
-    ### [The Healer](https://www.facebook.com/thehealerfoundation/?ref=page_internal)[Foundatio](https://www.facebook.com/thehealerfoundation/?ref=page_internal)[n](https://www.facebook.com/thehealerfoundation/?ref=page_internal)
-    FOUNDER & CEO, THE HEALER FOUNDATION
-
-
-    [![](/media/2017/05/12.jpg)](/media/2017/05/12.jpg)
-
-
-    ## **T.N.S.MURUGADOSS THIRTHAPATHI**
-
-
-    ### [Singampatti Zamin / Singampatti Samasthanam /சிங்கம்பட்டி ஜமீன்](https://www.facebook.com/SingampattiSamasthanam/?ref=page_internal)
-    KING OF SINGAMPATTI
-
-
-    [![](/media/2017/05/6A.jpg)](/media/2017/05/6A.jpg)
-
-
-    ## **[Vivek Karwa](https://www.facebook.com/vkarwa?hc_ref=NEWSFEED&fref=nf)**
-
-
-    FINANCIAL PLANNER & WEALTH MANAGER
-
-
-    [![](/media/2017/05/4B.jpg)](/media/2017/05/4B.jpg)
-
-
-    ## **[Samuel Eddy](https://www.facebook.com/sjseddy?ref=br_rs&hc_ref=SEARCH&fref=nf)**
-
-
-    FOUNDER, SAM GLOBAL
-
-
-    [![](/media/2017/05/7.jpg)](/media/2017/05/7.jpg)
-
-
-    ## **[Sagarikka](https://www.facebook.com/Sagarikka/?ref=br_rs&hc_ref=SEARCH)**
-
-
-    AUTHOR, MY UNSKOOLED YEAR
-
-
-    [![](/media/2017/05/2.jpg)](/media/2017/05/2.jpg)
-
-
-    ## **[Balaji Lakshmanan](https://in.linkedin.com/in/balajilakshmanan)**
-
-
-    FOUNDER & CEO, GEEKY TECHNOLOGY & CONSULTING
-
-
-    [![](/media/2017/05/images-6_1.jpg)](/media/2017/05/images-6_1.jpg)
-
-
-    ## **M S SHIVAKUMAR**
-
-
-    ### [http://www.action2020.in/2016/02/astrology-can-never-go-wrong-astrologer.html](http://www.action2020.in/2016/02/astrology-can-never-go-wrong-astrologer.html)
-    VICE PRESIDENT BHAWAN LEARNING & DEVELOPMENT
-
-
-    [![](/media/2017/05/3.jpg)](/media/2017/05/3.jpg)
-
-
-    ## **[Vipin Jacob](https://in.linkedin.com/in/vipin-jacob-b1719022)**
-
-
-    FOUNDER & CEO, AVANCER SOFTWARE SOLUTION'
+speakers:
+- prateep-v-philip-ips
+- santhosh-babu-ias
+- agnishwar-jayaprakash
+- jhon-arokiasamy
+- d-sakthi
+- t-n-s-murugadoss-thirthapathi
+- vivek-karwa
+- samuel-eddy
+- sagarikka
+- balaji-lakshmanan
+- m-s-shivakumar
+- vipin-jacob
 ---
 
 **TIME ZONE**

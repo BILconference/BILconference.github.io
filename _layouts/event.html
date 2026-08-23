@@ -30,6 +30,24 @@ layout: default
   </section>
   {% endfor %}
 
+  {% if page.speakers %}
+  <section class="event-section">
+    <h2>Speakers</h2>
+    <div class="people-grid">
+      {% for s_slug in page.speakers %}
+      {% assign sp = site.speakers | where: "slug", s_slug | first %}
+      {% if sp %}
+      <a class="person" href="{{ sp.url | relative_url }}">
+        <img src="{{ sp.photo | default: '/assets/img/blank-person.png' | replace: '/media/', '/media/thumbs/' | relative_url }}" alt="{{ sp.title }}" loading="lazy">
+        <span>{{ sp.title }}</span>
+        {% if sp.association %}<small>{{ sp.association | truncate: 60 }}</small>{% endif %}
+      </a>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
   {% assign talks = site.talks | where: "event", page.slug | sort: "title" %}
   {% if talks.size > 0 %}
   <section class="event-section">
