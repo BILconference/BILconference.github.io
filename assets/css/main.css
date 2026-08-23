@@ -70,6 +70,16 @@ img { max-width: 100%; height: auto; }
 }
 .filter-count { color: var(--muted); font-size: 0.9rem; }
 
+/* disclosure under AI-assisted bios */
+.ai-note {
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-style: italic;
+  border-top: 1px solid var(--rule);
+  padding-top: 0.5rem;
+  margin-top: 1.25rem;
+}
+
 /* ── Navbar: solid BIL blue, bold white links, navy hover ── */
 .site-header {
   background: var(--blue);

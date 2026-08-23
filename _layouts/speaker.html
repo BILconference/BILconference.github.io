@@ -21,6 +21,11 @@ layout: default
 <article class="page page-body profile">
   {% assign body = content | strip %}
   {% if body != "" %}{{ content }}{% endif %}
+  {% if page.bio_ai %}
+  <p class="ai-note">This biography was compiled with the help of AI from public
+    sources for the archive{% if page.bio_sources %} (<a href="{{ page.bio_sources | first }}">source</a>){% endif %}.
+    <a href="https://github.com/BILconference/BILconference.github.io/issues">Corrections welcome</a>.</p>
+  {% endif %}
 
   {% if page.talk_description %}
   <section class="event-section">
