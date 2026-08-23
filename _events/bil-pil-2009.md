@@ -13,6 +13,42 @@ contact_name: Jonathan Sheffi
 facebook: https://www.facebook.com/BILPIL
 twitter: https://twitter.com/bilpil
 ticketing: http://bilpil2009.eventbrite.com/
+speakers:
+- joe-trippi
+- jason-hwang
+- philip-steven-low
+- stephen-h-friend
+- aubrey-de-grey
+- daniel-kraft
+- david-rosenman
+- ben-goertzel
+- val-jones
+- david-williams
+- alexandra-carmichael
+- jen-s-mccabe
+- scott-johnson
+- jay-drayer
+- ash-damle
+- michael-weiner
+- chia-hwu
+- robert-stern
+- david-hale
+- kristi-miller-durazo
+- marya-zilberberg
+- guido-nunez-mujica
+- tyler-willis
+- kimberly-barr
+- brent-pottenger
+- ryan-howard
+- juhan-sonin
+- paul-to
+- beth-anne-baber
+- greg-fong
+- ozzie-gooen
+- daniel-lubarov
+- ben-jones
+- andrew-hessel
+- jonathan-sheffi
 ---
 
 BIL:PIL is an unconference for people changing the world in big ways. It's a place for passionate people to come together to energize, brainstorm, and take action. We invite you to bring your world into ours this October in San Diego.

@@ -9,4 +9,9 @@ end_date: '2012-09-30'
 year: 2012
 country: TN
 location: Tunis, Tunisia
+speakers:
+- ahmed-zairi
+- sonia-barbari
+- ali-nasr
+- majdi-calboussi
 ---

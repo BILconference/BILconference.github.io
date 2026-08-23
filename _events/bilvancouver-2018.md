@@ -8,7 +8,7 @@ logo: /media/2018/04/30226502_10160233367515055_683509509326372864_o.jpg
 start_date: '2018-04-13'
 end_date: '2018-04-14'
 year: 2018
-country: AF
+country: CA
 contact: vancouver@bilconference.com
 facebook: https://www.facebook.com/BILVancouver/
 facebook_event: https://www.facebook.com/events/231959480701983/
