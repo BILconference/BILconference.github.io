@@ -441,6 +441,19 @@ hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
   font-size: 0.9rem;
   cursor: default;
 }
+.backronym-shuffle {
+  background: none;
+  border: none;
+  color: var(--blue-light);
+  font-size: 1rem;
+  line-height: 1;
+  padding: 0 0.4rem;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: transform 0.25s ease, opacity 0.15s ease;
+}
+.backronym-shuffle:hover, .backronym-shuffle:focus { opacity: 1; }
+.backronym-shuffle:active { transform: rotate(180deg); }
 .site-footer a { color: var(--blue-light); }
 .archive-note { font-size: 0.8rem; opacity: 0.8; }
 .footer-nav {

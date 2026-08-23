@@ -69,7 +69,21 @@
       var el = document.querySelector(".bil-backronym");
       if (!el) return;
       function pick(list) { return list[Math.floor(Math.random() * list.length)]; }
-      el.textContent = pick(words.b) + ". " + pick(words.i) + ". " + pick(words.l) + ".";
+      var text = document.createElement("span");
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "backronym-shuffle";
+      btn.textContent = "↻";
+      btn.title = "Shuffle";
+      btn.setAttribute("aria-label", "Shuffle the words");
+      function shuffle() {
+        text.textContent = pick(words.b) + ". " + pick(words.i) + ". " + pick(words.l) + ".";
+      }
+      btn.addEventListener("click", shuffle);
+      el.textContent = "";
+      el.appendChild(text);
+      el.appendChild(btn);
+      shuffle();
     })();
 
     (function () {
